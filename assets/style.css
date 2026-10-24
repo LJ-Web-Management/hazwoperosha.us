@@ -279,9 +279,10 @@ ul.todo li::before { content: ""; display: inline-block; width: 15px; height: 15
   .hero-grid, .cols, .course-hero, .footer-grid, .guide-layout { grid-template-columns: minmax(0, 1fr); }
   .buy, .guide-side, .summary { position: static; }
   header nav a:not(.nav-phone):not(.nav-cart) { display: none; }
+  .header-row { padding-top: 10px; }
   .site-search { order: 4; flex-basis: 100%; max-width: none; padding-bottom: 12px; }
   .wm-text { font-size: 1.3rem; }
-  .wm-mark { width: 32px; height: 29px; }
+  .wm-mark { width: 34px; height: 26px; }
   .nav-phone { font-size: .9rem !important; margin-left: 10px !important; }
   .nav-cart { margin-left: 10px !important; }
   .search { justify-content: flex-start; }
