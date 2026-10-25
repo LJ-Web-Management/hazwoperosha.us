@@ -296,3 +296,17 @@ ul.todo li::before { content: ""; display: inline-block; width: 15px; height: 15
 @media (max-width: 420px) {
   .nav-phone { display: none; }
 }
+
+/* crew training planner */
+.tool-page .lead { max-width: 70ch; }
+.planner .table-wrap { position: relative; }
+.planner table { min-width: 680px; }
+.planner td { vertical-align: middle; }
+.planner td a { color: var(--ink); }
+.plan-qty { width: 96px; font-weight: 700; font-size: 1.05rem; }
+.plan-summary { margin: 28px 0 8px; background: var(--paper); border: 2px solid var(--ink); padding: 22px; box-shadow: 8px 8px 0 var(--orange); }
+.plan-summary h2 { font-size: 1.8rem; }
+.plan-summary table { min-width: 520px; background: #fff; }
+.plan-summary tfoot th { background: var(--ink); color: #fff; font-size: 1.15rem; }
+#planTotal { color: var(--orange); font-size: 1.5rem; text-align: left; }
+.plan-actions { display: flex; flex-wrap: wrap; gap: 14px; margin: 18px 0 6px; }

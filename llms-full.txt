@@ -2,1371 +2,589 @@
 
 > Source: https://lj-web-management.github.io/hazwoperosha.us/ . Courses: https://lj-web-management.github.io/hazwoperosha.us/#courses . Contact: sales@hazwoper-osha.com, +1-866-429-6742.
 
-## What Is HAZWOPER? The Complete Guide to OSHA 29 CFR 1910.120
+## HAZWOPER Training by Industry: Which Courses Each Crew Needs
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/what-is-hazwoper/
+URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-training-by-industry/
 
-HAZWOPER stands for Hazardous Waste Operations and Emergency Response. It is the OSHA standard at 29 CFR 1910.120 (repeated word for word for construction at 29 CFR 1926.65) that sets safety, health and training rules for people who clean up hazardous waste, work at hazardous waste treatment, storage and disposal facilities, or respond to releases of hazardous substances. OSHA published the final rule in 1989 under the Superfund Amendments and Reauthorization Act (SARA).
+HAZWOPER isn't one course. It's a set of training levels matched to what each worker does. Here's the course mix employers in common industries usually need. Use it as a starting point, then check each role against your own site safety and health plan and emergency response plan. To turn it into an order, use the {{page:crew-training-planner|crew training planner}}.
 
-### Who HAZWOPER applies to
+### Environmental consulting and remediation
 
-Paragraph (a)(1) of the standard lists five groups of operations:
+- Field technicians, samplers, drillers and remediation crews: OSHA 40 Hour HAZWOPER for Environmental Remediation or the standard OSHA 40 Hour HAZWOPER Training
 
-- Government-required cleanups at uncontrolled hazardous waste sites, including EPA Superfund (CERCLA) sites and state priority sites.
+- Surveyors and staff on site briefly for limited tasks: OSHA 24 Hour HAZWOPER Training
 
-- RCRA corrective actions at facilities regulated under the Resource Conservation and Recovery Act.
+- Project managers and site leads: add OSHA 8 Hour HAZWOPER Supervisor Training
 
-- Voluntary cleanups at sites recognized by a federal, state, local or other government body as uncontrolled hazardous waste sites.
+- Everyone, every year: OSHA 8 Hour HAZWOPER Refresher Training
 
-- Operations at RCRA treatment, storage and disposal (TSD) facilities regulated under 40 CFR Parts 264 and 265.
+### Construction on contaminated sites
 
-- Emergency response to releases, or substantial threats of releases, of hazardous substances, wherever the hazard occurs.
+- Laborers, equipment operators and demolition crews on cleanup sites (29 CFR 1926.65): OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)
 
-That last group is the one people miss. A chemical plant, warehouse, hospital, utility, refinery, fire department or water treatment plant that expects its employees to respond to a spill is covered by HAZWOPER's emergency response rules in paragraph (q), even though it never touches a cleanup site.
+- Trades that visit occasionally, in characterized low-exposure areas: OSHA 24 Hour HAZWOPER Training
 
-### HAZWOPER training levels
+- Superintendents and foremen: OSHA 8 Hour HAZWOPER Supervisor Training
 
-Training hours depend on what the worker does and how much exposure they may have. The main levels are:
+### Oil and gas, and spill response contractors
 
-Level | Who | Initial training | Reference | 
+- Spill response technicians: OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response
 
-40 Hour | General site workers (laborers, equipment operators, remediation technicians) who may be exposed at or above permissible exposure limits | 40 hours off site + 3 days supervised field experience | 1910.120(e)(3)(i) | 
+- Crews who deploy containment equipment: Spill Response Equipment - Absorbent & Containment Booms and OSHA Spill Prevention and Response Safety Training
 
-24 Hour | Occasional site workers, and workers in fully monitored areas below exposure limits who don't need respirators | 24 hours off site + 1 day field experience | 1910.120(e)(3)(ii)-(iii) | 
+- Response leaders: OSHA 8 Hour HAZWOPER (q) Incident Command Training
 
-8 Hour Supervisor | On-site managers and supervisors | Their 40 or 24 hour training + 8 more hours | 1910.120(e)(4) | 
+### Utilities and pipelines
 
-8 Hour Refresher | Everyone trained at the 40 or 24 hour level | 8 hours every year | 1910.120(e)(8) | 
+- Emergency response crews: OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response
 
-TSD Facility | Employees at RCRA treatment, storage and disposal facilities | 24 hours + 8 hours each year | 1910.120(p)(7) | 
+- Field staff who may discover a leak and must report it: OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
-Emergency response | Awareness, operations, technician, specialist, incident commander | Competency-based, from awareness to 24+ hours | 1910.120(q)(6) | 
+- Gas detection: OSHA Air Monitoring and Gas Detection Training
 
-Not sure which applies to you? Read 40 vs 24 vs 8 Hour HAZWOPER: which training do you need.
+### Manufacturing and chemical plants
 
-### What HAZWOPER training covers
+- Plant emergency response team members: Manufacturing Emergency Response Team (ERT) Training
 
-Under 1910.120(e)(2), initial training has to cover:
+- All other employees who could witness a release: OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
-- The names of personnel and alternates responsible for site safety and health
+- Ammonia refrigeration sites: OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training
 
-- Safety, health and other hazards present on the site
+- Waste accumulation staff: RCRA Hazardous Waste Generator Training
 
-- Use of personal protective equipment (PPE levels A, B, C and D)
+If the plan is to evacuate and call outside responders, rather than have employees respond, an emergency action plan under 1910.38 may apply instead of HAZWOPER paragraph (q). See building a training program.
 
-- Work practices that minimize risk
+### Waste management and TSD facilities
 
-- Safe use of engineering controls and equipment on the site
+- Operators at permitted treatment, storage and disposal facilities: OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training, then OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training every year
 
-- Medical surveillance requirements, including recognition of symptoms and signs of overexposure
+- Staff who sign manifests: Hazardous Waste Manifest Training. DOT hazmat training is also needed at least every three years
 
-- The contents of the site safety and health plan
+- Technicians handling a range of wastes: OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training
 
-In practice, a 40-hour course also teaches toxicology and routes of exposure, exposure limits, air monitoring, site control and work zones, decontamination, confined spaces, drum handling, spill containment and emergency procedures.
+### Hospitals, laboratories and universities
 
-### The written programs HAZWOPER requires
+- Lab and facilities staff who manage waste: RCRA Hazardous Waste Generator Training and Hazardous Waste Satellite Accumulation Area Training
 
-Training is only one part of the standard. Employers running cleanup operations also need:
+- Battery, lamp and mercury equipment handlers: RCRA Universal Waste Handler Training
 
-- A written safety and health program (paragraph b) with an organizational structure, work plan and a site-specific safety and health plan
+- Large quantity generator emergency coordinators: Hazardous Waste Contingency Plan and Emergency Coordinator Training
 
-- Site characterization and analysis before entry (c)
+### Fire departments and HAZMAT teams
 
-- Site control, including a site map, work zones and the buddy system (d)
+- HAZMAT team members: OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams
 
-- Medical surveillance for workers exposed above limits, respirator users and HAZMAT team members (f)
+- Incident commanders: OSHA 8 Hour HAZWOPER (q) Incident Command Training and the combined 8 Hour HAZWOPER and Incident Command Refresher Training
 
-- Engineering controls, work practices and PPE (g)
+- Public-sector employers should also read HAZWOPER for public employees and volunteers
 
-- Air monitoring (h)
+### Warehousing, distribution and logistics
 
-- Decontamination procedures (k)
+- Workers who may find leaking packages: OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
-- An emergency response plan (l for cleanup sites, q for other employers)
+- Spill kit users: Spill Response Equipment - Spill Kit Selection & Use
 
-### Emergency response under paragraph (q)
-
-Employers whose employees respond to hazardous substance releases need a written emergency response plan, an incident command system, and responders trained to the level of their duties. The five levels run from first responder awareness (people who discover a release and call it in) to on-scene incident commander. See HAZWOPER emergency response training levels for the hours and competencies each one needs.
-
-### Is online HAZWOPER training valid?
-
-Yes, for the classroom portion. OSHA has said in interpretation letters that computer-based training can meet part of the requirement when it covers the required topics and trainees can reach a qualified trainer with questions. It does not replace the supervised field experience the 40 and 24 hour levels need, or hands-on practice with the PPE and equipment a worker will use. Employers stay responsible for site-specific training and field days.
-
-### How to get started
-
-- Work out your training level from your duties and likely exposure.
-
-- Complete the online course and final exam. Your certificate and wallet card are available as soon as you pass.
-
-- Complete supervised field experience with your employer (40 and 24 hour levels).
-
-- Take the 8 hour refresher every 12 months to stay current.
-
-Want to check what you know first? Take the free HAZWOPER practice test.
+- Staff who ship hazardous waste: EPA RCRA/DOT Combined Hazardous Materials Compliance Training
 
 ### FAQ
 
-- **What does HAZWOPER stand for?** HAZWOPER stands for Hazardous Waste Operations and Emergency Response, the OSHA standard at 29 CFR 1910.120 and 29 CFR 1926.65.
-- **Is HAZWOPER a certification or a license?** HAZWOPER is a training requirement, not a government license. After training, the trainer issues a written certificate (1910.120(e)(7)) showing the worker completed the required training. OSHA does not issue HAZWOPER cards itself.
-- **What is the difference between 1910.120 and 1926.65?** The text is identical. 29 CFR 1910.120 applies to general industry and 29 CFR 1926.65 applies to construction work, such as demolition or excavation on a hazardous waste site.
+- **Do all employees at a chemical plant need HAZWOPER?** Not the full 40 hours. Employees who could witness or discover a release usually need first responder awareness training; emergency response team members need training for their response level; and plants that evacuate and rely on outside responders may follow an emergency action plan instead.
+- **Which HAZWOPER course do environmental consultants need?** Field staff working on cleanup sites generally need 40 hours plus supervised field experience, project leads add the 8 hour supervisor course, and everyone takes the 8 hour refresher every year.
+- **Do hospitals and labs need HAZWOPER?** Usually they need EPA RCRA hazardous waste training for waste handlers, and HAZWOPER awareness or emergency response training only if employees are expected to respond to releases.
 
-Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 24 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
+Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
 ---
 
-## 40 vs 24 vs 8 Hour HAZWOPER: Which Training Do You Need?
+## OSHA State Plans and HAZWOPER: Which Rules Apply to Your Crew
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/which-hazwoper-course-do-i-need/
+URL: https://lj-web-management.github.io/hazwoperosha.us/guides/osha-state-plans-and-hazwoper/
 
-The number of hours of HAZWOPER training you need depends on two things: what you do on site and how much exposure you may have. Here is how OSHA 29 CFR 1910.120(e)(3) sorts workers.
+The OSH Act lets states run their own occupational safety and health programs, called state plans, as long as they are at least as effective as federal OSHA. Where you send a crew decides which agency enforces HAZWOPER and which version of the rule applies.
 
-### 40 hour HAZWOPER
+### Three situations
 
-Required for general site workers at uncontrolled hazardous waste sites who are exposed, or may be exposed, to hazardous substances at or above permissible exposure limits, or who need respirators. Typical roles: laborers, heavy equipment operators, drillers, remediation technicians, sampling crews and environmental field staff.
+Situation | Private employers | State and local government employees | 
 
-- 40 hours of instruction off the site
-- Plus at least 3 days of actual field experience under a trained, experienced supervisor
-Industry versions cover the same 40 hours with scenarios from your field: construction, environmental remediation, oil and gas spill response, fire and HAZMAT teams and utility and pipeline. It is also offered in Spanish.
+Federal OSHA state | Federal OSHA, 29 CFR 1910.120 / 1926.65 | Not covered by OSHA; EPA's 40 CFR Part 311 applies HAZWOPER to them | 
 
-### 24 hour HAZWOPER
+State plan covering private and public employers | State agency enforces the state's HAZWOPER rule | State agency | 
 
-Required for two groups:
+Public-employee-only state plan | Federal OSHA | State agency | 
 
-- Occasional site workers on site for a specific, limited task (for example, groundwater monitoring, land surveying or geophysical surveying) who are unlikely to be exposed above permissible exposure limits
+### States with plans covering private employers
 
-- Workers regularly on site in areas that are monitored and fully characterized, where exposures are below permissible limits and respirators are not needed, and the characterization shows no health hazards or possibility of an emergency
+Alaska, Arizona, California, Hawaii, Indiana, Iowa, Kentucky, Maryland, Michigan, Minnesota, Nevada, New Mexico, North Carolina, Oregon, Puerto Rico, South Carolina, Tennessee, Utah, Vermont, Virginia, Washington and Wyoming run plans that cover most private-sector workplaces as well as public employers. Plans can change, so check OSHA's state plan page before relying on this list.
 
-Plus at least 1 day of field experience under a trained, experienced supervisor. Workers at RCRA TSD facilities also need 24 hours under 1910.120(p).
+### Public-employee-only plans
 
-### Upgrading from 24 to 40 hours
+Several states and territories, including Connecticut, Illinois, Maine, New Jersey, New York and the U.S. Virgin Islands, run plans that cover only state and local government workers. Private employers there fall under federal OSHA.
 
-A 24-hour worker who becomes a general site worker, or who has to wear a respirator, needs the additional 16 hours and 2 days of training to reach the 40-hour level (1910.120(e)(3)(iv)). Many people take the full 40 hour course so they are qualified for any site role from the start.
+### How different are state HAZWOPER rules?
 
-### 8 hour refresher
+Most state plans adopt HAZWOPER word for word or with minor changes, so the training content is the same. The differences that matter most to employers:
 
-Everyone trained at the 40 or 24 hour level needs 8 hours of refresher training every year (1910.120(e)(8)). The 8 hour HAZWOPER refresher reviews core topics and covers relevant changes, recent incidents and lessons learned. Details: HAZWOPER refresher requirements.
+- California enforces Title 8 CCR 5192 through Cal/OSHA, and California clients and agencies often ask for Cal/OSHA-labeled certificates: Cal/OSHA 40-Hour HAZWOPER Training (2026), Cal/OSHA 24-Hour HAZWOPER Training and Cal/OSHA 8-Hour HAZWOPER Refresher Training.
 
-### 8 hour supervisor
+- Washington, Oregon, Michigan and others publish their own rule numbers and sometimes add requirements. A state-plan refresher is available.
 
-On-site managers and supervisors directly responsible for, or who supervise, employees in hazardous waste operations need the same initial training as their workers plus at least 8 additional hours on managing the employer's safety and health program, PPE program, spill containment program and health hazard monitoring (1910.120(e)(4)). Take the 8 hour supervisor course once; the annual refresher still applies, and a supervisor refresher is available.
+- Some states have related rules that affect HAZWOPER work, such as state heat illness standards or California's Injury and Illness Prevention Program requirement.
 
-### Quick decision table
+### Crews that work in more than one state
 
-If you... | You need | 
+- Train to the federal standard as the baseline. Add the state version for states where clients or regulators expect it, most often California.
 
-Work hands-on at a cleanup site with possible exposure above limits or respirator use | 40 Hour + 3 field days | 
+- Check each client's contract: many specify the certificate type they'll accept.
 
-Visit a site occasionally for a limited task with low exposure | 24 Hour + 1 field day | 
-
-Work at a RCRA treatment, storage or disposal facility | 24 Hour RCRA TSD | 
-
-Already have 40 or 24 hour training | 8 Hour Refresher every year | 
-
-Supervise hazardous waste operations | Initial training + 8 Hour Supervisor | 
-
-May discover a release and must call it in | First Responder Awareness | 
-
-Work in California | Cal/OSHA HAZWOPER (8 CCR 5192) |
+- Keep one training record per worker that shows every course and its regulatory basis. See training records for employers.
 
 ### FAQ
 
-- **Can I take the 24 hour course instead of the 40 hour?** Only if your duties match 1910.120(e)(3)(ii) or (iii): occasional work for a limited task, or regular work in monitored, characterized areas below exposure limits without respirators. If you may be exposed above limits or wear a respirator, you need 40 hours.
-- **Does 40 hour HAZWOPER include the 24 hour?** Yes. Someone trained at the 40-hour level meets the 24-hour requirement as well. Both groups then take the same 8-hour annual refresher.
-- **Do I need the 3 days of field experience if I train online?** Yes. The field experience is separate from the 40 hours of instruction and must be completed on site under a trained, experienced supervisor, usually arranged by your employer.
+- **Which states have OSHA state plans?** Plans covering private employers include Alaska, Arizona, California, Hawaii, Indiana, Iowa, Kentucky, Maryland, Michigan, Minnesota, Nevada, New Mexico, North Carolina, Oregon, Puerto Rico, South Carolina, Tennessee, Utah, Vermont, Virginia, Washington and Wyoming. Several others cover public employees only. Check OSHA's state plan page for the current list.
+- **Is federal HAZWOPER training accepted in state-plan states?** Usually the content is the same, since state rules must be at least as effective as federal OSHA. California crews and clients often require Cal/OSHA-specific certificates.
+- **Who enforces HAZWOPER for city and county workers in federal OSHA states?** EPA's 40 CFR Part 311 applies the HAZWOPER standard to state and local government employees in states without an OSHA-approved state plan.
 
-Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 24 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
+Related courses: 8 Hour HAZWOPER Refresher - State-Plan Versions Available (https://lj-web-management.github.io/hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available/); Cal/OSHA 40-Hour HAZWOPER Training (2026) (https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/); Cal/OSHA 8-Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/)
 
 ---
 
-## HAZWOPER 8 Hour Refresher Requirements: Deadlines, Lapses and Records
+## HAZWOPER for Public Employees and Volunteers (EPA 40 CFR Part 311)
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-refresher-requirements/
+URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-for-public-employees-and-volunteers/
 
-Workers trained at the 40 or 24 hour HAZWOPER level must complete at least 8 hours of refresher training every year. The rule is 29 CFR 1910.120(e)(8) for cleanup sites and (p)(7)(ii) for TSD facilities. Emergency responders under paragraph (q)(8) need annual refresher training of enough content and length to keep their competencies, or must show their competency each year.
+Federal OSHA covers private employers and federal agencies, but not state and local governments. That leaves a gap for city fire departments, county public works crews and other public employees who respond to chemical releases or work on contaminated sites. Two rules fill it.
 
-### When the refresher is due
+### In states with a state plan
 
-OSHA says "annually," which employers usually track as within 12 months of the last training date. Most companies set a recurring reminder from the date on the last certificate, and many schedule refreshers a month early to leave room for scheduling problems.
+Every OSHA-approved state plan covers state and local government employees, including the public-employee-only plans. In those states the state agency enforces its HAZWOPER rule for public employers.
 
-### What if my refresher lapses?
+### In federal OSHA states: EPA 40 CFR Part 311
 
-OSHA does not set a fixed grace period. In interpretation letters it has said a worker who misses the anniversary should take the refresher as soon as possible, and that the employer decides whether the worker still has the knowledge and skills from initial training. A short lapse is usually fixed with the 8-hour refresher. After a long lapse, or if the worker's skills can't be shown to be current, the employer may require them to repeat the 40 or 24 hour course. Check your own company or client policy: many contractors won't badge anyone onto a site without a current refresher.
+In states without an approved plan, EPA's Worker Protection rule at 40 CFR Part 311 applies the requirements of OSHA's HAZWOPER standard (29 CFR 1910.120) to state and local government employees engaged in hazardous waste operations and emergency response. EPA's definition of employee includes non-compensated workers, so volunteer firefighters and other volunteer responders are covered.
 
-### What the refresher covers
+### Which public employees are affected
 
-The 8 hours are meant to keep core skills sharp and pass on what has changed. Typical content:
+- Fire department personnel who respond to hazardous materials incidents, career and volunteer
 
-- Hazard recognition and toxicology review
+- Police and sheriff's deputies who may be first on scene at a release
 
-- PPE selection, donning, doffing and respirator use
+- Public works, highway and sanitation crews who handle spills or clean up dumped drums
 
-- Air monitoring and instrument use
+- Water and wastewater utility staff who may respond to chemical releases at plants
 
-- Decontamination and site control
+- Emergency management staff who take incident command roles
 
-- Updates to the site safety and health plan and regulations
+- Employees at publicly owned waste facilities
 
-- Critiques of recent incidents and lessons learned
+### Matching training to the role
 
-### Refresher options
+Role | Typical training | 
 
-- OSHA 8 Hour HAZWOPER Refresher Training: the standard annual course for 40 and 24 hour workers
+Police officers and public works staff who may arrive first, isolate and call for help | OSHA 4-Hour HAZWOPER First Responder Awareness Level Training | 
 
-- OSHA 8 Hour HAZWOPER Supervisor Refresher Training: refresher with supervisor-level content
+Firefighters who take defensive action (operations level, at least 8 hours) | Operations-level training, often delivered within fire service programs | 
 
-- 8 Hour HAZWOPER and Incident Command Refresher Training: combined refresher for incident command roles
+HAZMAT team members (technician level, at least 24 hours) | OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams | 
 
-- OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training: for TSD facility employees
+Incident commanders | OSHA 8 Hour HAZWOPER (q) Incident Command Training on top of at least operations-level training | 
 
-- Cal/OSHA 8-Hour HAZWOPER Refresher Training and state-plan versions
+Crews cleaning up contaminated sites | OSHA 40 Hour HAZWOPER Training or OSHA 24 Hour HAZWOPER Training by exposure | 
 
-### Records to keep
+### Practical steps for public employers
 
-Under 1910.120(e)(7), employees who complete training get a written certificate. Keep each worker's initial certificate, every refresher certificate and documentation of field experience. Clients often ask for copies before site access, so keep the wallet card with you and a PDF on file.
+- Confirm whether your state has a plan covering public employees, or whether EPA's Part 311 applies.
+
+- List every role that could respond to a release, including volunteers.
+
+- Assign each role a response level and the matching training. The {{page:crew-training-planner|crew training planner}} turns headcounts into an order.
+
+- Write or update the emergency response plan and incident command procedures required by paragraph (q).
+
+- Set up annual refresher training or competency checks, and keep records for every responder.
 
 ### FAQ
 
-- **Is the HAZWOPER refresher required every year?** Yes. 29 CFR 1910.120(e)(8) requires 8 hours of refresher training annually for workers trained at the 40 or 24 hour level.
-- **Can I take the 8 hour refresher online?** Yes. Online refresher training is widely accepted when it covers the required content and learners can reach a qualified trainer for questions. Employers may add hands-on review of site-specific equipment.
-- **Does the refresher have to be 8 hours in one day?** No. OSHA requires 8 hours of training each year, not one continuous session. Self-paced online refreshers save your progress so you can complete it over several sittings.
+- **Does OSHA HAZWOPER apply to city and county employees?** Federal OSHA does not cover state and local governments. In states with an OSHA-approved plan the state agency covers them; in other states EPA's 40 CFR Part 311 applies the HAZWOPER standard to them.
+- **Are volunteer firefighters covered by HAZWOPER?** In states without a state plan, EPA's 40 CFR Part 311 defines employees to include non-compensated workers, so volunteer responders are covered. State plans set their own coverage for volunteers.
+- **What training do police officers need for hazmat incidents?** Officers who may be first on scene and are expected only to recognize, isolate and notify generally need first responder awareness level training.
 
-Related courses: OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 8 Hour HAZWOPER Supervisor Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training/); Cal/OSHA 8-Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/); 8 Hour HAZWOPER Refresher - State-Plan Versions Available (https://lj-web-management.github.io/hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available/)
+Related courses: OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/); OSHA 4-Hour HAZWOPER First Responder Awareness Level Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/); OSHA 8 Hour HAZWOPER (q) Incident Command Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/)
 
 ---
 
-## How to Get HAZWOPER Certified Online (and How Long It Lasts)
+## How to Build a HAZWOPER Training Program for Your Company
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-certification/
+URL: https://lj-web-management.github.io/hazwoperosha.us/guides/building-a-hazwoper-training-program/
 
-"HAZWOPER certified" means you have completed the training OSHA requires for your role under 29 CFR 1910.120 and received a written certificate from the training provider. Here is the process from start to finish.
+A HAZWOPER training program is more than buying courses. It's a repeatable system that puts the right training in front of each worker before they need it, and proves you did. Here's how to build one.
 
-### Step 1: Pick the right level
+### Step 1: Decide whether and how HAZWOPER applies
 
-Most people need the 40 hour or 24 hour course. Supervisors add the 8 hour supervisor course. Workers who only need to recognize a release and call it in can take First Responder Awareness. See which HAZWOPER course do I need.
+- Do employees work on cleanup sites, RCRA corrective actions or voluntary cleanups recognized by a government body? Then the site-worker rules in paragraph (e) apply.
 
-### Step 2: Complete the online course
+- Do they work at a permitted treatment, storage or disposal facility? Paragraph (p) applies.
 
-Online courses are self-paced. Log in from any device, work through the modules and knowledge checks, and pick up where you left off. Most people finish the 40-hour course in one to two working weeks.
+- Will employees respond to releases anywhere? Paragraph (q) applies, unless you evacuate and rely entirely on outside responders under an emergency action plan.
 
-### Step 3: Pass the final exam
+- Check whether a state plan or EPA's Part 311 applies: see state plans and HAZWOPER.
 
-Each course ends with a final exam on the material. Practise first with the free HAZWOPER practice test.
+### Step 2: Build a role-to-training matrix
 
-### Step 4: Download your certificate and wallet card
+List every job title and decide its training from its duties and likely exposure. A simple matrix:
 
-As soon as you pass, you can download a printable certificate of completion and a wallet card. These are the written certification 1910.120(e)(7) requires. Keep the PDF and send copies to your employer or client.
+Role | Initial | Field experience | Annual | 
 
-### Step 5: Complete field experience
+General site worker | 40 Hour | 3 days supervised | 8 Hour Refresher | 
 
-The 40-hour level needs 3 days, and the 24-hour level 1 day, of supervised field experience on site. This is done with your employer under a trained, experienced supervisor and recorded separately.
+Occasional site worker | 24 Hour | 1 day supervised | 8 Hour Refresher | 
 
-### How long HAZWOPER certification lasts
+Site supervisor | 40 Hour + 8 Hour Supervisor | 3 days supervised | Supervisor Refresher | 
 
-Your initial certificate doesn't expire, but you stay qualified only by taking the 8 hour refresher every 12 months. In practice, a HAZWOPER certification is "current" for one year from your last course. See refresher requirements.
+Employee who may discover a release | First Responder Awareness | None | Refresher or competency check | 
 
-### How employers verify HAZWOPER training
+TSDF operator | 24 Hour TSD | Per facility plan | 8 Hour TSD Refresher | 
 
-- Check the certificate shows the worker's name, course title, training level, completion date and provider
+The {{page:crew-training-planner|crew training planner}} does this math for you and builds the order.
 
-- Check the most recent refresher date is within the last 12 months
+### Step 3: Plan field experience and site-specific training
 
-- Confirm documentation of supervised field experience
+Online courses cover the classroom portion. You still need to arrange supervised field days with a trained, experienced supervisor, and site-specific training before anyone enters a new site: the hazards, the site safety and health plan, work zones, decon and emergency procedures. Record both.
 
-- Contact the training provider to confirm the certificate if in doubt
+### Step 4: Choose who trains
+
+Trainers must be qualified by training or by academic credentials and instructional experience (1910.120(e)(5)). Most employers combine online courses for the classroom hours with in-house supervisors for field and site-specific training. Companies with steady hiring often certify an internal instructor with HAZWOPER Train-the-Trainer Certification.
+
+### Step 5: Put refreshers on a calendar
+
+Track each worker's last training date and schedule the refresher a month before the anniversary. Ordering refreshers for a whole crew at once keeps everyone on the same cycle.
+
+### Step 6: Connect the other programs
+
+Training sits alongside medical surveillance, respiratory protection (medical evaluation and annual fit testing) and the site safety and health plan. Line their schedules up so workers aren't pulled off the job three separate times.
+
+### Step 7: Budget and document
+
+See budgeting for HAZWOPER training for a worked example, and training records for employers for what to keep.
 
 ### FAQ
 
-- **How long does it take to get HAZWOPER certified?** The 40 hour course takes at least 40 hours of training time and the 24 hour course at least 24 hours. Online courses are self-paced, so you can finish as fast as your schedule allows. Field experience is extra.
-- **Does OSHA issue HAZWOPER cards?** No. OSHA sets the training requirements but does not issue HAZWOPER certificates. The training provider issues the certificate and wallet card.
-- **Does HAZWOPER certification expire?** The initial certificate stays valid as proof of initial training, but you must complete 8 hours of refresher training every year to remain qualified.
+- **What should a HAZWOPER training program include?** A role-to-training matrix, initial training, supervised field experience, site-specific training, annual refreshers, qualified trainers, and records for every worker, coordinated with medical surveillance and respiratory protection.
+- **Can online courses satisfy HAZWOPER training?** Online courses can cover the classroom portion. Employers still provide supervised field experience, hands-on practice with site equipment and site-specific training.
+- **Who can be a HAZWOPER trainer?** Someone qualified by completing a training program for the subjects they teach, or by academic credentials and instructional experience, under 29 CFR 1910.120(e)(5).
 
-Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 24 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
+Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); HAZWOPER Train-the-Trainer Certification (https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-train-the-trainer-certification/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
 
 ---
 
-## PPE Levels A, B, C and D Explained (EPA and OSHA HAZWOPER)
+## HAZWOPER Training Records: What Employers Must Keep and for How Long
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/ppe-levels-a-b-c-d/
+URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-training-records-for-employers/
 
-HAZWOPER sorts chemical protective ensembles into four levels, A through D, described in OSHA 29 CFR 1910.120 Appendix B and in EPA guidance. The level is chosen from the known or suspected hazard, the routes of exposure and how much is known about the chemicals involved.
+When an OSHA inspector, a client's safety auditor or a prime contractor asks for proof of training, you need to produce it quickly for every worker on site. Here's what to keep.
 
-### Level A: highest respiratory, skin and eye protection
+### Records and how long to keep them
 
-Use when: the substance requires the highest level of protection for skin, eyes and lungs. That means high concentrations of vapors, gases or particulates that are toxic through the skin, unknown substances in a confined or poorly ventilated area, or operations with a high chance of splash, immersion or contact with skin-toxic chemicals.
+Record | Rule | Keep | 
 
-- Positive-pressure, full-facepiece self-contained breathing apparatus (SCBA), or a positive-pressure supplied-air respirator with escape SCBA
+HAZWOPER training certificates (initial and refresher) | 1910.120(e)(7) requires a written certificate | No set period; keep for at least the length of employment | 
 
-- Totally encapsulating, vapor-tight chemical-protective suit
+Supervised field experience | 1910.120(e)(3) | With the training certificate | 
 
-- Inner and outer chemical-resistant gloves
+Documentation of equivalent prior training | 1910.120(e)(9) | With the training file; give the worker a copy on request | 
 
-- Chemical-resistant boots with steel toe and shank
+Medical surveillance records | 1910.120(f) and 1910.1020 | Duration of employment plus 30 years | 
 
-- Two-way radio communications; optional cooling unit, hard hat and coveralls under the suit
+Exposure monitoring records | 1910.1020 | 30 years | 
 
-### Level B: highest respiratory, lesser skin protection
+Respirator fit test records | 1910.134(m) | Until the next fit test | 
 
-Use when: the highest level of respiratory protection is needed but less skin protection, for example oxygen-deficient atmospheres (below 19.5%), IDLH concentrations, or substances that aren't a significant skin hazard. Level B is the minimum level recommended for initial site entry until hazards are identified.
+Respirator medical evaluations | 1910.134(m) and 1910.1020 | Duration of employment plus 30 years | 
 
-- Positive-pressure, full-facepiece SCBA or supplied-air respirator with escape SCBA
+RCRA personnel training (LQGs and TSDFs) | 40 CFR 262.17(a)(7), 264.16 / 265.16 | Current employees until closure; former employees 3 years | 
 
-- Hooded chemical-resistant clothing (splash suit, coveralls or one- or two-piece suit). Not vapor-tight
+DOT hazmat employee training | 49 CFR 172.704 | Preceding 3 years, plus 90 days after employment ends | 
 
-- Inner and outer chemical-resistant gloves and chemical-resistant boots
+Medical records are confidential. Keep them separate from personnel and training files.
 
-### Level C: air-purifying respirator
+### What a good certificate shows
 
-Use when: the type and concentration of airborne substances are known, the criteria for using air-purifying respirators are met, and skin contact isn't expected to cause harm. Oxygen must be at least 19.5%, the contaminant must have adequate warning properties or an end-of-service-life indicator, and concentrations must be below IDLH and within the respirator's protection factor.
+- Worker's full name
 
-- Full-face or half-mask air-purifying respirator (APR) with the correct cartridges, or a powered air-purifying respirator (PAPR)
+- Course title and training level (for example, 40 Hour HAZWOPER)
 
-- Hooded chemical-resistant clothing
+- Regulatory basis (29 CFR 1910.120, 8 CCR 5192 and so on)
 
-- Inner and outer chemical-resistant gloves and boots
+- Completion date and hours
 
-### Level D: work uniform
+- Training provider name and contact details
 
-Use when: the atmosphere contains no known hazard and work rules out splashes, immersion or unexpected inhalation or contact. Level D is for nuisance contamination only and gives no respiratory protection.
+### An audit-ready file for each worker
 
-- Coveralls
+- Training matrix row: role, required courses and due dates
 
-- Safety boots or shoes, safety glasses or chemical splash goggles, hard hat
+- Initial certificate and field experience sign-off
 
-- Gloves and face shield as needed
+- Every refresher certificate, newest first
 
-### Comparison table
+- Site-specific training sign-ins for each site
 
-Level | Respiratory | Skin | Typical situation | 
+- Respirator fit test (current)
 
-A | SCBA or SAR with escape | Vapor-tight, fully encapsulating suit | Unknowns, high vapor concentrations, skin-absorbable toxics | 
+- Cross-reference to the separate, confidential medical file
 
-B | SCBA or SAR with escape | Splash-protective, hooded | Initial entry, O2 < 19.5%, IDLH air, low skin hazard | 
+### Tracking due dates
 
-C | Air-purifying respirator | Splash-protective, hooded | Known contaminant, measured concentrations, APR criteria met | 
+A spreadsheet works for small crews: one row per worker, with columns for last initial training, last refresher, next refresher due, last fit test and next medical exam. Highlight anything due within 60 days. Larger employers use a learning management or EHS system that sends reminders.
 
-D | None | Work uniform | No atmospheric hazard, nuisance contamination only | 
+### When a worker leaves
 
-### Changing levels during work
-
-The level isn't fixed for the whole job. Air monitoring results, new information from site characterization, or a change in tasks can raise or lower it. The site safety and health plan should set action levels that trigger an upgrade or withdrawal. Every level also needs a matching decontamination line.
-
-### Heat stress and PPE
-
-Higher levels of protection trap body heat. Workers in Level A and B face serious heat stress risk, so the plan should include work-rest cycles, fluids, monitoring of heart rate or body temperature, and cooling vests where needed.
+Give the worker copies of their training certificates; they'll need them for their next job. Keep your copies, the medical file (employment plus 30 years) and exposure records as required.
 
 ### FAQ
 
-- **What is the difference between Level A and Level B PPE?** Both use SCBA or supplied air for maximum respiratory protection. Level A adds a totally encapsulating, vapor-tight suit for maximum skin protection. Level B uses non-vapor-tight, splash-protective clothing.
-- **When can Level C be used?** Level C can be used when the airborne contaminants and their concentrations are known, oxygen is at least 19.5%, concentrations are below IDLH, air-purifying respirator criteria are met, and skin contact is not expected to cause harm.
-- **Does Level D include a respirator?** No. Level D is a work uniform with no respiratory protection and is only for situations with no known atmospheric hazard.
+- **How long must HAZWOPER training records be kept?** HAZWOPER does not set a retention period for training certificates, so keep them at least for the length of employment. Medical records are kept for employment plus 30 years and exposure records for 30 years.
+- **How long are respirator fit test records kept?** Until the next fit test is administered, under 29 CFR 1910.134(m).
+- **Do workers get copies of their HAZWOPER certificates?** Yes. Workers receive a written certificate when they complete training, and employers should give copies when the worker leaves.
 
-Related courses: HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained (https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 24 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/)
+Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); RCRA Hazardous Waste Generator Training (https://lj-web-management.github.io/hazwoperosha.us/courses/rcra-hazardous-waste-generator-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
 ---
 
-## HAZWOPER Decontamination Procedures: Decon Line Setup and Steps
+## Onboarding New Hires With Prior HAZWOPER Training
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-decontamination/
+URL: https://lj-web-management.github.io/hazwoperosha.us/guides/onboarding-new-hires-with-prior-hazwoper-training/
 
-Decontamination ("decon") removes or neutralizes contaminants that have built up on people and equipment, so hazards don't leave the work area. OSHA 29 CFR 1910.120(k) requires a written decontamination procedure, developed and communicated to employees before anyone enters a site where they may be exposed.
+Experienced hires often arrive with a HAZWOPER certificate from a previous employer or training provider. You don't have to retrain them from scratch, but you do have to check what they bring and fill the gaps.
 
-### What OSHA requires
+### Accepting prior training
 
-- All employees leaving a contaminated area must be decontaminated, and all contaminated clothing and equipment leaving must be decontaminated or disposed of
+Under 29 CFR 1910.120(e)(9), an employer who can show by documentation or certification that a worker's experience or training is equivalent to the required initial training doesn't have to repeat that initial training. Two conditions stay:
 
-- Decon must happen in areas that minimize exposure of uncontaminated employees or equipment
+- Keep the documentation and give the worker a copy on request.
 
-- The site safety and health officer monitors the procedure and revises it if it isn't working
+- Workers new to a site still need site-specific training before entry and appropriate supervised field experience at the new site.
 
-- Equipment and solvents used for decon must themselves be decontaminated or disposed of properly
+### Verification checklist
 
-- Protective clothing that can't be decontaminated is disposed of; contaminated clothing is never taken home
+- Certificate: name, level, hours, regulatory basis, completion date and provider.
 
-- Showers and change rooms are provided where decon procedures call for them
+- Level matches the job: a 24-hour certificate doesn't cover a general site worker role; they need the additional 16 hours and 2 days, or the full 40 hour course.
 
-### Decon methods
+- Refresher is current: within the last 12 months.
 
-- Physical removal: brushing, scraping, rinsing, wiping, vacuuming with HEPA filtration
+- Supervisor training if they'll supervise: OSHA 8 Hour HAZWOPER Supervisor Training.
 
-- Dilution: water or detergent wash and rinse
+- State version if needed, for example Cal/OSHA for California work.
 
-- Chemical: neutralization, solidification or a solvent matched to the contaminant. Check compatibility first so the decon solution doesn't create a new hazard
+- Provider check: contact the issuer if anything looks off.
 
-- Disposal: disposable PPE removed and bagged as waste
+### If the refresher has lapsed
 
-### Where decon happens
+OSHA doesn't set a grace period. For a short lapse, most employers have the worker take the 8 hour refresher before site work and record the employer's judgment that their initial skills are current. For a long lapse, or where skills can't be shown to be current, retake the initial course. Write your policy down and apply it the same way to everyone.
 
-Decon takes place in the contamination reduction zone (CRZ), the transition between the exclusion zone and the clean support zone. Inside it, the contamination reduction corridor holds the decon line, laid out from dirtiest to cleanest with the access control point at the clean end. See site control and work zones.
+### First-week onboarding plan
 
-### A typical decon line
+When | Task | 
 
-- Segregated equipment drop: leave tools, sampling gear and instruments on plastic sheeting or in containers
+Before day 1 | Collect and verify certificates; order any refresher or upgrade course | 
 
-- Boot cover and outer glove wash
+Day 1 | Company safety orientation; medical surveillance enrollment if their role requires it | 
 
-- Boot cover and outer glove rinse
+Day 1-2 | Respirator medical evaluation and fit test on your models | 
 
-- Tape removal at wrists and ankles
+Before site entry | Site-specific training: hazards, site plan, work zones, decon, emergency procedures | 
 
-- Boot cover removal
+First site days | Supervised field experience with a buddy; sign-off by the supervisor | 
 
-- Outer glove removal
+End of week | Training file complete; refresher due date in the tracking system | 
 
-- Suit and safety boot wash
+### Hiring several people at once
 
-- Suit and boot rinse
-
-- Tank change or redress, if returning to the exclusion zone
-
-- Safety boot removal
-
-- Splash suit removal
-
-- Inner glove wash and rinse
-
-- Facepiece removal
-
-- Inner glove removal
-
-- Inner clothing removal, field wash and redress
-
-The number of stations depends on the PPE level and contaminant. Level A and B lines are longer; Level C and D lines may only need a few steps.
-
-### Checking decon worked
-
-Methods include visual inspection (sometimes under UV light for fluorescent contaminants), wipe sampling of PPE or skin, and testing the final rinse solution. Results feed back into the procedure.
-
-### Emergency decon
-
-If a worker is injured or seriously exposed, life-saving care comes first. Gross decon such as removing outer clothing and flushing with water can be done quickly; full decon may be skipped if it would delay critical medical treatment. Wrap the victim to limit spread and tell medical staff what the contaminant is.
+Put every refresher, upgrade and new-hire course for the group in one cart. The {{page:crew-training-planner|crew training planner}} builds the order by role.
 
 ### FAQ
 
-- **Where is the decontamination line located?** In the contamination reduction zone (warm zone), between the exclusion zone and the support zone, arranged from most contaminated to least contaminated.
-- **Does OSHA require a written decon procedure?** Yes. 1910.120(k)(1) requires a decontamination procedure to be developed, communicated to employees and implemented before anyone enters a site where they may be exposed.
-- **Should decon be done before emergency medical treatment?** Not if it would delay life-saving care. Perform gross decon if it can be done quickly, protect medical responders and tell them what the contaminant is.
+- **Do I have to retrain a new hire who already has HAZWOPER?** Not the initial training, if you have documentation showing equivalent training under 1910.120(e)(9). They still need site-specific training and supervised field experience at your site, and a current annual refresher.
+- **What if a new hire's HAZWOPER refresher has expired?** Have them complete the 8 hour refresher before site work and document your judgment that their skills are current. After a long lapse, consider retaking the initial course.
+- **Is a 24 hour certificate enough for a general site worker?** No. General site workers need 40 hours. A 24-hour worker can upgrade with the additional 16 hours and 2 days of field experience, or take the full 40 hour course.
 
-Related courses: HAZWOPER Micro-Module: Decontamination Procedures (https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 24 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/)
+Related courses: OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 24 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/)
 
 ---
 
-## Site Control and Work Zones: Exclusion, Contamination Reduction and Support Zones
+## Budgeting for HAZWOPER Training: A Worked Example for a 10-Person Crew
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/site-control-work-zones/
+URL: https://lj-web-management.github.io/hazwoperosha.us/guides/budgeting-for-hazwoper-training/
 
-Site control keeps people away from hazards and keeps contamination where it belongs. OSHA 29 CFR 1910.120(d) requires appropriate site control procedures before cleanup work begins.
+HAZWOPER training costs come in two waves: a larger first-year spend for initial training and a smaller, predictable yearly spend for refreshers. Here's how to plan both, using our list prices. Every seat is billed at the list price, whatever the crew size.
 
-### Elements of a site control program
+### Worked example: a 10-person remediation crew
 
-The site control program is part of the site safety and health plan and must include, at a minimum:
+A crew of 8 general site workers, 1 site supervisor and 1 project manager who visits occasionally:
 
-- A site map
+Course | Seats | Price per seat | 
 
-- Site work zones
+OSHA 40 Hour HAZWOPER Training | 9 (8 workers + supervisor) | {{price:osha-40-hour-hazwoper-training}} | 
 
-- Use of a "buddy system"
+OSHA 8 Hour HAZWOPER Supervisor Training | 1 | {{price:osha-8-hour-hazwoper-supervisor-training}} | 
 
-- Site communications, including alerting means for emergencies
+OSHA 24 Hour HAZWOPER Training | 1 (project manager) | {{price:osha-24-hour-hazwoper-training}} | 
 
-- Standard operating procedures or safe work practices
+In later years the crew needs 9 seats of the 8 hour refresher ({{price:osha-8-hour-hazwoper-refresher-training}} each) and 1 supervisor refresher ({{price:osha-8-hour-hazwoper-supervisor-refresher-training}}). Multiply seats by price for each line, or let the {{page:crew-training-planner|crew training planner}} add it up and build the order.
 
-- Identification of the nearest medical assistance
+### Costs beyond the course fee
 
-### The three work zones
+- Paid training time: a 40-hour course is a full work week per person. Budget wages for it.
 
-Zone | Also called | What happens there | 
+- Field experience: 3 days (40-hour) or 1 day (24-hour) on site under a trained supervisor, usually less productive time.
 
-Exclusion zone (EZ) | Hot zone | Where contamination is or could be. Entry only in the required PPE, only by trained and authorized workers. Bounded by the hotline. | 
+- Medical surveillance: baseline and annual exams for workers who need them.
 
-Contamination reduction zone (CRZ) | Warm zone | Transition area holding the decontamination corridor. Reduces the chance of spreading contaminants to the clean zone. | 
+- Respiratory protection: medical evaluations, annual fit tests and respirators.
 
-Support zone (SZ) | Cold zone | Clean area for the command post, first aid, equipment, vehicles and break areas. Located upwind of the exclusion zone. | 
+- Site-specific training: a few hours at each new site.
 
-Workers enter and leave the exclusion zone through access control points, and exit always goes through decontamination. Zone boundaries are set from site characterization and air monitoring data and should be marked with tape, cones, signs or fencing.
+- Turnover: new hires without certificates need initial training. Budget for your typical hiring rate.
 
-### Setting zone boundaries
+### Ways to keep costs predictable
 
-- Use visual survey, air monitoring readings and sampling results from site characterization
+- Put the whole crew on one refresher cycle and order everyone's seats in one cart once a year.
 
-- Consider wind direction, terrain, drainage, and how far vapors, dust and spills could travel
+- Check prior training before buying initial courses for experienced hires: see onboarding new hires.
 
-- Leave enough room in the CRZ for a full decon line and emergency access
+- Match the level to the job: don't buy 40-hour seats for people who only need awareness training, and don't under-train people who need 40 hours.
 
-- Put the support zone upwind and adjust zones if conditions change
+- Self-paced online training lets workers train in slow periods instead of losing a block of days to a classroom course.
 
-### The buddy system
+- Consider train-the-trainer if you hire often: HAZWOPER Train-the-Trainer Certification ({{price:hazwoper-train-the-trainer-certification}}).
 
-OSHA defines the buddy system as organizing employees into work groups so that each one is designated to be observed by at least one other employee in the group. Buddies watch each other for signs of exposure or heat stress, help each other, check PPE integrity and get help in an emergency.
+### Paying
 
-### Communications
-
-Exclusion zone work needs reliable communication: two-way radios, hand signals (especially when respirators make speech hard), air horns or sirens for evacuation, and a check-in/check-out log at the access control point so everyone is accounted for.
+Pay by card at checkout for every course and seat at once, or call for purchase-order billing.
 
 ### FAQ
 
-- **What are the three HAZWOPER work zones?** The exclusion zone (hot zone), contamination reduction zone (warm zone) and support zone (cold zone).
-- **Where should the support zone be located?** Upwind of the exclusion zone, in a clean area, with the command post, first aid, equipment and break areas.
-- **What is the buddy system in HAZWOPER?** A system that organizes workers into groups so each one is observed by at least one other worker who can watch for problems and summon help.
+- **How much does HAZWOPER training cost per worker?** It depends on the level: the 40 hour course, 24 hour course and 8 hour refresher each have a fixed per-seat list price on this site. Budget wages for training time, field experience, medical surveillance and respirator fit testing on top.
+- **Is there a discount for training a whole crew?** Every seat is billed at the list price shown, whatever the crew size, so budgets and quotes are simple. Purchase-order billing is available by phone.
+- **What ongoing HAZWOPER costs should employers expect?** An 8 hour refresher for every 40-hour and 24-hour trained worker each year, supervisor refreshers, annual medical exams and fit tests where required, and initial training for new hires.
 
-Related courses: HAZWOPER Micro-Module: Site Characterization & Hazard Assessment (https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
+Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
 ---
 
-## HAZWOPER Air Monitoring: Oxygen, LEL, Toxics and Direct-Reading Instruments
+## Contractors, Subcontractors and Multi-Employer HAZWOPER Sites
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/air-monitoring/
+URL: https://lj-web-management.github.io/hazwoperosha.us/guides/contractors-and-multi-employer-hazwoper-sites/
 
-Air monitoring tells you what is in the air, how much of it, and whether workers' PPE and work zones are adequate. OSHA 29 CFR 1910.120(h) requires monitoring during initial site entry and periodically after that, whenever there may be exposure above permissible limits, a change in conditions or a new operation.
+Cleanup sites are rarely one-company jobs. A prime contractor may manage drillers, excavation subs, a lab, waste haulers and specialty contractors at the same time. HAZWOPER and OSHA's enforcement policy both address who is responsible for what.
 
-### What to monitor first
+### What HAZWOPER requires
 
-On initial entry, check hazards in this order, because each one can kill fastest:
+- Share the safety and health program. The written program must be made available to any contractor or subcontractor involved in the hazardous waste operation (1910.120(b)(1)(iv)).
 
-- Oxygen: below 19.5% is oxygen deficient (atmosphere-supplying respirator needed). Above 23.5% is oxygen enriched and raises fire risk.
+- Tell contractors about hazards. Employers who hire contractors must inform them of the site emergency response procedures and any known fire, explosion, health, safety or other hazards (1910.120(b)(1)(v)).
 
-- Flammability: measured as a percent of the lower explosive limit (LEL). Combustible gas readings are only accurate when oxygen is normal.
+- One site safety and health plan governs work on the site, and everyone on site follows it.
 
-- Toxic gases and vapors: such as hydrogen sulfide, carbon monoxide and organic vapors, compared against exposure limits and IDLH values.
+### OSHA's multi-employer citation policy
 
-- Radiation, where suspected.
+On multi-employer worksites, OSHA can cite more than one employer for the same hazard. Its policy describes four roles:
 
-### Common action levels
+Role | Who it is | 
 
-Reading | Typical action | 
+Creating employer | Caused the hazardous condition | 
 
-O2 < 19.5% | Oxygen deficient: SCBA or supplied air, or don't enter | 
+Exposing employer | Its own employees are exposed to the hazard | 
 
-O2 > 23.5% | Oxygen enriched: fire hazard, stop work and find the source | 
+Correcting employer | Responsible for fixing the hazard, such as the sub hired to maintain decon or ventilation | 
 
-Combustible gas < 10% LEL | Continue with monitoring | 
+Controlling employer | Has general supervisory authority over the site, including the power to correct hazards or require others to | 
 
-10-25% LEL | Continue with extreme caution and continuous monitoring | 
+A prime contractor or site owner acting as controlling employer is expected to use reasonable care to prevent and detect violations, which includes checking that subcontractor workers are trained.
 
-> 25% LEL | Explosion hazard: withdraw and reassess | 
+### Prequalifying subcontractors
 
-Toxics at or above PEL/REL | Upgrade PPE or use controls per the site plan | 
+- Training certificates for every worker who'll be on site, at the right level, with refreshers within 12 months
 
-Toxics at or above IDLH | Atmosphere-supplying respirator or withdraw | 
+- Supervisor training for their on-site lead
 
-These follow widely used EPA guidance. Your site safety and health plan sets the actual action levels for your site.
+- Medical surveillance and respirator fit test confirmation for workers who need them
 
-### Direct-reading instruments
+- Their safety and health program and recent safety performance (for example, OSHA 300A summaries and citation history)
 
-- Multi-gas (4-gas) meters measure O2, LEL, H2S and CO
+- Agreement to follow the site safety and health plan and attend pre-entry briefings
 
-- Photoionization detectors (PID) measure many volatile organic compounds in ppm. Response depends on the lamp energy (eV) and the chemical's ionization potential, and readings need correction factors for specific compounds
+### On site
 
-- Flame ionization detectors (FID) measure organic vapors including methane, which PIDs don't detect well
+- Check training at the access control point before badging workers in.
 
-- Colorimetric detector tubes give a reading for one specific chemical
+- Include subcontractor crews in pre-entry briefings and site-specific training.
 
-- Aerosol and dust monitors, radiation meters and mercury vapor analyzers for specific hazards
+- Use one emergency response plan and one communication system for everyone.
 
-Direct-reading instruments give real-time results for decisions on site. Personal sampling with pumps and lab analysis documents actual worker exposure against PELs.
+### Helping subcontractors get compliant
 
-### Bump testing and calibration
-
-- Bump test before each day's use: expose the instrument to a known gas to make sure the sensors and alarms respond
-
-- Calibrate per the manufacturer, and whenever a bump test fails
-
-- Record bump tests and calibrations
-
-- Know each instrument's limits: interfering gases, humidity, temperature, sensor poisoning and response time
-
-### Where to monitor
-
-Sample at the breathing zone, then at low and high points depending on vapor density. Heavier-than-air gases collect in trenches, pits and basements; lighter gases rise. Monitor before entering confined spaces, and continuously during work that could release contaminants, such as drum opening or excavation.
+When a sub's crew is short on training, they can buy every course and seat they need in one order and start right away. Point them to the {{page:crew-training-planner|crew training planner}}.
 
 ### FAQ
 
-- **What oxygen level is considered oxygen deficient?** OSHA considers an atmosphere with less than 19.5% oxygen by volume to be oxygen deficient. Above 23.5% is oxygen enriched.
-- **What is the difference between a PID and an FID?** Both detect organic vapors. A PID uses ultraviolet light and does not respond well to methane. An FID burns the sample in a hydrogen flame and detects methane and most organic compounds.
-- **How often should a gas meter be bump tested?** Before each day's use is the common industry and manufacturer recommendation, with full calibration per the manufacturer and whenever a bump test fails.
+- **Does the prime contractor have to verify subcontractor HAZWOPER training?** Under OSHA's multi-employer citation policy, a controlling employer must use reasonable care to prevent and detect violations, which in practice includes checking subcontractor workers' training before they go on site.
+- **What must a hiring employer tell contractors under HAZWOPER?** The site emergency response procedures and any known fire, explosion, health, safety or other hazards, and make the written safety and health program available to them.
+- **What are the four employer types in OSHA's multi-employer policy?** Creating, exposing, correcting and controlling employers.
 
-Related courses: OSHA Air Monitoring and Gas Detection Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training/); HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments (https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
+Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
 ---
 
-## Site-Specific Safety and Health Plan (HASP) Requirements Under 1910.120(b)
+## HAZWOPER Training for Spanish-Speaking and Multilingual Crews
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/site-safety-and-health-plan/
+URL: https://lj-web-management.github.io/hazwoperosha.us/guides/training-spanish-speaking-and-multilingual-crews/
 
-Every hazardous waste cleanup site needs a written site-specific safety and health plan, often called a HASP. It is part of the employer's safety and health program under 29 CFR 1910.120(b), must be kept on site, and must address the safety and health hazards of each phase of the operation.
+Training only counts if workers understand it. OSHA has long said that employers must present safety training in a manner employees can understand, which means in a language and vocabulary they understand. For crews with Spanish-speaking or multilingual members, that shapes how you choose and deliver HAZWOPER training.
 
-### Required elements of the HASP
+### What OSHA expects
 
-Under 1910.120(b)(4)(ii), the plan must address at least:
+In a 2010 enforcement memorandum, OSHA directed inspectors to check that training required by its standards is presented in a way employees can understand. If a worker can't read or understand the language of the course, the training doesn't meet the requirement, even if they sat through it.
 
-- A safety and health risk or hazard analysis for each site task and operation in the work plan
+### Options for Spanish-speaking crews
 
-- Employee training assignments
+- Spanish-language course: OSHA 40-Hour HAZWOPER Training (Spanish) ({{price:osha-40-hour-hazwoper-training-spanish}}) covers the full 40 hours in Spanish.
 
-- Personal protective equipment for each site task and operation (PPE levels)
+- Bilingual supervisors for field experience, site-specific training and briefings.
 
-- Medical surveillance requirements (medical surveillance)
+- Translated site documents: key parts of the site safety and health plan, emergency procedures and decon steps.
 
-- Frequency and types of air monitoring, personnel monitoring and environmental sampling, including instrument maintenance and calibration (air monitoring)
+### Checking comprehension
 
-- Site control measures (work zones)
+- Ask workers to explain or demonstrate key procedures in their own words: donning and doffing PPE, decon steps, evacuation signals.
 
-- Decontamination procedures (decon)
+- Use the final exam in the worker's language, and review missed topics one to one.
 
-- An emergency response plan meeting 1910.120(l)
+- Watch the first field days closely and correct misunderstandings on the spot.
 
-- Confined space entry procedures
+### Site communication for mixed-language crews
 
-- A spill containment program
+- Use pictogram-based signs and labels, and point to GHS pictograms during briefings.
 
-### The wider safety and health program
+- Agree on simple hand signals for exclusion zone work, where respirators make speech hard.
 
-The HASP sits inside a written program that also includes:
+- Pair workers in the buddy system so each pair can communicate.
 
-- An organizational structure naming the general supervisor, the site safety and health supervisor, and lines of authority
+- Make sure emergency alarms and evacuation signals are understood by everyone, regardless of language.
 
-- A comprehensive work plan covering tasks, objectives, staffing, equipment and training
+### Literacy, not only language
 
-- Standard operating procedures and the medical surveillance program
+Some workers speak a language fluently but read it with difficulty. Mix written material with demonstrations, visuals and hands-on practice, and give extra time where needed.
 
-### Pre-entry briefings and inspections
+### Ordering for a mixed crew
 
-The plan must provide for pre-entry briefings before site activities start, and at other times as needed, so employees know the plan and are following it. The employer must also inspect the site to judge whether the plan is working and fix any problems found.
-
-### Who writes the HASP
-
-A qualified person, usually a certified industrial hygienist, safety professional or experienced site safety officer, writes the HASP using the site characterization data. Contractors and subcontractors must be told about the site's hazards. The plan is a living document: update it when conditions, tasks or data change.
+Add Spanish and English 40-hour seats to the same cart, along with refreshers and supervisor courses, and check out once. The {{page:crew-training-planner|crew training planner}} has a separate line for Spanish-speaking workers.
 
 ### FAQ
 
-- **What does HASP stand for?** HASP stands for Health and Safety Plan. Under HAZWOPER it is the site-specific safety and health plan required by 29 CFR 1910.120(b)(4).
-- **Does the HASP have to be kept on site?** Yes. The site safety and health plan must be kept on site and be available to employees, contractors and OSHA.
-- **How often must the HASP be updated?** Whenever site conditions, tasks or new information change the hazards. Inspections under the plan should find and correct deficiencies.
+- **Does OSHA require training in Spanish for Spanish-speaking workers?** OSHA requires training to be presented in a language and vocabulary workers understand. For workers who understand Spanish better than English, that means Spanish-language training or effective interpretation.
+- **Is the 40 hour HAZWOPER course available in Spanish?** Yes. The OSHA 40-Hour HAZWOPER Training is available in a full Spanish-language version.
+- **How can employers confirm workers understood the training?** Have workers explain or demonstrate key procedures, review missed exam topics, and watch closely during supervised field experience.
 
-Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); HAZWOPER Micro-Module: Site Characterization & Hazard Assessment (https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment/)
+Related courses: OSHA 40-Hour HAZWOPER Training (Spanish) (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
----
-
-## HAZWOPER Emergency Response Training Levels: Awareness to Incident Commander
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/emergency-response-training-levels/
-
-Paragraph (q) of 29 CFR 1910.120 covers emergency response to hazardous substance releases at any workplace. Employers whose employees respond need a written emergency response plan, an incident command system (ICS), and responders trained to the level of the duties they will perform.
-
-### The five training levels
-
-Level | Role | Minimum training | Reference | 
-
-First responder awareness | Likely to witness or discover a release; starts the response by notifying authorities, then takes no further action | Enough training or proven experience to show the listed competencies | (q)(6)(i) | 
-
-First responder operations | Responds defensively to protect people, property and the environment, without trying to stop the release | Awareness competencies + at least 8 hours | (q)(6)(ii) | 
-
-Hazardous materials technician | Approaches the point of release to plug, patch or otherwise stop it | At least 24 hours equal to operations level + competencies | (q)(6)(iii) | 
-
-Hazardous materials specialist | Supports technicians with specific knowledge of substances; liaison with authorities | At least 24 hours equal to technician level + competencies | (q)(6)(iv) | 
-
-On-scene incident commander | Takes control of the scene beyond the awareness level | At least 24 hours equal to operations level + competencies | (q)(6)(v) | 
-
-### First responder awareness competencies
-
-An awareness-level responder must be able to:
-
-- Understand what hazardous substances are and the risks in an incident
-
-- Understand the possible outcomes of an emergency involving hazardous substances
-
-- Recognize hazardous substances in an emergency
-
-- Identify the hazardous substances if possible
-
-- Understand their role in the employer's emergency response plan, including site security and control, and use the U.S. DOT Emergency Response Guidebook
-
-- Recognize the need for more resources and make the right notifications to the communication center
-
-Our First Responder Awareness course covers these competencies.
-
-### Incident command
-
-The senior emergency response official on scene becomes the individual in charge of a site-specific ICS (q)(3)). They identify hazards, set up the response, make sure PPE is right, limit the number of people in danger areas, use the buddy system in hazardous zones, keep backup personnel ready with first aid, and designate a safety officer. Training: OSHA 8 Hour HAZWOPER (q) Incident Command Training or 8 Hour HAZWOPER and Incident Command Refresher Training.
-
-### Annual refresher for responders
-
-Responders must get annual refresher training of enough content and length to keep their competencies, or demonstrate competency in those areas at least once a year (q)(8)). The employer keeps a statement of the training or competency.
-
-### Skilled support and specialist employees
-
-Skilled support personnel, such as equipment operators brought in for a specific task, need an initial briefing on site covering PPE, chemical hazards and their duties. Specialist employees who give technical advice need annual training or demonstrated competency in their specialty.
-
-### Do you need a response team?
-
-An employer that will evacuate employees and call outside responders, and not let its own employees respond, can follow an emergency action plan under 1910.38 instead of paragraph (q). Employers who expect employees to respond need paragraph (q). Industry options: manufacturing ERT, fire and HAZMAT teams, utility and pipeline.
-
-### FAQ
-
-- **How many hours is HAZWOPER first responder awareness training?** OSHA does not set a minimum number of hours for awareness level. Workers need enough training or proven experience to demonstrate the competencies in 1910.120(q)(6)(i). Courses are commonly 4 hours.
-- **How many hours is first responder operations level?** At least 8 hours of training, in addition to awareness-level competencies, under 1910.120(q)(6)(ii).
-- **What is the difference between operations and technician level?** Operations responders act defensively from a safe distance to contain a release and prevent exposure. Technicians approach the point of release to plug, patch or stop it, and need at least 24 hours of training.
-
-Related courses: OSHA 4-Hour HAZWOPER First Responder Awareness Level Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/); OSHA 8 Hour HAZWOPER (q) Incident Command Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/); OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/); Manufacturing Emergency Response Team (ERT) Training (https://lj-web-management.github.io/hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training/)
-
----
-
-## HAZWOPER Medical Surveillance Requirements (1910.120(f))
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-medical-surveillance/
-
-HAZWOPER requires employers to run a medical surveillance program for certain workers, under 29 CFR 1910.120(f). Exams are done by or under the supervision of a licensed physician, at no cost to the employee, without loss of pay, and at a reasonable time and place.
-
-### Who must be in the program
-
-- Employees who are or may be exposed to hazardous substances or health hazards at or above the permissible exposure limit (or published exposure levels, if there is no PEL) for 30 days or more a year, without regard to respirator use
-
-- Employees who wear a respirator for 30 days or more a year, or as required by 1910.134
-
-- Employees who are injured, become ill or develop symptoms from possible overexposure in an emergency or at a hazardous waste site
-
-- Members of HAZMAT teams
-
-### When exams happen
-
-- Before assignment (baseline)
-
-- At least once every 12 months, unless the physician decides a longer interval (no more than two years) is appropriate
-
-- At termination of employment or reassignment out of the program, unless an exam was done within the last six months
-
-- As soon as possible after signs or symptoms of overexposure, or after an unprotected exposure in an emergency
-
-- More often if the physician decides it is medically necessary
-
-### What the exam covers
-
-A medical and work history, with special emphasis on symptoms related to handling hazardous substances and on fitness for duty, including the ability to wear required PPE under expected conditions such as temperature extremes. The physician decides what tests to add based on the employee's exposures.
-
-### Information the employer gives the physician
-
-- A copy of the HAZWOPER standard and its appendices
-
-- A description of the employee's duties as they relate to exposures
-
-- Exposure levels, actual or expected
-
-- A description of the PPE used or to be used
-
-- Information from previous medical exams that the physician can't readily get
-
-### The physician's written opinion
-
-The employer gets a written opinion stating whether the employee has any condition that puts them at increased risk from work with hazardous substances, any recommended limits on the employee's work or respirator use, and that the employee has been told the results. It must not reveal specific findings or diagnoses unrelated to occupational exposure. The employee gets a copy.
-
-### Recordkeeping
-
-Medical records must be kept for the duration of employment plus 30 years, under 29 CFR 1910.1020.
-
-### FAQ
-
-- **How often are HAZWOPER medical exams required?** Before assignment, at least every 12 months (or up to every two years if the physician decides), at termination, and after symptoms of overexposure.
-- **Who pays for HAZWOPER medical surveillance?** The employer. Exams must be provided at no cost to the employee, without loss of pay, and at a reasonable time and place.
-- **How long must HAZWOPER medical records be kept?** For the duration of employment plus 30 years, under 29 CFR 1910.1020.
-
-Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
-
----
-
-## Exposure Limits Explained: PEL, REL, TLV, STEL, Ceiling and IDLH
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/exposure-limits-pel-tlv-idlh/
-
-HAZWOPER training levels, PPE selection, medical surveillance and air monitoring all depend on exposure limits: airborne concentrations a worker can be exposed to without expected harm. Here are the terms you'll see on safety data sheets and in site plans.
-
-### Who sets the limits
-
-Limit | Set by | Legal status | 
-
-PEL (Permissible Exposure Limit) | OSHA | Legally enforceable (29 CFR 1910.1000 tables and substance-specific standards) | 
-
-REL (Recommended Exposure Limit) | NIOSH | Recommendation, often stricter than the PEL | 
-
-TLV (Threshold Limit Value) | ACGIH | Guideline, updated yearly; adopted by some states and contracts | 
-
-IDLH (Immediately Dangerous to Life or Health) | NIOSH | Used for respirator selection and emergency decisions | 
-
-Many PELs date from 1971 and are less protective than current RELs and TLVs. HAZWOPER uses PELs and, where there is no PEL, "published exposure levels".
-
-### Types of limits
-
-- TWA (time-weighted average): the average concentration over an 8-hour shift (OSHA) or a 10-hour shift (NIOSH)
-
-- STEL (short-term exposure limit): a 15-minute average that shouldn't be exceeded at any time in the shift
-
-- Ceiling (C): a concentration that must never be exceeded, even briefly
-
-- Skin notation: the chemical can be absorbed through skin, so airborne limits alone don't protect workers
-
-- IDLH: a concentration that could cause death, immediate or delayed permanent health effects, or prevent escape. Only atmosphere-supplying respirators (SCBA or supplied air with escape) are used at or above IDLH
-
-### Routes of exposure
-
-- Inhalation: the most common route at hazardous waste sites
-
-- Skin and eye absorption: many solvents and pesticides pass through skin
-
-- Ingestion: usually from contaminated hands, food or tobacco, which is why eating and smoking are banned in the exclusion zone
-
-- Injection: punctures from contaminated sharp objects
-
-### Acute vs chronic effects
-
-Acute effects show up during or shortly after a short, high exposure, such as dizziness from solvent vapors or burns from a corrosive. Chronic effects come from repeated exposure over months or years, such as cancer, liver or kidney damage, or nerve damage. Some substances have both.
-
-### Using limits on site
-
-Air monitoring readings are compared against these limits to choose PPE levels, set action levels in the site plan and decide who needs medical surveillance. A respirator's assigned protection factor times the exposure limit gives the maximum concentration it can be used in.
-
-### FAQ
-
-- **What is the difference between a PEL and a TLV?** A PEL is OSHA's legally enforceable limit. A TLV is a guideline published by ACGIH that is updated regularly and is often more protective.
-- **What does IDLH mean?** Immediately Dangerous to Life or Health: a concentration that could cause death or serious permanent harm or prevent escape. Only SCBA or supplied air with escape is used at or above IDLH.
-- **What is a STEL?** A short-term exposure limit: a 15-minute time-weighted average exposure that should not be exceeded at any time during the workday.
-
-Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA Air Monitoring and Gas Detection Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training/); OSHA 24 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/)
-
----
-
-## Cal/OSHA HAZWOPER (Title 8 CCR 5192): California Training Guide
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/cal-osha-hazwoper/
-
-California runs its own OSHA-approved state plan, so HAZWOPER work there falls under Cal/OSHA, Title 8 California Code of Regulations Section 5192, "Hazardous Waste Operations and Emergency Response." It follows the federal 29 CFR 1910.120 structure, and state plans must be at least as effective as federal OSHA.
-
-### Who needs Cal/OSHA HAZWOPER
-
-The same groups as federal HAZWOPER, for work in California: cleanup workers at uncontrolled hazardous waste sites, RCRA corrective action and voluntary cleanup crews, employees of hazardous waste treatment, storage and disposal facilities, and emergency responders to hazardous substance releases. Construction work on these sites is covered as well.
-
-### Cal/OSHA HAZWOPER courses
-
-- Cal/OSHA 40-Hour HAZWOPER Training (2026): general site workers, plus 3 days supervised field experience
-
-- Cal/OSHA 24-Hour HAZWOPER Training: occasional workers and workers in characterized, low-exposure areas, plus 1 day field experience
-
-- Cal/OSHA 8-Hour HAZWOPER Refresher Training: required every year
-
-- Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training and Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training: for TSD facility employees
-
-- Cal/OSHA RCRA Hazardous Waste Training: hazardous waste handling for California generators
-
-### California-specific points
-
-- Cal/OSHA enforces 8 CCR 5192, and California regulations are cited instead of federal ones
-
-- California's Department of Toxic Substances Control (DTSC) regulates hazardous waste under Title 22 CCR, which is broader than federal RCRA and includes California-only hazardous wastes
-
-- California also requires an Injury and Illness Prevention Program (IIPP) under 8 CCR 3203, which your HAZWOPER program should fit into
-
-- Clients and agencies in California often ask specifically for Cal/OSHA-labelled certificates
-
-### Other state-plan states
-
-More than 20 states run their own OSHA plans covering private employers, including Washington, Oregon, Michigan, Minnesota, Virginia, North Carolina and others. Most adopt HAZWOPER rules identical or very close to the federal standard. See the state-plan refresher.
-
-### FAQ
-
-- **Is federal OSHA HAZWOPER accepted in California?** For work in California, training should meet Cal/OSHA 8 CCR 5192. The content closely matches federal 1910.120, but many California employers and agencies require Cal/OSHA-specific certificates.
-- **What is the Cal/OSHA HAZWOPER regulation?** Title 8 California Code of Regulations Section 5192, Hazardous Waste Operations and Emergency Response.
-- **Does Cal/OSHA require an annual HAZWOPER refresher?** Yes. Like federal OSHA, Cal/OSHA requires 8 hours of refresher training every year for trained hazardous waste workers.
-
-Related courses: Cal/OSHA 40-Hour HAZWOPER Training (2026) (https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/); Cal/OSHA 24-Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training/); Cal/OSHA 8-Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/); Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training (https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training/)
-
----
-
-## RCRA Hazardous Waste Training Requirements by Generator Category
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/rcra-hazardous-waste-training-requirements/
-
-The Resource Conservation and Recovery Act (RCRA) regulates hazardous waste from "cradle to grave." EPA's training requirements depend on how much hazardous waste a site generates each month. RCRA training is a separate requirement from OSHA HAZWOPER, though many facilities need both.
-
-### Generator categories
-
-Category | Hazardous waste per calendar month | On-site accumulation | 
-
-Very small quantity generator (VSQG) | <= 100 kg (and <= 1 kg acute) | No time limit; up to 1,000 kg | 
-
-Small quantity generator (SQG) | > 100 kg and < 1,000 kg | Up to 180 days (270 if TSDF is over 200 miles away); max 6,000 kg | 
-
-Large quantity generator (LQG) | >= 1,000 kg, or > 1 kg acute | Up to 90 days | 
-
-Categories come from 40 CFR 262.13, updated by EPA's 2016 Hazardous Waste Generator Improvements Rule. States may be stricter.
-
-### Training by category
-
-- LQGs (40 CFR 262.17(a)(7)): a formal personnel training program, classroom or on-the-job, teaching hazardous waste management procedures and emergency response relevant to each person's job. New employees must finish within six months and may not work unsupervised until trained. Everyone takes an annual review. Records: job titles, descriptions, training content and completion, kept until closure for current employees and 3 years for former employees.
-
-- SQGs (262.16(b)(9)(iii)): ensure all employees are thoroughly familiar with proper waste handling and emergency procedures relevant to their duties.
-
-- VSQGs: no specific training requirement, though basic training is good practice.
-
-- TSDFs (264.16 / 265.16): formal training like LQGs, and employees also fall under HAZWOPER 1910.120(p).
-
-Courses: RCRA Hazardous Waste Generator Training and the annual RCRA Hazardous Waste Generator Refresher Training.
-
-### Satellite accumulation areas
-
-Generators can collect up to 55 gallons of non-acute hazardous waste, or 1 quart of liquid or 1 kg of solid acute hazardous waste, at or near the point of generation and under the control of the operator (40 CFR 262.15). Containers must be closed, in good condition, compatible with the waste and marked "Hazardous Waste" with an indication of the hazards. See Hazardous Waste Satellite Accumulation Area Training.
-
-### Manifests and DOT training
-
-Off-site shipments travel on the Uniform Hazardous Waste Manifest (EPA Form 8700-22), now handled through EPA's e-Manifest system. Anyone who signs a manifest or prepares a hazardous materials shipment is a DOT hazmat employee and needs training under 49 CFR 172.704 at least every 3 years. See Hazardous Waste Manifest Training and EPA RCRA/DOT Combined Hazardous Materials Compliance Training.
-
-### Universal waste
-
-Batteries, pesticides, mercury-containing equipment, lamps and aerosol cans can be managed under the simpler universal waste rules at 40 CFR 273. Handlers must tell employees about proper handling and emergency procedures. See RCRA Universal Waste Handler Training.
-
-### Contingency plans and emergency coordinators
-
-LQGs and TSDFs need a written contingency plan and an emergency coordinator on site or on call at all times. SQGs need a designated emergency coordinator and posted emergency information. See Hazardous Waste Contingency Plan and Emergency Coordinator Training.
-
-### FAQ
-
-- **Is RCRA training the same as HAZWOPER?** No. RCRA training is an EPA requirement for hazardous waste generators and TSDFs. HAZWOPER is an OSHA worker safety standard. TSDF employees and some generator employees need both.
-- **How often is RCRA training required?** Large quantity generators and TSDFs must provide an annual review of initial training. New employees must be trained within six months.
-- **What are the RCRA generator categories?** Very small quantity generators (100 kg or less per month), small quantity generators (more than 100 kg and less than 1,000 kg) and large quantity generators (1,000 kg or more, or more than 1 kg of acute hazardous waste).
-
-Related courses: RCRA Hazardous Waste Generator Training (https://lj-web-management.github.io/hazwoperosha.us/courses/rcra-hazardous-waste-generator-training/); RCRA Hazardous Waste Generator Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training/); Hazardous Waste Manifest Training (https://lj-web-management.github.io/hazwoperosha.us/courses/hazardous-waste-manifest-training/); RCRA Universal Waste Handler Training (https://lj-web-management.github.io/hazwoperosha.us/courses/rcra-universal-waste-handler-training/); Hazardous Waste Satellite Accumulation Area Training (https://lj-web-management.github.io/hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training/)
-
----
-
-## HAZWOPER Compliance Checklist for Employers
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-employer-compliance-checklist/
-
-Use this checklist to review your HAZWOPER program. It follows the structure of 29 CFR 1910.120 and points to the guides for each topic. It isn't legal advice; your site's hazards and contracts decide what you actually need.
-
-### 1. Scope
-
-- Have you decided which of your operations fall under 1910.120(a)(1): cleanup, corrective action, TSDF, or emergency response?
-
-- If employees won't respond to releases, do you have an emergency action plan (1910.38) that tells them to evacuate?
-
-- For California and other state-plan states, have you checked the state rule? (Cal/OSHA)
-
-### 2. Written programs
-
-- Written safety and health program with organization chart and work plan
-
-- Site-specific safety and health plan for each site, kept on site
-
-- Site characterization before entry
-
-- Site control program with map, work zones and buddy system
-
-- Decontamination procedures
-
-- Emergency response plan
-
-- PPE program and written respiratory protection program (1910.134)
-
-- Spill containment program and confined space procedures
-
-### 3. Training
-
-- Each worker's level matches their duties (40, 24 or 8 hour)
-
-- Supervisors have the extra 8 hours
-
-- Field experience is documented (3 days or 1 day)
-
-- Annual 8-hour refreshers are tracked and up to date (refresher rules)
-
-- Emergency responders are trained to their level (response levels)
-
-- Trainers are qualified (1910.120(e)(5)). Consider train-the-trainer for in-house instructors
-
-- Written certificates are on file for every worker
-
-- Spanish-language training for workers who need it (40 Hour Spanish)
-
-### 4. Medical surveillance
-
-- Workers exposed above PELs 30+ days a year, respirator users 30+ days a year and HAZMAT team members are enrolled
-
-- Baseline, annual, termination and post-exposure exams are scheduled
-
-- Physician's written opinions are on file; records kept for employment plus 30 years
-
-See medical surveillance.
-
-### 5. Monitoring and PPE
-
-- Air monitoring plan with action levels; instruments bump tested and calibrated
-
-- PPE levels chosen from hazard data and written into the plan
-
-- Respirator fit tests done every year
-
-- Heat stress controls for Level A and B work
-
-### 6. Common OSHA citations to avoid
-
-- No written safety and health program or site plan
-
-- Untrained or under-trained employees, or no annual refresher
-
-- No emergency response plan for employers whose staff respond to releases
-
-- No medical surveillance for respirator users or HAZMAT teams
-
-- Missing training certificates
-
-### Training a whole crew
-
-Add every course your team needs to the cart and check out once, with a seat count for each course. For large groups or purchase orders, call or email our team.
-
-### FAQ
-
-- **What are the most common HAZWOPER violations?** Lack of a written safety and health program, missing site-specific plans, untrained or under-trained employees, missed annual refreshers, no emergency response plan, and no medical surveillance for respirator users and HAZMAT teams.
-- **Who can train employees in HAZWOPER?** Trainers must be qualified to instruct by having completed a training program for the subjects they teach, or by academic credentials and instructional experience, under 1910.120(e)(5).
-- **What HAZWOPER records must employers keep?** Training certificates for every employee, documentation of field experience and refreshers, medical surveillance records (employment plus 30 years), and exposure monitoring records.
-
-Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); HAZWOPER Train-the-Trainer Certification (https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-train-the-trainer-certification/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
-
----
-
-## HAZWOPER Glossary: 71 Terms and Acronyms Explained
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-glossary/
-
-Plain-English definitions of the terms and acronyms used in HAZWOPER training, OSHA 29 CFR 1910.120, EPA RCRA and hazardous materials work. Use the site search to jump to a term, or follow the links to the full guides.
-
-### Terms A to Z
-
-- **Access control point**: A controlled entry and exit point between work zones, where workers check in and out and pass through decontamination. Learn more
-
-- **Acute exposure**: A single or short-term exposure to a substance, usually at a high concentration, with effects that appear quickly. Learn more
-
-- **APR (air-purifying respirator)**: A respirator that removes contaminants from ambient air with filters or cartridges. Used in Level C; not for oxygen-deficient or IDLH atmospheres. Learn more
-
-- **Buddy system**: Organizing workers into groups so each one is observed by at least one other worker who can help or call for help in an emergency. Learn more
-
-- **Bump test**: A quick check that exposes a gas detector to a known gas to confirm its sensors and alarms respond. Usually done before each day's use. Learn more
-
-- **CAS number**: A unique number assigned by the Chemical Abstracts Service to identify a chemical substance.
-
-- **Ceiling limit (C)**: An exposure concentration that must never be exceeded, even briefly. Learn more
-
-- **CERCLA**: The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, also called Superfund. It funds and directs cleanup of uncontrolled hazardous waste sites. Learn more
-
-- **CGI (combustible gas indicator)**: An instrument that measures flammable gases and vapors as a percentage of the lower explosive limit (LEL). Learn more
-
-- **Chronic exposure**: Repeated or continuous exposure over a long period, which can cause long-term health effects such as cancer or organ damage. Learn more
-
-- **Colorimetric tube**: A glass tube filled with a reagent that changes color when air containing a specific chemical is drawn through it, giving an estimated concentration. Learn more
-
-- **Confined space**: A space large enough to enter, with limited means of entry or exit, and not designed for continuous occupancy, such as tanks, vaults, pits and trenches.
-
-- **Contamination reduction zone (CRZ)**: The warm zone between the exclusion zone and the support zone, where decontamination takes place. Learn more
-
-- **Contingency plan**: A written plan required for large quantity generators and TSDFs describing actions to take in a fire, explosion or release of hazardous waste. Learn more
-
-- **Decontamination (decon)**: Removing or neutralizing contaminants from people and equipment so hazards do not leave the work area. Learn more
-
-- **Direct-reading instrument**: A monitoring device that gives real-time readings of air contaminants on site, such as a 4-gas meter or PID. Learn more
-
-- **Emergency response**: A response effort by employees from outside the immediate release area, or by other designated responders, to an occurrence that results, or is likely to result, in an uncontrolled release of a hazardous substance. Learn more
-
-- **ERG (Emergency Response Guidebook)**: The U.S. DOT guide first responders use to identify hazardous materials by UN/NA number or name and find initial protective actions. Learn more
-
-- **Exclusion zone (EZ)**: The hot zone where contamination is or could be present. Entry requires the specified PPE. Learn more
-
-- **FID (flame ionization detector)**: An instrument that detects organic vapors, including methane, by burning the sample in a hydrogen flame. Learn more
-
-- **First responder awareness level**: Responders who are likely to witness or discover a release and are trained only to start the response by notifying authorities. Learn more
-
-- **First responder operations level**: Responders who act defensively to protect people, property and the environment from a release, without trying to stop it. At least 8 hours of training. Learn more
-
-- **Hazardous substance**: Under HAZWOPER, any substance designated under CERCLA, biological or disease-causing agents, DOT hazardous materials, and hazardous wastes. Learn more
-
-- **Hazardous waste**: Waste listed by EPA or showing a hazardous characteristic: ignitability, corrosivity, reactivity or toxicity. Learn more
-
-- **HASP**: Health and safety plan: the site-specific safety and health plan required by 1910.120(b)(4). Learn more
-
-- **HAZMAT team**: An organized group of employees designated by the employer to handle and control actual or potential leaks or spills of hazardous substances. Learn more
-
-- **Hazardous materials specialist**: A responder with specific knowledge of hazardous substances who supports technicians. At least 24 hours of technician-level training. Learn more
-
-- **Hazardous materials technician**: A responder who approaches the point of release to plug, patch or stop it. At least 24 hours of training. Learn more
-
-- **HAZWOPER**: Hazardous Waste Operations and Emergency Response, the OSHA standard at 29 CFR 1910.120 and 1926.65. Learn more
-
-- **Heat stress**: A dangerous rise in body temperature, common when wearing chemical protective clothing. Ranges from heat rash and cramps to heat exhaustion and heat stroke. Learn more
-
-- **Hot line**: The boundary that marks the outer edge of the exclusion zone. Learn more
-
-- **ICS (incident command system)**: A standardized organizational structure for managing an emergency response, required by 1910.120(q)(3). Learn more
-
-- **IDLH**: Immediately Dangerous to Life or Health: a concentration that could cause death or serious permanent harm or prevent escape. Learn more
-
-- **Incident commander**: The person in charge of the on-scene emergency response. Needs at least 24 hours of training equal to operations level plus competencies. Learn more
-
-- **Ionization potential (IP)**: The energy needed to ionize a molecule. A PID detects a chemical only if its lamp energy is higher than the chemical's IP. Learn more
-
-- **LEL (lower explosive limit)**: The lowest concentration of a gas or vapor in air that will burn or explode if ignited. Also called lower flammable limit (LFL). Learn more
-
-- **Level A**: The highest level of PPE: SCBA or supplied air plus a totally encapsulating, vapor-tight chemical suit. Learn more
-
-- **Level B**: PPE with the highest respiratory protection (SCBA or supplied air) and splash-protective, non-vapor-tight clothing. Learn more
-
-- **Level C**: PPE with an air-purifying respirator and chemical-resistant clothing, used when contaminants and concentrations are known. Learn more
-
-- **Level D**: A work uniform with no respiratory protection, for nuisance contamination only. Learn more
-
-- **LQG (large quantity generator)**: A site that generates 1,000 kg or more of hazardous waste, or more than 1 kg of acute hazardous waste, in a calendar month. Learn more
-
-- **Manifest**: The Uniform Hazardous Waste Manifest (EPA Form 8700-22) that tracks hazardous waste from generator to destination facility. Learn more
-
-- **Medical surveillance**: The program of medical exams HAZWOPER requires for workers exposed above limits, respirator users and HAZMAT team members. Learn more
-
-- **Oxygen deficient atmosphere**: Air with less than 19.5% oxygen by volume. Learn more
-
-- **Oxygen enriched atmosphere**: Air with more than 23.5% oxygen by volume, which increases fire risk. Learn more
-
-- **PAPR**: Powered air-purifying respirator: a blower forces air through filters into the facepiece or hood. Learn more
-
-- **PEL (permissible exposure limit)**: OSHA's legally enforceable airborne exposure limit, usually an 8-hour time-weighted average. Learn more
-
-- **PID (photoionization detector)**: An instrument that uses ultraviolet light to ionize and measure many volatile organic compounds. Learn more
-
-- **PPE**: Personal protective equipment: respirators, protective clothing, gloves, boots, eye and face protection. Learn more
-
-- **RCRA**: The Resource Conservation and Recovery Act, the federal law governing hazardous waste from generation to disposal. Learn more
-
-- **REL (recommended exposure limit)**: NIOSH's recommended exposure limit, often more protective than the OSHA PEL. Learn more
-
-- **Refresher training**: The 8 hours of annual training HAZWOPER requires to keep 40 and 24 hour workers current. Learn more
-
-- **SARA**: The Superfund Amendments and Reauthorization Act of 1986, which directed OSHA to write the HAZWOPER standard. Learn more
-
-- **Satellite accumulation area (SAA)**: An area at or near the point of generation where up to 55 gallons of hazardous waste (or 1 quart/1 kg of acute) can be collected under operator control. Learn more
-
-- **SCBA**: Self-contained breathing apparatus: a respirator with its own air supply carried by the user. Used in Level A and B. Learn more
-
-- **SDS (safety data sheet)**: The document from the manufacturer that lists a chemical's hazards, exposure limits, PPE and emergency measures. Learn more
-
-- **Site characterization**: Evaluating a hazardous waste site before and during entry to identify hazards and select controls and PPE. Learn more
-
-- **Site safety and health supervisor**: The person responsible to the employer with authority to develop and carry out the site safety and health plan. Learn more
-
-- **Skilled support personnel**: Workers skilled in operating specific equipment, such as cranes or backhoes, who are needed temporarily during an emergency response. Learn more
-
-- **SQG (small quantity generator)**: A site that generates more than 100 kg but less than 1,000 kg of hazardous waste in a calendar month. Learn more
-
-- **STEL (short-term exposure limit)**: A 15-minute time-weighted average exposure that should not be exceeded at any time in the workday. Learn more
-
-- **Supplied-air respirator (SAR)**: A respirator that supplies breathing air through a hose from a remote source. Used with an escape bottle in IDLH conditions. Learn more
-
-- **Support zone (SZ)**: The clean, cold zone upwind of the exclusion zone, holding the command post, first aid and support equipment. Learn more
-
-- **TLV (threshold limit value)**: ACGIH's guideline exposure limit, updated yearly. Learn more
-
-- **TSDF**: Treatment, storage and disposal facility for hazardous waste, regulated under RCRA (40 CFR 264/265) and covered by HAZWOPER 1910.120(p). Learn more
-
-- **TWA (time-weighted average)**: The average exposure concentration over a work shift, usually 8 hours. Learn more
-
-- **UEL (upper explosive limit)**: The highest concentration of a gas or vapor in air that will burn. Above the UEL the mixture is too rich to burn. Learn more
-
-- **Uncontrolled hazardous waste site**: An area where hazardous substances have accumulated and pose a threat to people or the environment, such as Superfund sites and abandoned dumps. Learn more
-
-- **Universal waste**: Common hazardous wastes such as batteries, lamps, pesticides, mercury equipment and aerosol cans, managed under simpler rules at 40 CFR 273. Learn more
-
-- **Vapor density**: The weight of a vapor compared with air. Vapors with a density above 1 sink and collect in low areas. Learn more
-
-- **VSQG (very small quantity generator)**: A site that generates 100 kg or less of hazardous waste, and 1 kg or less of acute hazardous waste, in a calendar month. Learn more
-
-Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 24 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/); RCRA Hazardous Waste Generator Training (https://lj-web-management.github.io/hazwoperosha.us/courses/rcra-hazardous-waste-generator-training/)
-
----
-
-## Practice quiz questions and answers
-
-### HAZWOPER 40 Hour Practice Test
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/quizzes/hazwoper-40-hour-practice-test/
-
-1. What does HAZWOPER stand for?
-   Answer: Hazardous Waste Operations and Emergency Response. HAZWOPER is Hazardous Waste Operations and Emergency Response, OSHA 29 CFR 1910.120.
-2. How much supervised field experience does a 40-hour general site worker need?
-   Answer: 3 days. 1910.120(e)(3)(i) requires 40 hours of off-site instruction plus at least 3 days of actual field experience under a trained, experienced supervisor.
-3. How often is HAZWOPER refresher training required?
-   Answer: Every year. 1910.120(e)(8) requires 8 hours of refresher training annually.
-4. Which PPE level gives the highest level of skin, eye and respiratory protection?
-   Answer: Level A. Level A combines SCBA or supplied air with a totally encapsulating, vapor-tight suit.
-5. Below what oxygen concentration is an atmosphere considered oxygen deficient?
-   Answer: 19.5%. OSHA defines oxygen deficient as less than 19.5% oxygen by volume. Normal air is about 20.9%.
-6. In which work zone does decontamination take place?
-   Answer: Contamination reduction zone. The decon line sits in the contamination reduction zone (warm zone), between the exclusion and support zones.
-7. Where should the support zone be located?
-   Answer: Upwind of the exclusion zone. The support zone is clean and placed upwind so vapors and dust drift away from it.
-8. Which PPE level uses an air-purifying respirator?
-   Answer: Level C. Level C uses an air-purifying respirator, allowed only when contaminants are known and APR criteria are met.
-9. What is the buddy system?
-   Answer: Workers are organized so each is observed by at least one other worker. Under 1910.120(a)(3), the buddy system organizes employees so each one is observed by at least one other in the group.
-10. How many additional hours of training do on-site supervisors need beyond worker training?
-   Answer: 8 hours. 1910.120(e)(4) requires at least 8 additional hours of specialized training for managers and supervisors.
-11. Which of these must be in the site-specific safety and health plan?
-   Answer: Decontamination procedures. Decontamination procedures are one of the required HASP elements in 1910.120(b)(4)(ii).
-12. A combustible gas reading above what percentage of the LEL commonly means workers should withdraw?
-   Answer: 25%. Common EPA guidance treats readings above 25% LEL as an explosion hazard requiring withdrawal. Your site plan sets the exact action levels.
-13. Medical surveillance is required for employees who wear a respirator for how many days or more per year?
-   Answer: 30. 1910.120(f)(2) covers employees who wear respirators 30 days or more a year, among other groups.
-14. What is the most common route of exposure at hazardous waste sites?
-   Answer: Inhalation. Inhalation of gases, vapors, mists and dusts is the most common route of exposure.
-15. What does IDLH stand for?
-   Answer: Immediately Dangerous to Life or Health. IDLH is Immediately Dangerous to Life or Health. Only atmosphere-supplying respirators are used at or above IDLH.
-
-### HAZWOPER 8 Hour Refresher Practice Quiz
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/quizzes/hazwoper-8-hour-refresher-practice-quiz/
-
-1. How many hours of HAZWOPER refresher training are required each year?
-   Answer: 8. 1910.120(e)(8) requires at least 8 hours of refresher training annually.
-2. Who needs the annual 8-hour refresher?
-   Answer: Workers trained at the 40 or 24 hour level. Both 40-hour and 24-hour trained workers take the same 8-hour annual refresher.
-3. What must an employee receive after completing HAZWOPER training?
-   Answer: A written certificate. 1910.120(e)(7) requires a written certificate for employees who successfully complete training.
-4. How long must HAZWOPER medical records be kept?
-   Answer: Duration of employment plus 30 years. Medical records are kept for the duration of employment plus 30 years under 1910.1020.
-5. How often are medical surveillance exams normally required?
-   Answer: Every 12 months. At least every 12 months, unless the physician decides a longer interval (no more than two years) is appropriate.
-6. Where must the site safety and health plan be kept?
-   Answer: On site. The site-specific safety and health plan must be kept on site.
-7. What does a refresher course typically include?
-   Answer: Review of core topics plus critiques of incidents and changes. Refreshers review core skills and cover relevant changes, recent incidents and lessons learned.
-8. Before each day's use, a gas detector should get a:
-   Answer: Bump test. A bump test confirms sensors and alarms respond to gas. Full calibration follows the manufacturer schedule or a failed bump test.
-9. Which PPE level should never be used where there is an atmospheric hazard?
-   Answer: Level D. Level D has no respiratory protection and is for nuisance contamination only.
-10. Who pays for HAZWOPER medical exams?
-   Answer: The employer. Exams are provided by the employer at no cost to the employee and without loss of pay.
-
-### HAZWOPER PPE Levels Quiz (Levels A, B, C and D)
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/quizzes/ppe-levels-quiz/
-
-1. What makes Level A different from Level B?
-   Answer: Level A uses a totally encapsulating, vapor-tight suit. Both use SCBA or supplied air. Level A adds a vapor-tight, fully encapsulating suit.
-2. Which level is the minimum recommended for initial entry to a site with unknown hazards?
-   Answer: Level B. Level B is the minimum recommended for initial site entry until hazards are identified.
-3. Level C may be used only when:
-   Answer: Contaminants and concentrations are known and APR criteria are met. Level C requires known contaminants, oxygen of at least 19.5%, concentrations below IDLH, and APR criteria met.
-4. Which respirator is part of Level B?
-   Answer: Positive-pressure SCBA. Level B uses positive-pressure SCBA or supplied air with escape SCBA.
-5. Level D protection is appropriate when:
-   Answer: There is no known atmospheric hazard. Level D is a work uniform for sites with no atmospheric hazard and only nuisance contamination.
-6. Which level is used for an oxygen-deficient atmosphere where skin hazard is low?
-   Answer: Level B. Oxygen deficiency needs an atmosphere-supplying respirator; with low skin hazard, Level B fits.
-7. Air-purifying respirators can be used in atmospheres that are IDLH.
-   Answer: False. False. Only SCBA or supplied air with escape SCBA is used at or above IDLH.
-8. Why is heat stress a major concern in Level A and B?
-   Answer: Chemical-protective clothing traps body heat. Impermeable clothing prevents cooling by evaporation, so work-rest cycles and fluids are needed.
-9. What is a PAPR?
-   Answer: Powered air-purifying respirator. A powered air-purifying respirator blows filtered air into the facepiece or hood. It is an air-purifying respirator, used in Level C.
-10. What can trigger a change in PPE level during work?
-   Answer: Air monitoring results. Monitoring results, new site data and changes in tasks can raise or lower the level, according to the site plan action levels.
-
-### Air Monitoring and Gas Detection Quiz
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/quizzes/air-monitoring-quiz/
-
-1. Above what oxygen level is an atmosphere considered oxygen enriched?
-   Answer: 23.5%. Above 23.5% oxygen is enriched and increases fire risk.
-2. What should you test first on initial entry?
-   Answer: Oxygen. Test oxygen first: low oxygen kills quickly and also affects combustible gas readings.
-3. What does LEL stand for?
-   Answer: Lower explosive limit. The lower explosive limit is the lowest concentration of a gas in air that will ignite.
-4. Which instrument does NOT respond well to methane?
-   Answer: PID. Methane's ionization potential is higher than standard PID lamp energies, so PIDs miss it. FIDs detect it.
-5. A typical 4-gas meter measures:
-   Answer: O2, LEL, H2S and CO. Standard 4-gas meters measure oxygen, combustibles (LEL), hydrogen sulfide and carbon monoxide.
-6. What is a bump test?
-   Answer: Exposing the meter to a known gas to check the sensors and alarms respond. A bump test is a functional check, usually done before each day's use.
-7. Gases with a vapor density greater than 1 tend to:
-   Answer: Sink and collect in low areas. Heavier-than-air gases sink into trenches, pits and basements, so monitor low points.
-8. Which gives a reading for one specific chemical?
-   Answer: Colorimetric detector tube. Colorimetric tubes are chemical-specific; PIDs and FIDs respond to many compounds.
-9. A STEL is averaged over:
-   Answer: 15 minutes. A short-term exposure limit is a 15-minute time-weighted average.
-10. Combustible gas readings are accurate only when:
-   Answer: Oxygen levels are normal. Catalytic LEL sensors need oxygen; in oxygen-deficient air they can read low.
-
-### Decontamination and Site Control Quiz
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/quizzes/decontamination-and-site-control-quiz/
-
-1. What is another name for the exclusion zone?
-   Answer: Hot zone. The exclusion zone is the hot zone where contamination is or could be present.
-2. The decontamination line is set up in order from:
-   Answer: Dirtiest to cleanest. Decon moves workers from the most contaminated station to the least contaminated.
-3. When must a written decon procedure be in place?
-   Answer: Before anyone enters the site. 1910.120(k)(1) requires the procedure to be developed and communicated before entry.
-4. What is usually the first station on a decon line?
-   Answer: Segregated equipment drop. Workers first drop tools and instruments on plastic or in containers before washing.
-5. What should you do with protective clothing that can't be decontaminated?
-   Answer: Dispose of it properly. PPE that can't be decontaminated must be disposed of; contaminated clothing never goes home.
-6. Which is NOT a required element of the site control program?
-   Answer: Employee vacation schedule. Site control needs a site map, work zones, buddy system, communications, SOPs and nearest medical assistance.
-7. If a seriously injured worker is contaminated, you should:
-   Answer: Give life-saving care first and do gross decon only if it doesn't delay care. Life-saving care comes first. Do quick gross decon if possible, and tell medical staff the contaminant.
-8. Workers enter and leave the exclusion zone through:
-   Answer: Access control points. Access control points control entry and exit and route workers through decon.
-9. Why are eating, drinking and smoking banned in the exclusion zone?
-   Answer: To prevent ingestion of contaminants. Hand-to-mouth contact is a key ingestion route.
-10. How can you check whether decon worked?
-   Answer: Wipe sampling or testing the final rinse. Visual inspection, wipe samples and rinse-solution testing show whether decon removed contaminants.
-
-### HAZWOPER First Responder Awareness Level Quiz
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/quizzes/first-responder-awareness-quiz/
-
-1. What is the main role of an awareness-level first responder?
-   Answer: Recognize the release and notify the proper authorities. Awareness responders start the response by notifying authorities and take no further action.
-2. How many hours of training does first responder operations level require at minimum?
-   Answer: 8 hours. 1910.120(q)(6)(ii) requires at least 8 hours plus awareness competencies.
-3. Which responder approaches the point of release to stop it?
-   Answer: Hazardous materials technician. Technicians take offensive action to plug, patch or stop the release.
-4. What guidebook do first responders use to identify hazardous materials and initial actions?
-   Answer: The DOT Emergency Response Guidebook (ERG). The DOT ERG identifies materials by ID number or name and lists initial protective actions.
-5. Operations-level responders act:
-   Answer: Defensively from a safe distance. Operations responders contain the release from a distance and keep it from spreading.
-6. HAZWOPER requires emergency responses to be managed with:
-   Answer: An incident command system. 1910.120(q)(3) requires a site-specific incident command system led by the senior official on scene.
-7. How much training does an on-scene incident commander need?
-   Answer: At least 24 hours equal to operations level. 1910.120(q)(6)(v) requires at least 24 hours of training equal to operations level plus competencies.
-8. An employer that will evacuate employees and not let them respond to releases needs:
-   Answer: An emergency action plan under 1910.38. Employers who evacuate and rely on outside responders can use an emergency action plan instead of paragraph (q).
-9. Emergency responders need refresher training:
-   Answer: Annually, or annual demonstration of competency. 1910.120(q)(8) requires annual refresher training or a yearly demonstration of competency.
-10. If you discover a chemical release at work, you should first:
-   Answer: Move away, isolate the area if safe, and notify per your emergency plan. Stay safe, keep others away, and make the notifications your emergency response plan specifies.
-
-### RCRA Hazardous Waste Generator Quiz
-
-URL: https://lj-web-management.github.io/hazwoperosha.us/quizzes/rcra-hazardous-waste-quiz/
-
-1. A site generating 1,000 kg or more of hazardous waste per month is a:
-   Answer: LQG. Large quantity generators produce 1,000 kg or more per month, or more than 1 kg of acute hazardous waste.
-2. How long may an LQG accumulate hazardous waste on site?
-   Answer: 90 days. LQGs may accumulate for up to 90 days.
-3. How long may an SQG accumulate hazardous waste (TSDF within 200 miles)?
-   Answer: 180 days. SQGs may accumulate for up to 180 days, or 270 days if the TSDF is more than 200 miles away.
-4. How much non-acute hazardous waste can be kept in a satellite accumulation area?
-   Answer: 55 gallons. 40 CFR 262.15 allows up to 55 gallons of non-acute hazardous waste at or near the point of generation.
-5. New LQG employees must complete RCRA training within:
-   Answer: 6 months. Under 262.17(a)(7), new employees must be trained within six months and work under supervision until then.
-6. Which form tracks hazardous waste shipments off site?
-   Answer: Uniform Hazardous Waste Manifest (EPA Form 8700-22). The Uniform Hazardous Waste Manifest tracks waste from generator to destination, now through e-Manifest.
-7. DOT hazmat employee training is required at least every:
-   Answer: 3 years. 49 CFR 172.704 requires recurrent training at least once every three years.
-8. Which is NOT a federal universal waste?
-   Answer: Spent solvents. Federal universal wastes are batteries, pesticides, mercury-containing equipment, lamps and aerosol cans.
-9. What are the four characteristics of hazardous waste?
-   Answer: Ignitability, corrosivity, reactivity, toxicity. Characteristic hazardous waste is ignitable, corrosive, reactive or toxic (40 CFR 261 Subpart C).
-10. Is RCRA training the same as HAZWOPER training?
-   Answer: No, RCRA is EPA and HAZWOPER is OSHA. They are separate requirements. TSDF employees and some generator employees need both.

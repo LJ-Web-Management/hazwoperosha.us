@@ -1,6 +1,6 @@
 # HazwoperOSHA.us - HAZWOPER Courses
 
-> HazwoperOSHA.us offers the complete catalog of OSHA HAZWOPER (29 CFR 1910.120 / 1926.65) training online: 40 hour, 24 hour, 8 hour annual refresher, supervisor, incident command, first responder awareness, industry-specific 40 hour, Cal/OSHA (8 CCR 5192), Spanish, RCRA hazardous waste and TSDF courses. All courses are self-paced and online with instant certificates and wallet cards. Contact: sales@hazwoper-osha.com, +1-866-429-6742.
+> HazwoperOSHA.us provides online OSHA HAZWOPER training for employers, contractors and public agencies who train crews, with a crew training planner that turns roles and headcounts into one order, and employer resources on training by industry, OSHA state plans, public employees and volunteers (EPA 40 CFR 311), building a training program, recordkeeping, onboarding experienced hires, budgeting, multi-employer sites and Spanish-speaking crews. Contact: sales@hazwoper-osha.com, +1-866-429-6742.
 
 ## Key facts
 
@@ -8,25 +8,25 @@
 - Format: 100% online, self-paced, any device, progress saved automatically
 - Certificate: certificate of completion and wallet card available immediately after passing
 - Languages: English; OSHA 40-Hour HAZWOPER also in Spanish
-- Employers: bulk seats with volume discounts and certificate tracking
+- Employers: one cart and one checkout for every course and seat a team needs
 
 ## Courses
 
-### Core OSHA HAZWOPER Certification
+### Core Crew Training: 40, 24 & 4 Hour
 
 - [OSHA 40 Hour HAZWOPER Training](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/): 40 Hours, $249.99. Meets 29 CFR 1910.120(e) / 1926.65(e).
 - [OSHA 24 Hour HAZWOPER Training](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/): 24 Hours, $169.99. Meets 29 CFR 1910.120(e).
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/): 4 Hours, $61.99. Meets 29 CFR 1910.120(q)(6)(i).
 - [OSHA 40-Hour HAZWOPER Training (Spanish)](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish/): 40 Hours, $249.99. Meets 29 CFR 1910.120(e)(3)(i) - Spanish language.
 
-### Industry-Specific 40 Hour HAZWOPER
+### 40-Hour Courses by Industry
 
 - [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites/): 40 Hours, $249.99. Meets 29 CFR 1910.120(e) / 1926.65(e).
 - [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/): 40 Hours, $249.99. Meets 29 CFR 1910.120(e) / 1926.65(e).
 - [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation/): 40 Hours, $249.99. Meets 29 CFR 1910.120(e) / 1926.65(e).
 - [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response/): 40 Hours, $249.99. Meets 29 CFR 1910.120(e) / 1926.65(e).
 
-### HAZWOPER Refresher, Supervisor & Incident Command
+### Annual Refreshers, Supervisors & Incident Command
 
 - [OSHA 8 Hour HAZWOPER Refresher Training](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/): 8 Hours, $89.99. Meets 29 CFR 1910.120(e)(8).
 - [8 Hour HAZWOPER and Incident Command Refresher Training](https://lj-web-management.github.io/hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training/): 8 Hours, $159.99. Meets 29 CFR 1910.120(q)(8).
@@ -36,7 +36,7 @@
 - [OSHA 8 Hour HAZWOPER Supervisor Training](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/): 8 Hours, $179.99. Meets 29 CFR 1910.120(e)(4).
 - [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training/): 8 Hours, $109.99. Meets 29 CFR 1910.120(e)(8) / 1910.111.
 
-### Cal/OSHA & State-Plan HAZWOPER
+### Cal/OSHA & State-Plan Versions
 
 - [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/): 40 Hours, $219.99. Meets 8 CCR 5192(e).
 - [Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training/): 24 Hours, $249.99. Meets 8 CCR 5192(p) / RCRA.
@@ -46,7 +46,7 @@
 - [Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training/): 8 Hours, $109.99. Meets 8 CCR 5192(p)(8) / RCRA.
 - [Cal/OSHA RCRA Hazardous Waste Training](https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training/): 4 Hours, $49.99. Meets 22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192.
 
-### RCRA Hazardous Waste & TSDF
+### Hazardous Waste Staff (RCRA & TSDF)
 
 - [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training/): 24 Hours, $229.99. Meets 29 CFR 1910.120(p) / RCRA.
 - [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training/): 24 Hours, $199.99. Meets 29 CFR 1910.120 / RCRA.
@@ -59,7 +59,7 @@
 - [Hazardous Waste Satellite Accumulation Area Training](https://lj-web-management.github.io/hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training/): 2 Hours, $59.99. Meets 40 CFR 262.15.
 - [RCRA Universal Waste Handler Training](https://lj-web-management.github.io/hazwoperosha.us/courses/rcra-universal-waste-handler-training/): 2 Hours, $34.99. Meets 40 CFR 273 (RCRA).
 
-### Spill Response, Air Monitoring & Micro-Modules
+### Spill, Monitoring & PPE Modules
 
 - [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response/): 40 Hours, $249.99. Meets 29 CFR 1910.120(e) / 1926.65(e).
 - [OSHA Air Monitoring and Gas Detection Training](https://lj-web-management.github.io/hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training/): 2 Hours, $49.99. Meets 29 CFR 1910.120 / 1910.146 / 1910.1000.
@@ -71,52 +71,36 @@
 - [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment/): 20 Min, $14.99. Meets 29 CFR 1910.120(e) / 1926.65(e).
 - [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained/): 15 Min, $12.99. Meets 29 CFR 1910.120(e) / 1926.65(e).
 
-### HAZWOPER Train-the-Trainer
+### Train Your Own Instructors
 
 - [HAZWOPER Train-the-Trainer Certification](https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-train-the-trainer-certification/): 24 Hours, $399.99. Meets 29 CFR 1910.120(e).
 
-## Guides
+## Employer Resources
 
-- [What Is HAZWOPER? The Complete Guide to OSHA 29 CFR 1910.120](https://lj-web-management.github.io/hazwoperosha.us/guides/what-is-hazwoper/): What HAZWOPER means, who it covers, the 40, 24 and 8 hour training levels, emergency response, medical surveillance and how to get certified under OSHA 29 CFR 1910.120.
-- [40 vs 24 vs 8 Hour HAZWOPER: Which Training Do You Need?](https://lj-web-management.github.io/hazwoperosha.us/guides/which-hazwoper-course-do-i-need/): Compare 40 hour, 24 hour and 8 hour HAZWOPER training. Who needs each level under OSHA 1910.120(e), field experience rules, supervisor training and how to upgrade from 24 to 40.
-- [HAZWOPER 8 Hour Refresher Requirements: Deadlines, Lapses and Records](https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-refresher-requirements/): OSHA requires 8 hours of HAZWOPER refresher training every year under 1910.120(e)(8). When it is due, what happens if it lapses, what it covers, and the records employers keep.
-- [How to Get HAZWOPER Certified Online (and How Long It Lasts)](https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-certification/): Step-by-step guide to HAZWOPER certification: choosing a level, online training, field experience, certificates and wallet cards, how long HAZWOPER certification lasts and how to verify it.
-- [PPE Levels A, B, C and D Explained (EPA and OSHA HAZWOPER)](https://lj-web-management.github.io/hazwoperosha.us/guides/ppe-levels-a-b-c-d/): The four levels of HAZWOPER personal protective equipment: what Level A, B, C and D include, when to use each, and how to choose a level under OSHA 1910.120 Appendix B.
-- [HAZWOPER Decontamination Procedures: Decon Line Setup and Steps](https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-decontamination/): How HAZWOPER decontamination works under 1910.120(k): decon methods, setting up the contamination reduction corridor, typical decon line stations, equipment decon and emergency decon.
-- [Site Control and Work Zones: Exclusion, Contamination Reduction and Support Zones](https://lj-web-management.github.io/hazwoperosha.us/guides/site-control-work-zones/): HAZWOPER site control under 1910.120(d): the site control program, hot, warm and cold work zones, the buddy system, access control points and site communications.
-- [HAZWOPER Air Monitoring: Oxygen, LEL, Toxics and Direct-Reading Instruments](https://lj-web-management.github.io/hazwoperosha.us/guides/air-monitoring/): HAZWOPER air monitoring under 1910.120(h): oxygen, LEL and toxic action levels, 4-gas meters, PIDs, FIDs, colorimetric tubes, bump testing, calibration and monitoring order.
-- [Site-Specific Safety and Health Plan (HASP) Requirements Under 1910.120(b)](https://lj-web-management.github.io/hazwoperosha.us/guides/site-safety-and-health-plan/): What a HAZWOPER site-specific safety and health plan (HASP) must contain under OSHA 1910.120(b)(4), who writes it, pre-entry briefings, inspections and a checklist of required elements.
-- [HAZWOPER Emergency Response Training Levels: Awareness to Incident Commander](https://lj-web-management.github.io/hazwoperosha.us/guides/emergency-response-training-levels/): The five HAZWOPER emergency responder levels under 1910.120(q)(6): first responder awareness, operations, HAZMAT technician, specialist and on-scene incident commander, with required hours and competencies.
-- [HAZWOPER Medical Surveillance Requirements (1910.120(f))](https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-medical-surveillance/): Who needs HAZWOPER medical surveillance under OSHA 1910.120(f), exam frequency, what the exam includes, the physician's written opinion and 30-year record retention.
-- [Exposure Limits Explained: PEL, REL, TLV, STEL, Ceiling and IDLH](https://lj-web-management.github.io/hazwoperosha.us/guides/exposure-limits-pel-tlv-idlh/): Plain-English guide to occupational exposure limits used in HAZWOPER: OSHA PEL, NIOSH REL, ACGIH TLV, TWA, STEL, ceiling, IDLH, and routes of exposure.
-- [Cal/OSHA HAZWOPER (Title 8 CCR 5192): California Training Guide](https://lj-web-management.github.io/hazwoperosha.us/guides/cal-osha-hazwoper/): California HAZWOPER training under Title 8 CCR 5192: who needs it, 40, 24 and 8 hour Cal/OSHA courses, TSDF training, and how Cal/OSHA compares with federal OSHA 1910.120.
-- [RCRA Hazardous Waste Training Requirements by Generator Category](https://lj-web-management.github.io/hazwoperosha.us/guides/rcra-hazardous-waste-training-requirements/): EPA RCRA hazardous waste training requirements for VSQGs, SQGs and LQGs, satellite accumulation, manifests, universal waste, DOT hazmat training and how RCRA training relates to HAZWOPER.
-- [HAZWOPER Compliance Checklist for Employers](https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-employer-compliance-checklist/): A practical HAZWOPER compliance checklist for employers and EHS managers: scope, written programs, training records, medical surveillance, PPE, emergency response and common OSHA citations.
-- [HAZWOPER Glossary: 71 Terms and Acronyms Explained](https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-glossary/): Definitions of 71 HAZWOPER, OSHA, EPA and RCRA terms and acronyms: IDLH, LEL, PEL, SCBA, PPE levels, work zones, decon, generator categories and more.
+- [HAZWOPER Training by Industry: Which Courses Each Crew Needs](https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-training-by-industry/): Which HAZWOPER, emergency response and RCRA courses employers in remediation, construction, oil and gas, utilities, manufacturing, waste management, healthcare and logistics typically buy for their crews.
+- [OSHA State Plans and HAZWOPER: Which Rules Apply to Your Crew](https://lj-web-management.github.io/hazwoperosha.us/guides/osha-state-plans-and-hazwoper/): Which HAZWOPER rules apply in each state: federal OSHA states, state plans covering private employers, public-employee-only plans, California's 8 CCR 5192, and multi-state crews.
+- [HAZWOPER for Public Employees and Volunteers (EPA 40 CFR Part 311)](https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-for-public-employees-and-volunteers/): How HAZWOPER applies to state and local government employees and volunteer responders: EPA 40 CFR Part 311, public-sector state plans, fire departments, public works and training levels.
+- [How to Build a HAZWOPER Training Program for Your Company](https://lj-web-management.github.io/hazwoperosha.us/guides/building-a-hazwoper-training-program/): Step-by-step guide for employers: deciding whether HAZWOPER applies, assigning training levels by role, field experience, refresher scheduling, trainers, site-specific training and budgeting.
+- [HAZWOPER Training Records: What Employers Must Keep and for How Long](https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-training-records-for-employers/): The records employers keep for HAZWOPER: training certificates, field experience, refreshers, medical and exposure records, respirator fit tests, RCRA training files, and an audit-ready file layout.
+- [Onboarding New Hires With Prior HAZWOPER Training](https://lj-web-management.github.io/hazwoperosha.us/guides/onboarding-new-hires-with-prior-hazwoper-training/): How employers verify and accept a new hire's prior HAZWOPER training under 1910.120(e)(9), handle lapsed refreshers, and complete site-specific training, field experience, medical and fit testing.
+- [Budgeting for HAZWOPER Training: A Worked Example for a 10-Person Crew](https://lj-web-management.github.io/hazwoperosha.us/guides/budgeting-for-hazwoper-training/): How to budget HAZWOPER training for a crew: first-year and ongoing costs, a worked example for a 10-person remediation crew, hidden costs like field days and wages, and ways to plan ahead.
+- [Contractors, Subcontractors and Multi-Employer HAZWOPER Sites](https://lj-web-management.github.io/hazwoperosha.us/guides/contractors-and-multi-employer-hazwoper-sites/): HAZWOPER duties when several employers share a site: informing contractors under 1910.120(b), OSHA's multi-employer citation policy, verifying subcontractor training and prequalification checklists.
+- [HAZWOPER Training for Spanish-Speaking and Multilingual Crews](https://lj-web-management.github.io/hazwoperosha.us/guides/training-spanish-speaking-and-multilingual-crews/): OSHA expects training in a language and vocabulary workers understand. How employers train Spanish-speaking and multilingual HAZWOPER crews, check comprehension and handle site communication.
 
-## Free practice quizzes
+## Tools
 
-- [HAZWOPER 40 Hour Practice Test](https://lj-web-management.github.io/hazwoperosha.us/quizzes/hazwoper-40-hour-practice-test/): 15 questions with answers.
-- [HAZWOPER 8 Hour Refresher Practice Quiz](https://lj-web-management.github.io/hazwoperosha.us/quizzes/hazwoper-8-hour-refresher-practice-quiz/): 10 questions with answers.
-- [HAZWOPER PPE Levels Quiz (Levels A, B, C and D)](https://lj-web-management.github.io/hazwoperosha.us/quizzes/ppe-levels-quiz/): 10 questions with answers.
-- [Air Monitoring and Gas Detection Quiz](https://lj-web-management.github.io/hazwoperosha.us/quizzes/air-monitoring-quiz/): 10 questions with answers.
-- [Decontamination and Site Control Quiz](https://lj-web-management.github.io/hazwoperosha.us/quizzes/decontamination-and-site-control-quiz/): 10 questions with answers.
-- [HAZWOPER First Responder Awareness Level Quiz](https://lj-web-management.github.io/hazwoperosha.us/quizzes/first-responder-awareness-quiz/): 10 questions with answers.
-- [RCRA Hazardous Waste Generator Quiz](https://lj-web-management.github.io/hazwoperosha.us/quizzes/rcra-hazardous-waste-quiz/): 10 questions with answers.
+- [HAZWOPER Crew Training Planner](https://lj-web-management.github.io/hazwoperosha.us/crew-training-planner/): Free HAZWOPER crew training planner: enter how many workers you have in each role and get the courses, seats and total, then add everything to your cart in one click.
 
 ## FAQ
 
-- **What is HAZWOPER training?** HAZWOPER stands for Hazardous Waste Operations and Emergency Response. It is the OSHA standard at 29 CFR 1910.120 (and 29 CFR 1926.65 for construction) that requires training for workers who clean up hazardous waste sites, work at RCRA treatment, storage and disposal (TSD) facilities, or respond to hazardous substance releases.
-- **Who needs 40 hour HAZWOPER training?** General site workers at uncontrolled hazardous waste sites, such as laborers, equipment operators and remediation technicians, who may be exposed to hazardous substances at or above permissible exposure limits must complete 40 hours of off-site instruction plus 3 days of supervised field experience under 29 CFR 1910.120(e)(3)(i).
-- **What is the difference between 40 hour and 24 hour HAZWOPER?** The 40-hour course is for general site workers with potential exposure above permissible limits. The 24-hour course is for occasional site workers, or workers in areas already monitored and characterized where exposures are below permissible limits and respirators are not required, per 29 CFR 1910.120(e)(3)(ii) and (iii).
-- **How often do I need a HAZWOPER refresher?** OSHA requires 8 hours of refresher training every year (29 CFR 1910.120(e)(8)) for workers who completed 40-hour or 24-hour HAZWOPER. Supervisors also take the annual refresher, and many take the 8-hour supervisor refresher.
-- **Is online HAZWOPER training accepted by OSHA?** Yes. Online instruction can satisfy the classroom portion of HAZWOPER training when it covers the required topics and the trainee has access to a qualified trainer for questions. Employers remain responsible for any site-specific instruction and the supervised field experience OSHA requires.
-- **How fast do I get my HAZWOPER certificate?** Your certificate of completion is available to download and print immediately after you finish the course and pass the final exam. A wallet card is included.
-- **Can I take HAZWOPER training in Spanish?** Yes. The OSHA 40-Hour HAZWOPER Training is available in a full Spanish-language version.
-- **Do you offer Cal/OSHA HAZWOPER?** Yes. Cal/OSHA 40-hour, 24-hour and 8-hour refresher courses aligned to Title 8 CCR 5192 are available, as well as Cal/OSHA TSDF RCRA versions.
-- **Do you offer group or company HAZWOPER training?** Yes. Add every course your team needs to the cart, set the number of seats for each, and check out once. For purchase orders or large groups, call +1-866-429-6742 or email sales@hazwoper-osha.com.
-- **Do you have free HAZWOPER practice tests?** Yes. Free practice quizzes with answers and explanations cover the 40 hour and 8 hour refresher, PPE levels, air monitoring, decontamination and site control, first responder awareness and RCRA hazardous waste.
-- **How long do I have to finish a course?** Courses are self-paced. You can log in and out as often as you like and your progress is saved automatically, so you can complete the course around your work schedule.
+- **Can I buy training for my whole crew in one order?** Yes. Add every course your crew needs to the cart, set the number of seats for each course, and check out once. The crew training planner builds the cart for you from roles and headcounts.
+- **Can we pay by purchase order or invoice?** Yes. Call +1-866-429-6742 or email sales@hazwoper-osha.com for purchase-order billing. Card payments are taken securely at checkout.
+- **Do I need every learner's name at checkout?** No. Check out with the buyer's details and the number of seats. Learner names and emails can be sent after the order is confirmed.
+- **Is there a volume discount?** Every seat is billed at the list price shown, whatever the crew size, so quotes and budgets are simple to work out.
+- **Will OSHA accept online HAZWOPER training for my workers?** Online training can cover the classroom portion. You still provide supervised field experience, hands-on practice with your equipment and site-specific training.
+- **Our new hires trained elsewhere. Do they have to retrain?** Not necessarily. Under 1910.120(e)(9) you can accept documented equivalent training, but new hires still need site-specific training, field experience at your site and a current annual refresher.
+- **Do you have training for Spanish-speaking crews?** Yes. The OSHA 40-Hour HAZWOPER course is available in Spanish, and Spanish and English seats can go in the same order.
+- **Which courses do California crews need?** California work falls under Cal/OSHA 8 CCR 5192. Cal/OSHA 40 hour, 24 hour and 8 hour refresher courses are available, along with TSDF versions.
 
 ## Full text
 
