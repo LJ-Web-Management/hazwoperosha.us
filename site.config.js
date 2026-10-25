@@ -1,7 +1,7 @@
 // Site settings read by tools/build.js. Courses, guides, quizzes and checkout are shared with the
 // sister sites; this file and assets/style.css give HazwoperOSHA.us its own identity.
 module.exports = {
-  url: 'https://lj-web-management.github.io/hazwoperosha.us',
+  url: 'https://www.hazwoperosha.us',
   brand: 'HazwoperOSHA.us',
   legalName: 'HAZWOPER OSHA Training LLC',
   orderFrom: 'hazwoperosha-us',

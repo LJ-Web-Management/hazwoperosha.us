@@ -3,7 +3,7 @@
 Online OSHA HAZWOPER training site: every HAZWOPER course with a page each, free guides,
 practice quizzes, a glossary, sitewide search and a multi-course cart checkout.
 
-Live: https://lj-web-management.github.io/hazwoperosha.us/
+Live: https://www.hazwoperosha.us/ (custom domain in `CNAME`; `site.config.js` sets the same URL)
 
 Sister sites share the same courses, content and checkout with different styling:
 `website-staging` and `hazwoperosha.org`. `tools/build.js`, the course catalog (`data/source.json`, `data/lms-ids.json`) and the cart/checkout
@@ -46,6 +46,5 @@ hazwoper-osha.com LMS API with all course ids and seat counts. Orders are tagged
 
 ## Custom domain
 
-To serve the site at hazwoperosha.us, set `url` in `site.config.js` to `https://hazwoperosha.us`,
-add a `CNAME` file containing `hazwoperosha.us`, point the domain's DNS at GitHub Pages, then
-rebuild and push.
+The site is served at https://www.hazwoperosha.us. `CNAME` holds `www.hazwoperosha.us` and `url`
+in `site.config.js` matches it. If the domain ever changes, update both, rebuild and push.

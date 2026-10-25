@@ -1,10 +1,10 @@
 # HazwoperOSHA.us - HAZWOPER guides, glossary and practice questions (full text)
 
-> Source: https://lj-web-management.github.io/hazwoperosha.us/ . Courses: https://lj-web-management.github.io/hazwoperosha.us/#courses . Contact: sales@hazwoper-osha.com, +1-866-429-6742.
+> Source: https://www.hazwoperosha.us/ . Courses: https://www.hazwoperosha.us/#courses . Contact: sales@hazwoper-osha.com, +1-866-429-6742.
 
 ## HAZWOPER Training by Industry: Which Courses Each Crew Needs
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-training-by-industry/
+URL: https://www.hazwoperosha.us/guides/hazwoper-training-by-industry/
 
 HAZWOPER isn't one course. It's a set of training levels matched to what each worker does. Here's the course mix employers in common industries usually need. Use it as a starting point, then check each role against your own site safety and health plan and emergency response plan. To turn it into an order, use the {{page:crew-training-planner|crew training planner}}.
 
@@ -92,13 +92,13 @@ If the plan is to evacuate and call outside responders, rather than have employe
 - **Which HAZWOPER course do environmental consultants need?** Field staff working on cleanup sites generally need 40 hours plus supervised field experience, project leads add the 8 hour supervisor course, and everyone takes the 8 hour refresher every year.
 - **Do hospitals and labs need HAZWOPER?** Usually they need EPA RCRA hazardous waste training for waste handlers, and HAZWOPER awareness or emergency response training only if employees are expected to respond to releases.
 
-Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
+Related courses: OSHA 40 Hour HAZWOPER Training (https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 8 Hour HAZWOPER Supervisor Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
 ---
 
 ## OSHA State Plans and HAZWOPER: Which Rules Apply to Your Crew
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/osha-state-plans-and-hazwoper/
+URL: https://www.hazwoperosha.us/guides/osha-state-plans-and-hazwoper/
 
 The OSH Act lets states run their own occupational safety and health programs, called state plans, as long as they are at least as effective as federal OSHA. Where you send a crew decides which agency enforces HAZWOPER and which version of the rule applies.
 
@@ -144,13 +144,13 @@ Most state plans adopt HAZWOPER word for word or with minor changes, so the trai
 - **Is federal HAZWOPER training accepted in state-plan states?** Usually the content is the same, since state rules must be at least as effective as federal OSHA. California crews and clients often require Cal/OSHA-specific certificates.
 - **Who enforces HAZWOPER for city and county workers in federal OSHA states?** EPA's 40 CFR Part 311 applies the HAZWOPER standard to state and local government employees in states without an OSHA-approved state plan.
 
-Related courses: 8 Hour HAZWOPER Refresher - State-Plan Versions Available (https://lj-web-management.github.io/hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available/); Cal/OSHA 40-Hour HAZWOPER Training (2026) (https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/); Cal/OSHA 8-Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/)
+Related courses: 8 Hour HAZWOPER Refresher - State-Plan Versions Available (https://www.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available/); Cal/OSHA 40-Hour HAZWOPER Training (2026) (https://www.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/); Cal/OSHA 8-Hour HAZWOPER Refresher Training (https://www.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/)
 
 ---
 
 ## HAZWOPER for Public Employees and Volunteers (EPA 40 CFR Part 311)
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-for-public-employees-and-volunteers/
+URL: https://www.hazwoperosha.us/guides/hazwoper-for-public-employees-and-volunteers/
 
 Federal OSHA covers private employers and federal agencies, but not state and local governments. That leaves a gap for city fire departments, county public works crews and other public employees who respond to chemical releases or work on contaminated sites. Two rules fill it.
 
@@ -208,13 +208,13 @@ Crews cleaning up contaminated sites | OSHA 40 Hour HAZWOPER Training or OSHA 24
 - **Are volunteer firefighters covered by HAZWOPER?** In states without a state plan, EPA's 40 CFR Part 311 defines employees to include non-compensated workers, so volunteer responders are covered. State plans set their own coverage for volunteers.
 - **What training do police officers need for hazmat incidents?** Officers who may be first on scene and are expected only to recognize, isolate and notify generally need first responder awareness level training.
 
-Related courses: OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/); OSHA 4-Hour HAZWOPER First Responder Awareness Level Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/); OSHA 8 Hour HAZWOPER (q) Incident Command Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/)
+Related courses: OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams (https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/); OSHA 4-Hour HAZWOPER First Responder Awareness Level Training (https://www.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/); OSHA 8 Hour HAZWOPER (q) Incident Command Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/)
 
 ---
 
 ## How to Build a HAZWOPER Training Program for Your Company
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/building-a-hazwoper-training-program/
+URL: https://www.hazwoperosha.us/guides/building-a-hazwoper-training-program/
 
 A HAZWOPER training program is more than buying courses. It's a repeatable system that puts the right training in front of each worker before they need it, and proves you did. Here's how to build one.
 
@@ -272,13 +272,13 @@ See budgeting for HAZWOPER training for a worked example, and training records f
 - **Can online courses satisfy HAZWOPER training?** Online courses can cover the classroom portion. Employers still provide supervised field experience, hands-on practice with site equipment and site-specific training.
 - **Who can be a HAZWOPER trainer?** Someone qualified by completing a training program for the subjects they teach, or by academic credentials and instructional experience, under 29 CFR 1910.120(e)(5).
 
-Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); HAZWOPER Train-the-Trainer Certification (https://lj-web-management.github.io/hazwoperosha.us/courses/hazwoper-train-the-trainer-certification/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
+Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); HAZWOPER Train-the-Trainer Certification (https://www.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification/); OSHA 40 Hour HAZWOPER Training (https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
 
 ---
 
 ## HAZWOPER Training Records: What Employers Must Keep and for How Long
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/hazwoper-training-records-for-employers/
+URL: https://www.hazwoperosha.us/guides/hazwoper-training-records-for-employers/
 
 When an OSHA inspector, a client's safety auditor or a prime contractor asks for proof of training, you need to produce it quickly for every worker on site. Here's what to keep.
 
@@ -346,13 +346,13 @@ Give the worker copies of their training certificates; they'll need them for the
 - **How long are respirator fit test records kept?** Until the next fit test is administered, under 29 CFR 1910.134(m).
 - **Do workers get copies of their HAZWOPER certificates?** Yes. Workers receive a written certificate when they complete training, and employers should give copies when the worker leaves.
 
-Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); RCRA Hazardous Waste Generator Training (https://lj-web-management.github.io/hazwoperosha.us/courses/rcra-hazardous-waste-generator-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
+Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); RCRA Hazardous Waste Generator Training (https://www.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
 ---
 
 ## Onboarding New Hires With Prior HAZWOPER Training
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/onboarding-new-hires-with-prior-hazwoper-training/
+URL: https://www.hazwoperosha.us/guides/onboarding-new-hires-with-prior-hazwoper-training/
 
 Experienced hires often arrive with a HAZWOPER certificate from a previous employer or training provider. You don't have to retrain them from scratch, but you do have to check what they bring and fill the gaps.
 
@@ -408,13 +408,13 @@ Put every refresher, upgrade and new-hire course for the group in one cart. The 
 - **What if a new hire's HAZWOPER refresher has expired?** Have them complete the 8 hour refresher before site work and document your judgment that their skills are current. After a long lapse, consider retaking the initial course.
 - **Is a 24 hour certificate enough for a general site worker?** No. General site workers need 40 hours. A 24-hour worker can upgrade with the additional 16 hours and 2 days of field experience, or take the full 40 hour course.
 
-Related courses: OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 24 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-24-hour-hazwoper-training/)
+Related courses: OSHA 8 Hour HAZWOPER Refresher Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 40 Hour HAZWOPER Training (https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 24 Hour HAZWOPER Training (https://www.hazwoperosha.us/courses/osha-24-hour-hazwoper-training/)
 
 ---
 
 ## Budgeting for HAZWOPER Training: A Worked Example for a 10-Person Crew
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/budgeting-for-hazwoper-training/
+URL: https://www.hazwoperosha.us/guides/budgeting-for-hazwoper-training/
 
 HAZWOPER training costs come in two waves: a larger first-year spend for initial training and a smaller, predictable yearly spend for refreshers. Here's how to plan both, using our list prices. Every seat is billed at the list price, whatever the crew size.
 
@@ -468,13 +468,13 @@ Pay by card at checkout for every course and seat at once, or call for purchase-
 - **Is there a discount for training a whole crew?** Every seat is billed at the list price shown, whatever the crew size, so budgets and quotes are simple. Purchase-order billing is available by phone.
 - **What ongoing HAZWOPER costs should employers expect?** An 8 hour refresher for every 40-hour and 24-hour trained worker each year, supervisor refreshers, annual medical exams and fit tests where required, and initial training for new hires.
 
-Related courses: OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
+Related courses: OSHA 40 Hour HAZWOPER Training (https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/); OSHA 8 Hour HAZWOPER Supervisor Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
 ---
 
 ## Contractors, Subcontractors and Multi-Employer HAZWOPER Sites
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/contractors-and-multi-employer-hazwoper-sites/
+URL: https://www.hazwoperosha.us/guides/contractors-and-multi-employer-hazwoper-sites/
 
 Cleanup sites are rarely one-company jobs. A prime contractor may manage drillers, excavation subs, a lab, waste haulers and specialty contractors at the same time. HAZWOPER and OSHA's enforcement policy both address who is responsible for what.
 
@@ -532,13 +532,13 @@ When a sub's crew is short on training, they can buy every course and seat they 
 - **What must a hiring employer tell contractors under HAZWOPER?** The site emergency response procedures and any known fire, explosion, health, safety or other hazards, and make the written safety and health program available to them.
 - **What are the four employer types in OSHA's multi-employer policy?** Creating, exposing, correcting and controlling employers.
 
-Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
+Related courses: OSHA 8 Hour HAZWOPER Supervisor Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/); OSHA 40 Hour HAZWOPER Training (https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
 ---
 
 ## HAZWOPER Training for Spanish-Speaking and Multilingual Crews
 
-URL: https://lj-web-management.github.io/hazwoperosha.us/guides/training-spanish-speaking-and-multilingual-crews/
+URL: https://www.hazwoperosha.us/guides/training-spanish-speaking-and-multilingual-crews/
 
 Training only counts if workers understand it. OSHA has long said that employers must present safety training in a manner employees can understand, which means in a language and vocabulary they understand. For crews with Spanish-speaking or multilingual members, that shapes how you choose and deliver HAZWOPER training.
 
@@ -586,5 +586,5 @@ Add Spanish and English 40-hour seats to the same cart, along with refreshers an
 - **Is the 40 hour HAZWOPER course available in Spanish?** Yes. The OSHA 40-Hour HAZWOPER Training is available in a full Spanish-language version.
 - **How can employers confirm workers understood the training?** Have workers explain or demonstrate key procedures, review missed exam topics, and watch closely during supervised field experience.
 
-Related courses: OSHA 40-Hour HAZWOPER Training (Spanish) (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish/); OSHA 40 Hour HAZWOPER Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://lj-web-management.github.io/hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
+Related courses: OSHA 40-Hour HAZWOPER Training (Spanish) (https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish/); OSHA 40 Hour HAZWOPER Training (https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/); OSHA 8 Hour HAZWOPER Refresher Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
