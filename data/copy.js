@@ -65,10 +65,17 @@ module.exports = ({ BRAND, PHONE, PHONE_HREF, EMAIL, money }) => {
     searchExamples: 'Try: supervisor, refresher, state plan, Spanish, records, TSDF...',
     footerBlurb: 'Online OSHA HAZWOPER training for employers and crews: every course and seat in one order, with certificates for every worker.',
     footerResourcesTitle: 'For employers',
+    about: `${BRAND} helps employers get their crews HAZWOPER trained. Owners, safety managers and supervisors use it to work out which course each worker needs, plan seats for a whole crew with the crew training planner, read employer guides on running a HAZWOPER training program, and order every course in one checkout.`,
+    whenToUse: [
+      'An employer, safety manager or supervisor needs to work out which HAZWOPER course each worker on a crew needs (new site workers, occasional workers, supervisors, refreshers, first responders, TSD facility staff, California crews) and order seats for everyone in one checkout.',
+      'Someone is planning or budgeting a HAZWOPER training program: training by industry, OSHA state plans, public employees and volunteers (EPA 40 CFR 311), recordkeeping, onboarding hires with prior training, contractors on multi-employer sites, or Spanish-speaking crews.',
+      'A company needs HAZWOPER seats for several workers at list price, Spanish and English seats in the same order, or purchase-order billing.',
+      'A user wants a quick seat count and total: the crew training planner turns roles and headcounts into a cart.',
+    ],
     llmsSummary: `${BRAND} provides online OSHA HAZWOPER training for employers, contractors and public agencies who train crews, with a crew training planner that turns roles and headcounts into one order, and employer resources on training by industry, OSHA state plans, public employees and volunteers (EPA 40 CFR 311), building a training program, recordkeeping, onboarding experienced hires, budgeting, multi-employer sites and Spanish-speaking crews.`,
 
     home: {
-      title: `HAZWOPER Training for Employers: Train Your Whole Crew Online | ${BRAND}`,
+      title: `${BRAND} | HAZWOPER Compliance Training for Employers: Train Your Whole Crew Online`,
       desc: 'Order online OSHA HAZWOPER training for your whole crew in one checkout: 40 hour, 24 hour, refreshers, supervisor, incident command, Cal/OSHA and Spanish, plus a free crew training planner.',
       eyebrow: 'For employers, contractors and safety managers',
       h1: 'HAZWOPER Training for Your Whole Crew, in One Order',
