@@ -33,9 +33,16 @@ jobs:
         run: |
           mkdir _site
           cp -r index.html index.md checkout.html 404.html 404.md robots.txt sitemap.xml llms.txt llms-full.txt courses.json .nojekyll CNAME assets courses guides search crew-training-planner about contact privacy _site/
+          # IndexNow key file (indexNowKey in site.config.js), written by tools/build.js.
+          KEY=$(node -p "require('./site.config.js').indexNowKey || ''")
+          if [ -n "$KEY" ]; then cp "$KEY.txt" _site/; fi
       - uses: actions/configure-pages@v5
         with:
           enablement: true
       - uses: actions/upload-pages-artifact@v3
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Tell search engines about the pages (IndexNow)
+        # Never fails the deploy: the site is already live at this point.
+        continue-on-error: true
+        run: node tools/indexnow.js

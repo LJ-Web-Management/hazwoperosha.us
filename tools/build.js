@@ -125,7 +125,7 @@ const FAQ = COPY.faq || [
 ];
 
 // ---------- layout ----------
-function head({ title, desc, canonical, extra = '', depth = 0 }) {
+function head({ title, desc, canonical, extra = '', depth = 0, keywords = [] }) {
   const rel = depth ? '../'.repeat(depth) : '';
   return `<!doctype html>
 <html lang="en">
@@ -143,7 +143,8 @@ ${GA_ID ? `<!-- Google tag (gtag.js) -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
-<link rel="canonical" href="${canonical}">
+${keywords.length ? `<meta name="keywords" content="${esc(keywords.join(', '))}">
+` : ''}<link rel="canonical" href="${canonical}">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="${BRAND}">
@@ -384,6 +385,8 @@ const orgLd = {
   email: EMAIL, telephone: PHONE, areaServed: 'US',
   address: { '@type': 'PostalAddress', ...ADDRESS },
   contactPoint: { '@type': 'ContactPoint', telephone: PHONE, email: EMAIL, contactType: 'sales', areaServed: 'US', availableLanguage: ['English', 'Spanish'] },
+  // What the brand is known for (data/copy.js); search and AI agents pair it with the brand name.
+  ...(COPY.knowsAbout || HOME.keywords ? { knowsAbout: COPY.knowsAbout || HOME.keywords } : {}),
 };
 const orgRef = { '@type': 'EducationalOrganization', '@id': orgLd['@id'], name: BRAND, url: orgLd.url };
 const ldBlocks = graph => jsonLd({ '@context': 'https://schema.org', ...orgLd }) + '\n' + jsonLd({ '@context': 'https://schema.org', '@graph': [orgRef, ...graph] });
@@ -405,8 +408,11 @@ function buildIndex() {
   // The brand leads the title so searches for the brand plus its product find this site.
   const title = HOME.title || `${BRAND} | HAZWOPER Training Online: OSHA 40, 24 & 8 Hour Certification`;
   const desc = HOME.desc || `Online OSHA HAZWOPER training: 40 hour from ${money(249.99)}, 24 hour, 8 hour refresher, supervisor, first responder, Cal/OSHA, Spanish and RCRA. ${total} courses, instant certificates, 29 CFR 1910.120 compliant.`;
+  // Main product terms (data/copy.js home.keywords): meta keywords and the WebSite node's keywords.
+  const keywords = HOME.keywords || [];
   const ld = ldBlocks([
-    { '@type': 'WebSite', '@id': `${SITE_URL}/#website`, url: SITE_URL + '/', name: `${BRAND} - HAZWOPER Courses`, publisher: { '@id': `${SITE_URL}/#organization` } },
+    { '@type': 'WebSite', '@id': `${SITE_URL}/#website`, url: SITE_URL + '/', name: `${BRAND} - HAZWOPER Courses`, publisher: { '@id': `${SITE_URL}/#organization` },
+      ...(keywords.length ? { keywords: keywords.join(', ') } : {}) },
     { '@type': 'ItemList', name: 'HAZWOPER Training Courses', numberOfItems: total,
       itemListElement: courses.map((c, i) => ({ '@type': 'ListItem', position: i + 1, item: courseLd(c) })) },
     faqLd(FAQ),
@@ -425,7 +431,7 @@ function buildIndex() {
 </section>`;
   }).join('\n');
 
-  const html = head({ title, desc, canonical: SITE_URL + '/', extra: ld }) + `
+  const html = head({ title, desc, canonical: SITE_URL + '/', extra: ld, keywords }) + `
 <section class="hero">
   <div class="wrap hero-grid">
     <div>
@@ -976,6 +982,11 @@ function buildSearch() {
 
 // ---------- extras ----------
 function buildExtras() {
+  // IndexNow key file: the key itself, UTF-8, at the site root (tools/indexnow.js submits with it).
+  if (SITE.indexNowKey) {
+    if (!/^[a-zA-Z0-9-]{8,128}$/.test(SITE.indexNowKey)) throw new Error('site.config.js indexNowKey: 8-128 characters of a-z, A-Z, 0-9 and -');
+    fs.writeFileSync(path.join(ROOT, `${SITE.indexNowKey}.txt`), SITE.indexNowKey);
+  }
   const urls = [{ loc: SITE_URL + '/', pri: '1.0' }].concat(courses.map(c => ({ loc: c.url, pri: c.group === 'core' ? '0.9' : '0.8' })),
     [{ loc: `${SITE_URL}/guides/`, pri: '0.9' }], ALL_GUIDES.map(g => ({ loc: guideUrl(g), pri: '0.8' })),
     QUIZZES.length ? [{ loc: `${SITE_URL}/quizzes/`, pri: '0.8' }] : [], QUIZZES.map(q => ({ loc: quizUrl(q), pri: '0.7' })),

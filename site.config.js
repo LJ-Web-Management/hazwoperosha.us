@@ -8,6 +8,9 @@ module.exports = {
   themeColor: '#15171c',
   shareImage: 'assets/share.png',
   sameAs: ['https://hazwoper-osha.com/'],
+  // IndexNow key (https://www.indexnow.org/documentation): tools/build.js publishes it as /<key>.txt and
+  // tools/indexnow.js submits the sitemap with it after each deploy. Any 8-128 characters of a-z, A-Z, 0-9, -.
+  indexNowKey: '3cd67fe7bc4c141e1eda2107f4e344ca',
   headExtra: `<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N2Q1952P02"></script>
 <script>

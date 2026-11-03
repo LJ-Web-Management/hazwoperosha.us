@@ -1,6 +1,6 @@
 # OSHA State Plans and HAZWOPER: Which Rules Apply to Your Crew
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-03
 
 The OSH Act lets states run their own occupational safety and health programs, called **state plans**, as long as they are at least as effective as federal OSHA. Where you send a crew decides which agency enforces HAZWOPER and which version of the rule applies.
 

@@ -1,6 +1,6 @@
 # Budgeting for HAZWOPER Training: A Worked Example for a 10-Person Crew
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-03
 
 HAZWOPER training costs come in two waves: a larger first-year spend for initial training and a smaller, predictable yearly spend for refreshers. Here's how to plan both, using our list prices. Every seat is billed at the list price, whatever the crew size.
 

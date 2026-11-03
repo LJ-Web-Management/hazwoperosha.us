@@ -1,7 +1,16 @@
 # Cloudflare Worker that adds Markdown content negotiation in front of GitHub Pages (see worker.mjs).
-# Needs the www DNS record proxied through Cloudflare. Deploy from this folder: npx wrangler deploy
+# The hazwoperosha.us zone is on Cloudflare with the bare domain proxied, so the first route works as is.
+# The www route only takes effect if the www record is ever switched to proxied; while it stays DNS-only,
+# the Worker on the bare domain serves Markdown itself (see CANONICAL_ORIGIN in worker.mjs).
+# Deploy: the "Deploy edge worker" workflow (.github/workflows/edge.yml), or from this folder: npx wrangler deploy
 name = "hazwoperosha-us-edge"
 main = "worker.mjs"
 compatibility_date = "2025-09-01"
 workers_dev = false
-routes = [{ pattern = "www.hazwoperosha.us/*", zone_name = "hazwoperosha.us" }]
+routes = [
+  { pattern = "hazwoperosha.us/*", zone_name = "hazwoperosha.us" },
+  { pattern = "www.hazwoperosha.us/*", zone_name = "hazwoperosha.us" },
+]
+
+[vars]
+CANONICAL_ORIGIN = "https://www.hazwoperosha.us"

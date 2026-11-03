@@ -7,6 +7,13 @@
 //     in a Link header.
 //   - An Accept header that rules out both HTML and Markdown gets 406 Not Acceptable.
 // Static files (CSS, JS, images, txt, xml, json, md) pass straight through. Deploy: see README.md.
+//
+// CANONICAL_ORIGIN (wrangler.toml [vars]) is the site's own origin, e.g. https://www.example.com. On any
+// other host routed here (the bare domain, which GitHub Pages redirects to www) the Worker answers
+// Markdown-preferring requests itself, with content fetched from the canonical origin and a
+// rel="canonical" Link header, so agents following the redirect still get Markdown while www stays a
+// plain DNS-only record pointing at GitHub Pages. Every other request on that host gets the usual
+// redirect, with Vary: Accept added.
 
 const PRODUCES = ['text/html', 'text/markdown'];
 const STATIC_EXT = /\.(?:css|js|mjs|map|png|jpe?g|webp|gif|svg|avif|ico|woff2?|ttf|otf|eot|xml|txt|json|md|pdf|zip)$/i;
@@ -82,35 +89,53 @@ function notAcceptable(accept, method) {
   });
 }
 
-async function markdownNotFound(url, method, origin) {
-  const res = await origin(new Request(new URL('/404.md', url), { method: 'GET' }));
+async function markdownNotFound(url, method, origin, base) {
+  const res = await origin(new Request(new URL('/404.md', base), { method: 'GET' }));
   const body = res.ok ? await res.text()
-    : `# Page not found (404)\n\nThere is no page at ${url.pathname}. See ${url.origin}/llms.txt or ${url.origin}/sitemap.xml.\n`;
+    : `# Page not found (404)\n\nThere is no page at ${url.pathname}. See ${base}/llms.txt or ${base}/sitemap.xml.\n`;
   return new Response(method === 'HEAD' ? null : body, {
     status: 404,
     headers: { 'Content-Type': MARKDOWN, 'Vary': 'Accept', 'Cache-Control': 'public, max-age=300' },
   });
 }
 
+// The canonical page URL for a path: /about -> /about/, / and /page.html unchanged.
+export function pagePath(pathname) {
+  return pathname.endsWith('.html') ? pathname : pathname.replace(/\/?$/, '/');
+}
+
 // origin(request) fetches from GitHub Pages: in production that is the global fetch, because a Worker's
-// subrequests to its own hostname go to the origin server.
-export async function handle(request, origin) {
+// subrequests to its own hostname go to the origin server. env.CANONICAL_ORIGIN: see the top of this file.
+export async function handle(request, origin, env = {}) {
   const url = new URL(request.url);
   if ((request.method !== 'GET' && request.method !== 'HEAD') || STATIC_EXT.test(url.pathname)) return origin(request);
+  const base = env.CANONICAL_ORIGIN ? new URL(env.CANONICAL_ORIGIN).origin : url.origin;
+  const alias = base !== url.origin;
 
   const accept = request.headers.get('accept');
   const chosen = preferredType(accept, PRODUCES);
+  // Alias host: only Markdown is answered here; browsers, crawlers and everything else keep the redirect.
+  if (alias && chosen !== 'text/markdown') return withVary(await origin(request));
   if (!chosen) return notAcceptable(accept, request.method);
 
-  const mdUrl = new URL(markdownPath(url.pathname), url);
+  const mdUrl = new URL(markdownPath(url.pathname), base);
   if (chosen === 'text/markdown') {
     const md = await origin(new Request(mdUrl, request));
-    if (md.status === 200) return withVary(md, { 'Content-Type': MARKDOWN });
-    const page = await origin(request);
-    if (page.status === 404) return markdownNotFound(url, request.method, origin);
+    if (md.status === 200) {
+      // Read and re-wrap the body so it goes out as plain text (Cloudflare compresses it again only for
+      // clients that send Accept-Encoding), instead of passing GitHub's gzip bytes through.
+      const body = request.method === 'HEAD' ? null : await md.text();
+      const headers = new Headers(md.headers);
+      headers.delete('content-encoding');
+      headers.delete('content-length');
+      const res = new Response(body, { status: 200, headers });
+      return withVary(res, { 'Content-Type': MARKDOWN, ...(alias ? { 'Link': `<${base}${pagePath(url.pathname)}>; rel="canonical"` } : {}) });
+    }
+    const page = await origin(new Request(new URL(url.pathname + url.search, base), request));
+    if (page.status === 404) return markdownNotFound(url, request.method, origin, base);
     // The page exists but has no Markdown version (checkout, search): HTML if the client allows it.
     if (!preferredType(accept, ['text/html'])) return notAcceptable(accept, request.method);
-    return withVary(page);
+    return withVary(alias ? await origin(request) : page);
   }
 
   const page = await origin(request);
@@ -123,7 +148,7 @@ export async function handle(request, origin) {
 }
 
 export default {
-  fetch(request) {
-    return handle(request, req => fetch(req));
+  fetch(request, env) {
+    return handle(request, req => fetch(req), env);
   },
 };

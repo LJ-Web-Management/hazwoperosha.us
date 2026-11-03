@@ -1,6 +1,6 @@
 # HAZWOPER Training by Industry: Which Courses Each Crew Needs
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-03
 
 HAZWOPER isn't one course. It's a set of training levels matched to what each worker does. Here's the course mix employers in common industries usually need. Use it as a starting point, then check each role against your own site safety and health plan and emergency response plan. To turn it into an order, use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/).
 

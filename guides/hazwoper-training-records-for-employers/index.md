@@ -1,6 +1,6 @@
 # HAZWOPER Training Records: What Employers Must Keep and for How Long
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-03
 
 When an OSHA inspector, a client's safety auditor or a prime contractor asks for proof of training, you need to produce it quickly for every worker on site. Here's what to keep.
 

@@ -1,0 +1,57 @@
+name: Deploy edge worker
+
+# Deploys edge/worker.mjs (Markdown content negotiation and Markdown 404s, see README.md) to Cloudflare,
+# then checks the live site. Needs the repository secrets CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID;
+# without them the job only runs the tests and leaves a warning.
+on:
+  push:
+    branches: [main]
+    paths: ['edge/**', 'tests/edge.test.js', '.github/workflows/edge.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: edge
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build and test
+        run: |
+          node tools/build.js
+          node --test tests/*.test.js
+      - name: Check for Cloudflare credentials
+        id: creds
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning title=Edge worker not deployed::Add the CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID repository secrets to deploy edge/worker.mjs (README.md, Markdown content negotiation)."
+          fi
+      - name: Deploy worker
+        if: steps.creds.outputs.present == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: edge
+          wranglerVersion: '4.42.0'
+      - name: Check the live site
+        if: steps.creds.outputs.present == 'true'
+        # A new Worker version takes a few seconds to reach every Cloudflare location.
+        run: |
+          for attempt in 1 2 3 4; do
+            node tools/check-live.js && exit 0
+            sleep 15
+          done
+          exit 1

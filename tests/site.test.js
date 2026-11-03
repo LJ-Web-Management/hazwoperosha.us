@@ -160,3 +160,43 @@ test('robots.txt lets search and AI agents in and points to the sitemap', () => 
   }
   assert.ok(robots.includes(`Sitemap: ${SITE_URL}/sitemap.xml`));
 });
+
+test('homepage names its main product terms in meta keywords, JSON-LD keywords and knowsAbout, worded as on the page', () => {
+  const meta = /<meta name="keywords" content="([^"]+)">/.exec(INDEX);
+  assert.ok(meta, 'homepage has <meta name="keywords">');
+  const keywords = meta[1].split(', ');
+  assert.ok(keywords.length >= 3);
+  const [org, rest] = jsonLd(INDEX);
+  const site = rest['@graph'].find(n => n['@type'] === 'WebSite');
+  assert.equal(site.keywords, meta[1], 'WebSite keywords match the meta keywords');
+  assert.ok(Array.isArray(org.knowsAbout) && org.knowsAbout.length >= 3, 'Organization.knowsAbout');
+  assert.equal(org.knowsAbout[0], keywords[0], 'knowsAbout and keywords lead with the same main product term');
+  const text = visibleText(INDEX).toLowerCase();
+  for (const k of new Set([...keywords, ...org.knowsAbout])) assert.ok(text.includes(k.toLowerCase()), `"${k}" appears in the homepage text`);
+  const main = keywords[0].toLowerCase();
+  const title = /<title>([^<]+)<\/title>/.exec(INDEX)[1];
+  assert.ok(title.toLowerCase().startsWith(`${BRAND.toLowerCase()} | ${main}`), `title "${title}" is the brand, then "${keywords[0]}"`);
+  assert.ok(/<h1>([^<]+)<\/h1>/.exec(INDEX)[1].toLowerCase().includes(main), 'the H1 uses the main product term');
+  for (const f of HTML_FILES.filter(f => f !== 'index.html')) assert.doesNotMatch(read(f), /<meta name="keywords"/, `${f}: keywords only on the homepage`);
+  for (const f of ['about/index.html', 'courses/osha-40-hour-hazwoper-training/index.html']) assert.deepEqual(jsonLd(read(f))[0].knowsAbout, org.knowsAbout, f);
+});
+
+test('IndexNow: key file at the site root, published by the deploy, and a request covering every sitemap URL', () => {
+  const site = require('../site.config.js');
+  const key = site.indexNowKey;
+  assert.match(key, /^[a-zA-Z0-9-]{8,128}$/, 'IndexNow keys are 8-128 characters of a-z, A-Z, 0-9 and -');
+  assert.equal(read(`${key}.txt`), key, 'the key file holds exactly the key');
+  const workflow = read('.github/workflows/pages.yml');
+  assert.match(workflow, /indexNowKey/, 'the deploy copies the key file into the published site');
+  assert.match(workflow, /node tools\/indexnow\.js/);
+  const { payload, ENDPOINT } = require('../tools/indexnow.js');
+  assert.equal(ENDPOINT, 'https://api.indexnow.org/indexnow');
+  const body = payload();
+  assert.deepEqual(Object.keys(body), ['host', 'key', 'keyLocation', 'urlList']);
+  assert.equal(body.host, new URL(SITE_URL).host);
+  assert.equal(body.key, key);
+  assert.equal(body.keyLocation, `${SITE_URL}/${key}.txt`);
+  assert.deepEqual(body.urlList, [...read('sitemap.xml').matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]));
+  for (const u of body.urlList) assert.equal(new URL(u).host, body.host, `${u} is on the submitted host`);
+  assert.ok(body.urlList.length > 0 && body.urlList.length <= 10000);
+});

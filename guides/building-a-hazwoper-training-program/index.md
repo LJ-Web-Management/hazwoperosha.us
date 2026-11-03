@@ -1,6 +1,6 @@
 # How to Build a HAZWOPER Training Program for Your Company
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-03
 
 A HAZWOPER training program is more than buying courses. It's a repeatable system that puts the right training in front of each worker before they need it, and proves you did. Here's how to build one.
 

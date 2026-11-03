@@ -74,8 +74,17 @@ module.exports = ({ BRAND, PHONE, PHONE_HREF, EMAIL, money }) => {
     ],
     llmsSummary: `${BRAND} provides online OSHA HAZWOPER training for employers, contractors and public agencies who train crews, with a crew training planner that turns roles and headcounts into one order, and employer resources on training by industry, OSHA state plans, public employees and volunteers (EPA 40 CFR 311), building a training program, recordkeeping, onboarding experienced hires, budgeting, multi-employer sites and Spanish-speaking crews.`,
 
+    // Main product terms, most important first. They go in the homepage <meta name="keywords"> and the
+    // WebSite JSON-LD `keywords`; knowsAbout goes on the Organization block. Keep every keyword worded
+    // exactly as it appears on the homepage, and the first one in the homepage title and H1.
+    knowsAbout: ['HAZWOPER training', 'OSHA HAZWOPER training', 'HAZWOPER training for employers', '29 CFR 1910.120',
+      'HAZWOPER refresher training', 'HAZWOPER supervisor training', 'RCRA hazardous waste training'],
+
     home: {
-      title: `${BRAND} | HAZWOPER Compliance Training for Employers: Train Your Whole Crew Online`,
+      title: `${BRAND} | HAZWOPER Training for Employers: Train Your Whole Crew Online`,
+      keywords: ['HAZWOPER training', 'OSHA HAZWOPER training', 'HAZWOPER training for employers', 'online HAZWOPER training',
+        '40 hour HAZWOPER training', '24 hour HAZWOPER training', '8 hour HAZWOPER refresher', 'HAZWOPER supervisor training',
+        'crew training planner'],
       desc: 'Order online OSHA HAZWOPER training for your whole crew in one checkout: 40 hour, 24 hour, refreshers, supervisor, incident command, Cal/OSHA and Spanish, plus a free crew training planner.',
       eyebrow: 'For employers, contractors and safety managers',
       h1: 'HAZWOPER Training for Your Whole Crew, in One Order',
