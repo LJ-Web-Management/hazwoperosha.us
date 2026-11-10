@@ -1,6 +1,6 @@
 # HAZWOPER Training for Spanish-Speaking and Multilingual Crews
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-10
 
 Training only counts if workers understand it. OSHA has long said that employers must present safety training in a manner employees can understand, which means in a language and vocabulary they understand. For crews with Spanish-speaking or multilingual members, that shapes how you choose and deliver HAZWOPER training.
 
@@ -63,7 +63,7 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 [OSHA 8 Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
-8 Hours · **$89.99**
+8 Hours · **$59.99**
 
 ## More employer resources
 

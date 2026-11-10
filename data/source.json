@@ -37,7 +37,7 @@
    "citation": "29 CFR 1910.120 / 40 CFR 112",
    "audience": "General industry, environmental services",
    "duration": "2 Hours",
-   "price": 49.99,
+   "price": 29.99,
    "altTags": []
   },
   {
@@ -67,7 +67,7 @@
    "citation": "29 CFR 1910.120(q)(8)",
    "audience": "Emergency responders, incident commanders (annual)",
    "duration": "8 Hours",
-   "price": 159.99,
+   "price": 249.99,
    "altTags": [
     "OSHA 8-Hour HAZWOPER & Incident Command Refresher Training"
    ]
@@ -89,7 +89,7 @@
    "citation": "8 CCR 5192(e)",
    "audience": "California occasional-exposure site workers",
    "duration": "24 Hours",
-   "price": 169.99,
+   "price": 189.99,
    "altTags": []
   },
   {
@@ -99,7 +99,7 @@
    "citation": "8 CCR 5192(e)",
    "audience": "California environmental remediation, emergency response",
    "duration": "40 Hours",
-   "price": 219.99,
+   "price": 229.99,
    "altTags": []
   },
   {
@@ -109,7 +109,7 @@
    "citation": "8 CCR 5192(e)(8)",
    "audience": "California HAZWOPER-certified workers (annual)",
    "duration": "8 Hours",
-   "price": 89.99,
+   "price": 149.99,
    "altTags": []
   },
   {
@@ -131,7 +131,7 @@
    "citation": "40 CFR 262 Subpart B (RCRA)",
    "audience": "Waste generators, transporters, TSD facility staff",
    "duration": "2 Hours",
-   "price": 34.99,
+   "price": 58.99,
    "altTags": [
     "EPA Hazardous Waste Manifest Training"
    ]
@@ -269,7 +269,7 @@
    "citation": "29 CFR 1910.120(q)",
    "audience": "Emergency responders, fire/hazmat teams, incident commanders",
    "duration": "8 Hours",
-   "price": 179.99,
+   "price": 199.99,
    "altTags": [
     "OSHA 8-Hour HAZWOPER Incident Commander Training (1910.120(q))"
    ]
@@ -281,7 +281,7 @@
    "citation": "29 CFR 1910.120(p)(8) / RCRA",
    "audience": "TSD facility operators (annual)",
    "duration": "8 Hours",
-   "price": 99.99,
+   "price": 89.99,
    "altTags": [
     "OSHA 8-Hour HAZWOPER Refresher for TSDF Operations"
    ]
@@ -293,7 +293,7 @@
    "citation": "29 CFR 1910.120(e)(8)",
    "audience": "All previously HAZWOPER-certified workers (annual)",
    "duration": "8 Hours",
-   "price": 89.99,
+   "price": 59.99,
    "altTags": [
     "OSHA 8-Hour HAZWOPER Refresher Training"
    ]
@@ -305,7 +305,7 @@
    "citation": "29 CFR 1910.120(e)(4)/(e)(8)",
    "audience": "HAZWOPER supervisors (annual)",
    "duration": "8 Hours",
-   "price": 149.99,
+   "price": 69.99,
    "altTags": [
     "OSHA 8-Hour HAZWOPER Supervisor Refresher Training"
    ]
@@ -317,7 +317,7 @@
    "citation": "29 CFR 1910.120(e)(4)",
    "audience": "On-scene incident commanders/supervisors, remediation site leads",
    "duration": "8 Hours",
-   "price": 179.99,
+   "price": 69.99,
    "altTags": [
     "OSHA 8-Hour HAZWOPER Supervisor Training"
    ]
@@ -329,7 +329,7 @@
    "citation": "29 CFR 1910.120(e)(8) / 1910.111",
    "audience": "Ammonia refrigeration facility technicians",
    "duration": "8 Hours",
-   "price": 109.99,
+   "price": 89.99,
    "altTags": [
     "OSHA 8-Hour HAZWOPER Refresher with Ammonia Safety"
    ]
@@ -341,7 +341,7 @@
    "citation": "29 CFR 1910.120 / RCRA",
    "audience": "Waste management technicians, environmental services",
    "duration": "24 Hours",
-   "price": 199.99,
+   "price": 349.99,
    "altTags": []
   },
   {
@@ -351,7 +351,7 @@
    "citation": "40 CFR 262.17 (RCRA, annual)",
    "audience": "LQG/SQG hazardous waste generators (annual)",
    "duration": "4 Hours",
-   "price": 59.99,
+   "price": 124.99,
    "altTags": [
     "EPA RCRA Hazardous Waste Generator Refresher Training"
    ]
@@ -363,7 +363,7 @@
    "citation": "40 CFR 262.17 (RCRA)",
    "audience": "Manufacturing, industrial, healthcare, LQG/SQG waste generators",
    "duration": "8 Hours",
-   "price": 89.99,
+   "price": 134.99,
    "altTags": [
     "EPA RCRA Hazardous Waste Generator Training"
    ]

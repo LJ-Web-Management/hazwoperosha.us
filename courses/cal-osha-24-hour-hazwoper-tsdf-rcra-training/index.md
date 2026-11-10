@@ -26,7 +26,7 @@ California TSD facility operators
 
 ## Planning for a crew?
 
-Employers ordering this course often add [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/) ($89.99) and [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/) ($179.99). Use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) to build an order for every role on your team.
+Employers ordering this course often add [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/) ($149.99) and [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/) ($69.99). Use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) to build an order for every role on your team.
 
 ## How ordering works
 
@@ -36,10 +36,10 @@ Employers ordering this course often add [Cal/OSHA 8-Hour HAZWOPER Refresher Tra
 
 ## Other courses crews order
 
-- [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://www.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/) · 40 Hours · $219.99 - 8 CCR 5192(e)
-- [Cal/OSHA 24-Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training/) · 24 Hours · $169.99 - 8 CCR 5192(e)
+- [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://www.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/) · 40 Hours · $229.99 - 8 CCR 5192(e)
+- [Cal/OSHA 24-Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training/) · 24 Hours · $189.99 - 8 CCR 5192(e)
 - [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://www.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available/) · 8 Hours · $84.99 - State-plan equivalents of federal OSHA standard (see parent course)
-- [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/) · 8 Hours · $89.99 - 8 CCR 5192(e)(8)
+- [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/) · 8 Hours · $149.99 - 8 CCR 5192(e)(8)
 - [Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://www.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training/) · 8 Hours · $109.99 - 8 CCR 5192(p)(8) / RCRA
 - [Cal/OSHA RCRA Hazardous Waste Training](https://www.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training/) · 4 Hours · $49.99 - 22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192
 

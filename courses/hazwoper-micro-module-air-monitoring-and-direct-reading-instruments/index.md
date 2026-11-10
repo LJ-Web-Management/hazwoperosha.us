@@ -26,7 +26,7 @@ Environmental remediation, emergency response, waste management, construction, r
 
 ## Planning for a crew?
 
-Employers ordering this course often add [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/) ($249.99) and [OSHA Spill Prevention and Response Safety Training](https://www.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training/) ($49.99). Use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) to build an order for every role on your team.
+Employers ordering this course often add [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/) ($249.99) and [OSHA Spill Prevention and Response Safety Training](https://www.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training/) ($29.99). Use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) to build an order for every role on your team.
 
 ## How ordering works
 
@@ -38,7 +38,7 @@ Employers ordering this course often add [OSHA 40 Hour HAZWOPER Training](https:
 
 - [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response/) · 40 Hours · $249.99 - 29 CFR 1910.120(e) / 1926.65(e)
 - [OSHA Air Monitoring and Gas Detection Training](https://www.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training/) · 2 Hours · $49.99 - 29 CFR 1910.120 / 1910.146 / 1910.1000
-- [OSHA Spill Prevention and Response Safety Training](https://www.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training/) · 2 Hours · $49.99 - 29 CFR 1910.120 / 40 CFR 112
+- [OSHA Spill Prevention and Response Safety Training](https://www.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training/) · 2 Hours · $29.99 - 29 CFR 1910.120 / 40 CFR 112
 - [Spill Response Equipment - Absorbent & Containment Booms](https://www.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms/) · 1 Hour · $24.99 - 40 CFR 112 / 29 CFR 1910.120
 - [Spill Response Equipment - Spill Kit Selection & Use](https://www.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use/) · 1 Hour · $24.99 - 40 CFR 112 / 29 CFR 1910.120
 - [HAZWOPER Micro-Module: Decontamination Procedures](https://www.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures/) · 20 Min · $14.99 - 29 CFR 1910.120(e) / 1926.65(e)

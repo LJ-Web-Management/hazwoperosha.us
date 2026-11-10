@@ -82,6 +82,12 @@ Every seat is full list price. The cart sends a single `add_order` request to th
 hazwoper-osha.com LMS API with all course ids and seat counts. Orders are tagged
 `order_from: hazwoperosha-us`.
 
+The course ids come from `data/lms-ids.json`: each is the `course_id` of the course's page on hazwoper-osha.com.
+They are not the `catalogId` numbers in `data/source.json`, which are rows in the ICTrainingUS spreadsheet.
+Until 2026-11-10 the row numbers were used as LMS ids, so orders went to the wrong LMS course (row 595, the
+8-Hour Refresher, is LMS course 595, Digger Derrick). A course whose id is `null` has no match on the LMS and
+is sold by enrollment-request email. Prices in `data/source.json` match the LMS, which sets the amount charged.
+
 ## Custom domain
 
 The site is served at https://www.hazwoperosha.us. `CNAME` holds `www.hazwoperosha.us` and `url`

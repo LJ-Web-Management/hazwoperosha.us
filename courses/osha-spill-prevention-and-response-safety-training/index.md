@@ -10,9 +10,9 @@ OSHA Spill Prevention and Response Safety Training is a 2-hour online course tha
 - **Certificate:** Instant, printable + wallet card
 - **Language:** English
 
-$49.99
+$29.99
 
-[Enroll Now · $49.99](https://www.hazwoperosha.us/checkout.html?item=osha-spill-prevention-and-response-safety-training)
+[Enroll Now · $29.99](https://www.hazwoperosha.us/checkout.html?item=osha-spill-prevention-and-response-safety-training)
 
 - One order for the whole crew
 - Same price per seat at any crew size

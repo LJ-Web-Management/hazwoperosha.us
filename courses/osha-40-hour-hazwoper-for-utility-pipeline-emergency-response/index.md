@@ -26,7 +26,7 @@ Utility/Pipeline Emergency Response
 
 ## Planning for a crew?
 
-Employers ordering this course often add [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/) ($179.99) and [OSHA 8 Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/) ($89.99). Use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) to build an order for every role on your team.
+Employers ordering this course often add [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/) ($69.99) and [OSHA 8 Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/) ($59.99). Use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) to build an order for every role on your team.
 
 ## How ordering works
 

@@ -1,6 +1,6 @@
 # HAZWOPER Training by Industry: Which Courses Each Crew Needs
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-10
 
 HAZWOPER isn't one course. It's a set of training levels matched to what each worker does. Here's the course mix employers in common industries usually need. Use it as a starting point, then check each role against your own site safety and health plan and emergency response plan. To turn it into an order, use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/).
 
@@ -86,11 +86,11 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 [OSHA 8 Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
-8 Hours · **$89.99**
+8 Hours · **$59.99**
 
 [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
-8 Hours · **$179.99**
+8 Hours · **$69.99**
 
 ## More employer resources
 

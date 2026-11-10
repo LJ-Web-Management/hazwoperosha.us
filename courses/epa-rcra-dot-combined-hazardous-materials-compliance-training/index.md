@@ -26,7 +26,7 @@ Waste generators who also ship hazardous materials
 
 ## Planning for a crew?
 
-Employers ordering this course often add [Hazardous Waste Manifest Training](https://www.hazwoperosha.us/courses/hazardous-waste-manifest-training/) ($34.99) and [Hazardous Waste Satellite Accumulation Area Training](https://www.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training/) ($59.99). Use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) to build an order for every role on your team.
+Employers ordering this course often add [Hazardous Waste Manifest Training](https://www.hazwoperosha.us/courses/hazardous-waste-manifest-training/) ($58.99) and [Hazardous Waste Satellite Accumulation Area Training](https://www.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training/) ($59.99). Use the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) to build an order for every role on your team.
 
 ## How ordering works
 
@@ -37,11 +37,11 @@ Employers ordering this course often add [Hazardous Waste Manifest Training](htt
 ## Other courses crews order
 
 - [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://www.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training/) · 24 Hours · $229.99 - 29 CFR 1910.120(p) / RCRA
-- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://www.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training/) · 24 Hours · $199.99 - 29 CFR 1910.120 / RCRA
-- [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training/) · 8 Hours · $99.99 - 29 CFR 1910.120(p)(8) / RCRA
-- [RCRA Hazardous Waste Generator Training](https://www.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training/) · 8 Hours · $89.99 - 40 CFR 262.17 (RCRA)
+- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://www.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training/) · 24 Hours · $349.99 - 29 CFR 1910.120 / RCRA
+- [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training/) · 8 Hours · $89.99 - 29 CFR 1910.120(p)(8) / RCRA
+- [RCRA Hazardous Waste Generator Training](https://www.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training/) · 8 Hours · $134.99 - 40 CFR 262.17 (RCRA)
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://www.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training/) · 4 Hours · $99.99 - 40 CFR Parts 262 and 264/265
-- [RCRA Hazardous Waste Generator Refresher Training](https://www.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training/) · 4 Hours · $59.99 - 40 CFR 262.17 (RCRA, annual)
+- [RCRA Hazardous Waste Generator Refresher Training](https://www.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training/) · 4 Hours · $124.99 - 40 CFR 262.17 (RCRA, annual)
 
 ---
 

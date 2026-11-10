@@ -1,6 +1,6 @@
 # HAZWOPER for Public Employees and Volunteers (EPA 40 CFR Part 311)
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-10
 
 Federal OSHA covers private employers and federal agencies, but not state and local governments. That leaves a gap for city fire departments, county public works crews and other public employees who respond to chemical releases or work on contaminated sites. Two rules fill it.
 
@@ -67,7 +67,7 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/)
 
-8 Hours · **$179.99**
+8 Hours · **$199.99**
 
 ## More employer resources
 

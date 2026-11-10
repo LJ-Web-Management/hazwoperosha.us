@@ -1,6 +1,6 @@
 # Contractors, Subcontractors and Multi-Employer HAZWOPER Sites
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-10
 
 Cleanup sites are rarely one-company jobs. A prime contractor may manage drillers, excavation subs, a lab, waste haulers and specialty contractors at the same time. HAZWOPER and OSHA's enforcement policy both address who is responsible for what.
 
@@ -61,7 +61,7 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
-8 Hours · **$179.99**
+8 Hours · **$69.99**
 
 [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
 
@@ -69,7 +69,7 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 [OSHA 8 Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
-8 Hours · **$89.99**
+8 Hours · **$59.99**
 
 ## More employer resources
 
