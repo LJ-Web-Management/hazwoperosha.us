@@ -6,26 +6,26 @@ HAZWOPER isn't one course. It's a set of training levels matched to what each wo
 
 ## Environmental consulting and remediation
 
-- Field technicians, samplers, drillers and remediation crews: [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation/) or the standard [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
+- Field technicians, samplers, drillers and remediation crews: [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
 - Surveyors and staff on site briefly for limited tasks: [OSHA 24 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-24-hour-hazwoper-training/)
 - Project managers and site leads: add [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 - Everyone, every year: [OSHA 8 Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
 ## Construction on contaminated sites
 
-- Laborers, equipment operators and demolition crews on cleanup sites (29 CFR 1926.65): [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites/)
+- Laborers, equipment operators and demolition crews on cleanup sites (29 CFR 1926.65): [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
 - Trades that visit occasionally, in characterized low-exposure areas: [OSHA 24 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-24-hour-hazwoper-training/)
 - Superintendents and foremen: [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
 ## Oil and gas, and spill response contractors
 
-- Spill response technicians: [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response/)
-- Crews who deploy containment equipment: [Spill Response Equipment - Absorbent & Containment Booms](https://www.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms/) and [OSHA Spill Prevention and Response Safety Training](https://www.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training/)
+- Spill response technicians: [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
+- Crews who deploy containment equipment: [OSHA Spill Prevention and Response Safety Training](https://www.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training/)
 - Response leaders: [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/)
 
 ## Utilities and pipelines
 
-- Emergency response crews: [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response/)
+- Emergency response crews: [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
 - Field staff who may discover a leak and must report it: [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://www.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/)
 - Gas detection: [OSHA Air Monitoring and Gas Detection Training](https://www.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training/)
 
@@ -52,15 +52,15 @@ If the plan is to evacuate and call outside responders, rather than have employe
 
 ## Fire departments and HAZMAT teams
 
-- HAZMAT team members: [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/)
+- HAZMAT team members: [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
 - Incident commanders: [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/) and the combined [8 Hour HAZWOPER and Incident Command Refresher Training](https://www.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training/)
 - Public-sector employers should also read [HAZWOPER for public employees and volunteers](https://www.hazwoperosha.us/guides/hazwoper-for-public-employees-and-volunteers/)
 
 ## Warehousing, distribution and logistics
 
 - Workers who may find leaking packages: [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://www.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/)
-- Spill kit users: [Spill Response Equipment - Spill Kit Selection & Use](https://www.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use/)
-- Staff who ship hazardous waste: [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://www.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training/)
+- Spill kit users: [OSHA Spill Prevention and Response Safety Training](https://www.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training/)
+- Staff who sign hazardous waste manifests: [Hazardous Waste Manifest Training](https://www.hazwoperosha.us/courses/hazardous-waste-manifest-training/)
 
 ## Frequently asked questions
 

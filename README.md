@@ -85,8 +85,8 @@ hazwoper-osha.com LMS API with all course ids and seat counts. Orders are tagged
 The course ids come from `data/lms-ids.json`: each is the `course_id` of the course's page on hazwoper-osha.com.
 They are not the `catalogId` numbers in `data/source.json`, which are rows in the ICTrainingUS spreadsheet.
 Until 2026-11-10 the row numbers were used as LMS ids, so orders went to the wrong LMS course (row 595, the
-8-Hour Refresher, is LMS course 595, Digger Derrick). A course whose id is `null` has no match on the LMS and
-is sold by enrollment-request email. Prices in `data/source.json` match the LMS, which sets the amount charged.
+8-Hour Refresher, is LMS course 595, Digger Derrick). The 16 courses with no match on the LMS were removed
+from the catalog on 2026-11-10 (a course added back with a `null` id is sold by enrollment-request email). Prices in `data/source.json` match the LMS, which sets the amount charged.
 
 ## Custom domain
 

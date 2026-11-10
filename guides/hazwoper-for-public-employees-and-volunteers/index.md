@@ -27,7 +27,7 @@ In states without an approved plan, EPA's **Worker Protection** rule at 40 CFR P
 | --- | --- |
 | Police officers and public works staff who may arrive first, isolate and call for help | [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://www.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/) |
 | Firefighters who take defensive action (operations level, at least 8 hours) | Operations-level training, often delivered within fire service programs |
-| HAZMAT team members (technician level, at least 24 hours) | [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/) |
+| HAZMAT team members (technician level, at least 24 hours) | [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/) |
 | Incident commanders | [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/) on top of at least operations-level training |
 | Crews cleaning up contaminated sites | [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/) or [OSHA 24 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-24-hour-hazwoper-training/) by exposure |
 
@@ -56,10 +56,6 @@ Officers who may be first on scene and are expected only to recognize, isolate a
 This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes. It is not legal advice. Always check the current regulation text and your site safety and health plan.
 
 ## Courses for this crew
-
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/)
-
-40 Hours · **$249.99**
 
 [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://www.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/)
 

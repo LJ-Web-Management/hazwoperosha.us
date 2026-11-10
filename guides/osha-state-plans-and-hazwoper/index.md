@@ -25,7 +25,7 @@ Several states and territories, including Connecticut, Illinois, Maine, New Jers
 Most state plans adopt HAZWOPER word for word or with minor changes, so the training content is the same. The differences that matter most to employers:
 
 - **California** enforces Title 8 CCR 5192 through Cal/OSHA, and California clients and agencies often ask for Cal/OSHA-labeled certificates: [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://www.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/), [Cal/OSHA 24-Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training/) and [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/).
-- **Washington, Oregon, Michigan and others** publish their own rule numbers and sometimes add requirements. A [state-plan refresher](https://www.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available/) is available.
+- **Washington, Oregon, Michigan and others** publish their own rule numbers and sometimes add requirements. The federal [8-hour refresher](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/) covers the core; brief workers on the state's own rule.
 - Some states have **related rules** that affect HAZWOPER work, such as state heat illness standards or California's Injury and Illness Prevention Program requirement.
 
 ## Crews that work in more than one state
@@ -51,10 +51,6 @@ EPA's 40 CFR Part 311 applies the HAZWOPER standard to state and local governmen
 This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes. It is not legal advice. Always check the current regulation text and your site safety and health plan.
 
 ## Courses for this crew
-
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://www.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available/)
-
-8 Hours · **$84.99**
 
 [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://www.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/)
 
