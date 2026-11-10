@@ -1,6 +1,6 @@
 # Budgeting for HAZWOPER Training: A Worked Example for a 10-Person Crew
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-10
 
 HAZWOPER training costs come in two waves: a larger first-year spend for initial training and a smaller, predictable yearly spend for refreshers. Here's how to plan both, using our list prices. Every seat is billed at the list price, whatever the crew size.
 
@@ -11,10 +11,10 @@ A crew of 8 general site workers, 1 site supervisor and 1 project manager who vi
 | Course | Seats | Price per seat |
 | --- | --- | --- |
 | [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/) | 9 (8 workers + supervisor) | $249.99 |
-| [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/) | 1 | $179.99 |
+| [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/) | 1 | $69.99 |
 | [OSHA 24 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-24-hour-hazwoper-training/) | 1 (project manager) | $169.99 |
 
-In later years the crew needs 9 seats of the [8 hour refresher](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/) ($89.99 each) and 1 [supervisor refresher](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training/) ($149.99). Multiply seats by price for each line, or let the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) add it up and build the order.
+In later years the crew needs 9 seats of the [8 hour refresher](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/) ($59.99 each) and 1 [supervisor refresher](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training/) ($69.99). Multiply seats by price for each line, or let the [crew training planner](https://www.hazwoperosha.us/crew-training-planner/) add it up and build the order.
 
 ## Costs beyond the course fee
 
@@ -61,11 +61,11 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 [OSHA 8 Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
-8 Hours · **$89.99**
+8 Hours · **$59.99**
 
 [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
-8 Hours · **$179.99**
+8 Hours · **$69.99**
 
 ## More employer resources
 

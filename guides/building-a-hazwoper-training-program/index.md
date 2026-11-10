@@ -1,6 +1,6 @@
 # How to Build a HAZWOPER Training Program for Your Company
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-10
 
 A HAZWOPER training program is more than buying courses. It's a repeatable system that puts the right training in front of each worker before they need it, and proves you did. Here's how to build one.
 
@@ -65,7 +65,7 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
-8 Hours · **$179.99**
+8 Hours · **$69.99**
 
 [HAZWOPER Train-the-Trainer Certification](https://www.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification/)
 

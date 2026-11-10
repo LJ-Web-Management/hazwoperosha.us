@@ -10,7 +10,7 @@ HAZWOPER isn't one course. It's a set of training levels matched to what each wo
 
 ### Environmental consulting and remediation
 
-- Field technicians, samplers, drillers and remediation crews: OSHA 40 Hour HAZWOPER for Environmental Remediation or the standard OSHA 40 Hour HAZWOPER Training
+- Field technicians, samplers, drillers and remediation crews: OSHA 40 Hour HAZWOPER Training
 
 - Surveyors and staff on site briefly for limited tasks: OSHA 24 Hour HAZWOPER Training
 
@@ -20,7 +20,7 @@ HAZWOPER isn't one course. It's a set of training levels matched to what each wo
 
 ### Construction on contaminated sites
 
-- Laborers, equipment operators and demolition crews on cleanup sites (29 CFR 1926.65): OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)
+- Laborers, equipment operators and demolition crews on cleanup sites (29 CFR 1926.65): OSHA 40 Hour HAZWOPER Training
 
 - Trades that visit occasionally, in characterized low-exposure areas: OSHA 24 Hour HAZWOPER Training
 
@@ -28,15 +28,15 @@ HAZWOPER isn't one course. It's a set of training levels matched to what each wo
 
 ### Oil and gas, and spill response contractors
 
-- Spill response technicians: OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response
+- Spill response technicians: OSHA 40 Hour HAZWOPER Training
 
-- Crews who deploy containment equipment: Spill Response Equipment - Absorbent & Containment Booms and OSHA Spill Prevention and Response Safety Training
+- Crews who deploy containment equipment: OSHA Spill Prevention and Response Safety Training
 
 - Response leaders: OSHA 8 Hour HAZWOPER (q) Incident Command Training
 
 ### Utilities and pipelines
 
-- Emergency response crews: OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response
+- Emergency response crews: OSHA 40 Hour HAZWOPER Training
 
 - Field staff who may discover a leak and must report it: OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
@@ -72,7 +72,7 @@ If the plan is to evacuate and call outside responders, rather than have employe
 
 ### Fire departments and HAZMAT teams
 
-- HAZMAT team members: OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams
+- HAZMAT team members: OSHA 40 Hour HAZWOPER Training
 
 - Incident commanders: OSHA 8 Hour HAZWOPER (q) Incident Command Training and the combined 8 Hour HAZWOPER and Incident Command Refresher Training
 
@@ -82,9 +82,9 @@ If the plan is to evacuate and call outside responders, rather than have employe
 
 - Workers who may find leaking packages: OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
-- Spill kit users: Spill Response Equipment - Spill Kit Selection & Use
+- Spill kit users: OSHA Spill Prevention and Response Safety Training
 
-- Staff who ship hazardous waste: EPA RCRA/DOT Combined Hazardous Materials Compliance Training
+- Staff who sign hazardous waste manifests: Hazardous Waste Manifest Training
 
 ### FAQ
 
@@ -126,7 +126,7 @@ Most state plans adopt HAZWOPER word for word or with minor changes, so the trai
 
 - California enforces Title 8 CCR 5192 through Cal/OSHA, and California clients and agencies often ask for Cal/OSHA-labeled certificates: Cal/OSHA 40-Hour HAZWOPER Training (2026), Cal/OSHA 24-Hour HAZWOPER Training and Cal/OSHA 8-Hour HAZWOPER Refresher Training.
 
-- Washington, Oregon, Michigan and others publish their own rule numbers and sometimes add requirements. A state-plan refresher is available.
+- Washington, Oregon, Michigan and others publish their own rule numbers and sometimes add requirements. The federal 8-hour refresher covers the core; brief workers on the state's own rule.
 
 - Some states have related rules that affect HAZWOPER work, such as state heat illness standards or California's Injury and Illness Prevention Program requirement.
 
@@ -144,7 +144,7 @@ Most state plans adopt HAZWOPER word for word or with minor changes, so the trai
 - **Is federal HAZWOPER training accepted in state-plan states?** Usually the content is the same, since state rules must be at least as effective as federal OSHA. California crews and clients often require Cal/OSHA-specific certificates.
 - **Who enforces HAZWOPER for city and county workers in federal OSHA states?** EPA's 40 CFR Part 311 applies the HAZWOPER standard to state and local government employees in states without an OSHA-approved state plan.
 
-Related courses: 8 Hour HAZWOPER Refresher - State-Plan Versions Available (https://www.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available/); Cal/OSHA 40-Hour HAZWOPER Training (2026) (https://www.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/); Cal/OSHA 8-Hour HAZWOPER Refresher Training (https://www.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/)
+Related courses: Cal/OSHA 40-Hour HAZWOPER Training (2026) (https://www.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training/); Cal/OSHA 8-Hour HAZWOPER Refresher Training (https://www.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training/)
 
 ---
 
@@ -184,7 +184,7 @@ Police officers and public works staff who may arrive first, isolate and call fo
 
 Firefighters who take defensive action (operations level, at least 8 hours) | Operations-level training, often delivered within fire service programs | 
 
-HAZMAT team members (technician level, at least 24 hours) | OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams | 
+HAZMAT team members (technician level, at least 24 hours) | OSHA 40 Hour HAZWOPER Training | 
 
 Incident commanders | OSHA 8 Hour HAZWOPER (q) Incident Command Training on top of at least operations-level training | 
 
@@ -208,7 +208,7 @@ Crews cleaning up contaminated sites | OSHA 40 Hour HAZWOPER Training or OSHA 24
 - **Are volunteer firefighters covered by HAZWOPER?** In states without a state plan, EPA's 40 CFR Part 311 defines employees to include non-compensated workers, so volunteer responders are covered. State plans set their own coverage for volunteers.
 - **What training do police officers need for hazmat incidents?** Officers who may be first on scene and are expected only to recognize, isolate and notify generally need first responder awareness level training.
 
-Related courses: OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams (https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/); OSHA 4-Hour HAZWOPER First Responder Awareness Level Training (https://www.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/); OSHA 8 Hour HAZWOPER (q) Incident Command Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/)
+Related courses: OSHA 4-Hour HAZWOPER First Responder Awareness Level Training (https://www.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/); OSHA 8 Hour HAZWOPER (q) Incident Command Training (https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/)
 
 ---
 

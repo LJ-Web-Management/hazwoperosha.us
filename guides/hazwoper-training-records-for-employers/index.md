@@ -1,6 +1,6 @@
 # HAZWOPER Training Records: What Employers Must Keep and for How Long
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-10
 
 When an OSHA inspector, a client's safety auditor or a prime contractor asks for proof of training, you need to produce it quickly for every worker on site. Here's what to keep.
 
@@ -65,15 +65,15 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 [OSHA 8 Hour HAZWOPER Supervisor Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training/)
 
-8 Hours · **$179.99**
+8 Hours · **$69.99**
 
 [RCRA Hazardous Waste Generator Training](https://www.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training/)
 
-8 Hours · **$89.99**
+8 Hours · **$134.99**
 
 [OSHA 8 Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
-8 Hours · **$89.99**
+8 Hours · **$59.99**
 
 ## More employer resources
 

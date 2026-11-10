@@ -93,10 +93,10 @@ module.exports = ({ BRAND, PHONE, PHONE_HREF, EMAIL, money }) => {
   <table>
     <thead><tr><th>Industry</th><th>Courses most crews need</th></tr></thead>
     <tbody>
-      <tr><td>Environmental consulting &amp; remediation</td><td>{{course:osha-40-hour-hazwoper-for-environmental-remediation|40 Hour (Remediation)}}, {{course:osha-8-hour-hazwoper-supervisor-training|8 Hour Supervisor}}, {{course:osha-8-hour-hazwoper-refresher-training|8 Hour Refresher}}</td></tr>
-      <tr><td>Construction on contaminated sites</td><td>{{course:osha-40-hour-hazwoper-for-construction-contaminated-sites|40 Hour (Construction)}}, {{course:osha-24-hour-hazwoper-training|24 Hour}} for occasional trades</td></tr>
-      <tr><td>Oil &amp; gas and spill response</td><td>{{course:osha-40-hour-hazwoper-for-oil-and-gas-spill-response|40 Hour (Oil &amp; Gas Spill Response)}}, {{course:osha-8-hour-hazwoper-q-incident-command-training|Incident Command}}</td></tr>
-      <tr><td>Utilities &amp; pipelines</td><td>{{course:osha-40-hour-hazwoper-for-utility-pipeline-emergency-response|40 Hour (Utility/Pipeline)}}, {{course:osha-4-hour-hazwoper-first-responder-awareness-level-training|First Responder Awareness}}</td></tr>
+      <tr><td>Environmental consulting &amp; remediation</td><td>{{course:osha-40-hour-hazwoper-training|40 Hour}}, {{course:osha-8-hour-hazwoper-supervisor-training|8 Hour Supervisor}}, {{course:osha-8-hour-hazwoper-refresher-training|8 Hour Refresher}}</td></tr>
+      <tr><td>Construction on contaminated sites</td><td>{{course:osha-40-hour-hazwoper-training|40 Hour}}, {{course:osha-24-hour-hazwoper-training|24 Hour}} for occasional trades</td></tr>
+      <tr><td>Oil &amp; gas and spill response</td><td>{{course:osha-40-hour-hazwoper-training|40 Hour}}, {{course:osha-8-hour-hazwoper-q-incident-command-training|Incident Command}}</td></tr>
+      <tr><td>Utilities &amp; pipelines</td><td>{{course:osha-40-hour-hazwoper-training|40 Hour}}, {{course:osha-4-hour-hazwoper-first-responder-awareness-level-training|First Responder Awareness}}</td></tr>
       <tr><td>Manufacturing &amp; chemical plants</td><td>{{course:manufacturing-emergency-response-team-ert-training|ERT Training}}, First Responder Awareness for all staff</td></tr>
       <tr><td>Waste management &amp; TSDFs</td><td>{{course:osha-24-hour-hazwoper-rcra-tsd-operations-training|24 Hour TSD}}, {{course:hazardous-waste-manifest-training|Manifest Training}}</td></tr>
       <tr><td>Hospitals, labs &amp; universities</td><td>{{course:rcra-hazardous-waste-generator-training|RCRA Generator}}, {{course:hazardous-waste-satellite-accumulation-area-training|Satellite Accumulation}}</td></tr>

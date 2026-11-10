@@ -1,6 +1,6 @@
 # Onboarding New Hires With Prior HAZWOPER Training
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-10
 
 Experienced hires often arrive with a HAZWOPER certificate from a previous employer or training provider. You don't have to retrain them from scratch, but you do have to check what they bring and fill the gaps.
 
@@ -59,7 +59,7 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 [OSHA 8 Hour HAZWOPER Refresher Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training/)
 
-8 Hours · **$89.99**
+8 Hours · **$59.99**
 
 [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/)
 

@@ -14,7 +14,7 @@ module.exports = [
 
 <h2>Environmental consulting and remediation</h2>
 <ul>
-<li>Field technicians, samplers, drillers and remediation crews: {{course:osha-40-hour-hazwoper-for-environmental-remediation}} or the standard {{course:osha-40-hour-hazwoper-training}}</li>
+<li>Field technicians, samplers, drillers and remediation crews: {{course:osha-40-hour-hazwoper-training}}</li>
 <li>Surveyors and staff on site briefly for limited tasks: {{course:osha-24-hour-hazwoper-training}}</li>
 <li>Project managers and site leads: add {{course:osha-8-hour-hazwoper-supervisor-training}}</li>
 <li>Everyone, every year: {{course:osha-8-hour-hazwoper-refresher-training}}</li>
@@ -22,21 +22,21 @@ module.exports = [
 
 <h2>Construction on contaminated sites</h2>
 <ul>
-<li>Laborers, equipment operators and demolition crews on cleanup sites (29 CFR 1926.65): {{course:osha-40-hour-hazwoper-for-construction-contaminated-sites}}</li>
+<li>Laborers, equipment operators and demolition crews on cleanup sites (29 CFR 1926.65): {{course:osha-40-hour-hazwoper-training}}</li>
 <li>Trades that visit occasionally, in characterized low-exposure areas: {{course:osha-24-hour-hazwoper-training}}</li>
 <li>Superintendents and foremen: {{course:osha-8-hour-hazwoper-supervisor-training}}</li>
 </ul>
 
 <h2>Oil and gas, and spill response contractors</h2>
 <ul>
-<li>Spill response technicians: {{course:osha-40-hour-hazwoper-for-oil-and-gas-spill-response}}</li>
-<li>Crews who deploy containment equipment: {{course:spill-response-equipment-absorbent-and-containment-booms}} and {{course:osha-spill-prevention-and-response-safety-training}}</li>
+<li>Spill response technicians: {{course:osha-40-hour-hazwoper-training}}</li>
+<li>Crews who deploy containment equipment: {{course:osha-spill-prevention-and-response-safety-training}}</li>
 <li>Response leaders: {{course:osha-8-hour-hazwoper-q-incident-command-training}}</li>
 </ul>
 
 <h2>Utilities and pipelines</h2>
 <ul>
-<li>Emergency response crews: {{course:osha-40-hour-hazwoper-for-utility-pipeline-emergency-response}}</li>
+<li>Emergency response crews: {{course:osha-40-hour-hazwoper-training}}</li>
 <li>Field staff who may discover a leak and must report it: {{course:osha-4-hour-hazwoper-first-responder-awareness-level-training}}</li>
 <li>Gas detection: {{course:osha-air-monitoring-and-gas-detection-training}}</li>
 </ul>
@@ -66,7 +66,7 @@ module.exports = [
 
 <h2>Fire departments and HAZMAT teams</h2>
 <ul>
-<li>HAZMAT team members: {{course:osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams}}</li>
+<li>HAZMAT team members: {{course:osha-40-hour-hazwoper-training}}</li>
 <li>Incident commanders: {{course:osha-8-hour-hazwoper-q-incident-command-training}} and the combined {{course:8-hour-hazwoper-and-incident-command-refresher-training}}</li>
 <li>Public-sector employers should also read {{guide:hazwoper-for-public-employees-and-volunteers|HAZWOPER for public employees and volunteers}}</li>
 </ul>
@@ -74,8 +74,8 @@ module.exports = [
 <h2>Warehousing, distribution and logistics</h2>
 <ul>
 <li>Workers who may find leaking packages: {{course:osha-4-hour-hazwoper-first-responder-awareness-level-training}}</li>
-<li>Spill kit users: {{course:spill-response-equipment-spill-kit-selection-and-use}}</li>
-<li>Staff who ship hazardous waste: {{course:epa-rcra-dot-combined-hazardous-materials-compliance-training}}</li>
+<li>Spill kit users: {{course:osha-spill-prevention-and-response-safety-training}}</li>
+<li>Staff who sign hazardous waste manifests: {{course:hazardous-waste-manifest-training}}</li>
 </ul>
 `,
     faq: [
@@ -90,7 +90,7 @@ module.exports = [
     title: 'OSHA State Plans and HAZWOPER: Which Rules Apply to Your Crew',
     short: 'State plans & HAZWOPER',
     desc: 'Which HAZWOPER rules apply in each state: federal OSHA states, state plans covering private employers, public-employee-only plans, California\'s 8 CCR 5192, and multi-state crews.',
-    related: ['8-hour-hazwoper-refresher-state-plan-versions-available', 'cal-osha-40-hour-hazwoper-training', 'cal-osha-8-hour-hazwoper-refresher-training'],
+    related: ['cal-osha-40-hour-hazwoper-training', 'cal-osha-8-hour-hazwoper-refresher-training'],
     body: `
 <p>The OSH Act lets states run their own occupational safety and health programs, called <strong>state plans</strong>, as long as they are at least as effective as federal OSHA. Where you send a crew decides which agency enforces HAZWOPER and which version of the rule applies.</p>
 
@@ -113,7 +113,7 @@ module.exports = [
 <p>Most state plans adopt HAZWOPER word for word or with minor changes, so the training content is the same. The differences that matter most to employers:</p>
 <ul>
 <li><strong>California</strong> enforces Title 8 CCR 5192 through Cal/OSHA, and California clients and agencies often ask for Cal/OSHA-labeled certificates: {{course:cal-osha-40-hour-hazwoper-training}}, {{course:cal-osha-24-hour-hazwoper-training}} and {{course:cal-osha-8-hour-hazwoper-refresher-training}}.</li>
-<li><strong>Washington, Oregon, Michigan and others</strong> publish their own rule numbers and sometimes add requirements. A {{course:8-hour-hazwoper-refresher-state-plan-versions-available|state-plan refresher}} is available.</li>
+<li><strong>Washington, Oregon, Michigan and others</strong> publish their own rule numbers and sometimes add requirements. The federal {{course:osha-8-hour-hazwoper-refresher-training|8-hour refresher}} covers the core; brief workers on the state's own rule.</li>
 <li>Some states have <strong>related rules</strong> that affect HAZWOPER work, such as state heat illness standards or California's Injury and Illness Prevention Program requirement.</li>
 </ul>
 
@@ -136,7 +136,7 @@ module.exports = [
     title: 'HAZWOPER for Public Employees and Volunteers (EPA 40 CFR Part 311)',
     short: 'Public employees & volunteers',
     desc: 'How HAZWOPER applies to state and local government employees and volunteer responders: EPA 40 CFR Part 311, public-sector state plans, fire departments, public works and training levels.',
-    related: ['osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams', 'osha-4-hour-hazwoper-first-responder-awareness-level-training', 'osha-8-hour-hazwoper-q-incident-command-training'],
+    related: ['osha-4-hour-hazwoper-first-responder-awareness-level-training', 'osha-8-hour-hazwoper-q-incident-command-training'],
     body: `
 <p>Federal OSHA covers private employers and federal agencies, but not state and local governments. That leaves a gap for city fire departments, county public works crews and other public employees who respond to chemical releases or work on contaminated sites. Two rules fill it.</p>
 
@@ -162,7 +162,7 @@ module.exports = [
 <tbody>
 <tr><td>Police officers and public works staff who may arrive first, isolate and call for help</td><td>{{course:osha-4-hour-hazwoper-first-responder-awareness-level-training}}</td></tr>
 <tr><td>Firefighters who take defensive action (operations level, at least 8 hours)</td><td>Operations-level training, often delivered within fire service programs</td></tr>
-<tr><td>HAZMAT team members (technician level, at least 24 hours)</td><td>{{course:osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams}}</td></tr>
+<tr><td>HAZMAT team members (technician level, at least 24 hours)</td><td>{{course:osha-40-hour-hazwoper-training}}</td></tr>
 <tr><td>Incident commanders</td><td>{{course:osha-8-hour-hazwoper-q-incident-command-training}} on top of at least operations-level training</td></tr>
 <tr><td>Crews cleaning up contaminated sites</td><td>{{course:osha-40-hour-hazwoper-training}} or {{course:osha-24-hour-hazwoper-training}} by exposure</td></tr>
 </tbody></table></div>

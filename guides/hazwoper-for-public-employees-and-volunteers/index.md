@@ -1,6 +1,6 @@
 # HAZWOPER for Public Employees and Volunteers (EPA 40 CFR Part 311)
 
-Employer guide · 2 min read · Updated 2026-10-30
+Employer guide · 2 min read · Updated 2026-11-10
 
 Federal OSHA covers private employers and federal agencies, but not state and local governments. That leaves a gap for city fire departments, county public works crews and other public employees who respond to chemical releases or work on contaminated sites. Two rules fill it.
 
@@ -27,7 +27,7 @@ In states without an approved plan, EPA's **Worker Protection** rule at 40 CFR P
 | --- | --- |
 | Police officers and public works staff who may arrive first, isolate and call for help | [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://www.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/) |
 | Firefighters who take defensive action (operations level, at least 8 hours) | Operations-level training, often delivered within fire service programs |
-| HAZMAT team members (technician level, at least 24 hours) | [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/) |
+| HAZMAT team members (technician level, at least 24 hours) | [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/) |
 | Incident commanders | [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/) on top of at least operations-level training |
 | Crews cleaning up contaminated sites | [OSHA 40 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-training/) or [OSHA 24 Hour HAZWOPER Training](https://www.hazwoperosha.us/courses/osha-24-hour-hazwoper-training/) by exposure |
 
@@ -57,17 +57,13 @@ This guide summarizes federal OSHA, Cal/OSHA and EPA rules for training purposes
 
 ## Courses for this crew
 
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://www.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams/)
-
-40 Hours · **$249.99**
-
 [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://www.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training/)
 
 4 Hours · **$61.99**
 
 [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://www.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training/)
 
-8 Hours · **$179.99**
+8 Hours · **$199.99**
 
 ## More employer resources
 
